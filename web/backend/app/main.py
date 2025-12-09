@@ -13,12 +13,17 @@ app = FastAPI(
 # Get frontend URL from environment variable (for production)
 FRONTEND_URL = os.getenv("FRONTEND_URL", "http://localhost:3000")
 
+# Normalize the URL (remove trailing slash if present)
+if FRONTEND_URL.endswith("/"):
+    FRONTEND_URL = FRONTEND_URL.rstrip("/")
+
 # Configure CORS to allow frontend to access the API
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
         FRONTEND_URL,  # Production frontend URL
+        "https://cfb-model-project-43rt5k94m-noah-browns-projects-b3fc0845.vercel.app",  # Explicitly add your Vercel URL
     ],
     allow_credentials=True,
     allow_methods=["*"],
