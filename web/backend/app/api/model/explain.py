@@ -96,7 +96,13 @@ def load_model() -> XGBRegressor:
     """Load the trained XGBoost model."""
     # Get project root - works in both local and Railway
     if os.path.exists("/app"):
-        PROJECT_ROOT = Path("/app")
+        # Railway deployment - /app is web/backend, repo root is one level up
+        potential_root = Path("/app").parent
+        if (potential_root / "models").exists() or (potential_root / "outputs").exists():
+            PROJECT_ROOT = potential_root
+        else:
+            # Fallback: try /app itself (if files were copied there)
+            PROJECT_ROOT = Path("/app")
     elif os.path.exists(Path(__file__).parent.parent.parent.parent.parent.parent):
         PROJECT_ROOT = Path(__file__).parent.parent.parent.parent.parent.parent
     else:
@@ -113,9 +119,13 @@ def load_model() -> XGBRegressor:
 
 def load_training_data():
     """Load the training dataset."""
-    # Same path logic as above
     if os.path.exists("/app"):
-        PROJECT_ROOT = Path("/app")
+        # Railway deployment - /app is web/backend, repo root is one level up
+        potential_root = Path("/app").parent
+        if (potential_root / "data").exists() or (potential_root / "models").exists():
+            PROJECT_ROOT = potential_root
+        else:
+            PROJECT_ROOT = Path("/app")
     elif os.path.exists(Path(__file__).parent.parent.parent.parent.parent.parent):
         PROJECT_ROOT = Path(__file__).parent.parent.parent.parent.parent.parent
     else:
