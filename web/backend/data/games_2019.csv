@@ -1,0 +1,1578 @@
+season,week,home_team,away_team,home_points,away_points,neutral_site,home_conference,away_conference
+2019,1,Colgate,Villanova,14,34,False,Patriot,CAA
+2019,1,Samford,Youngstown State,22,45,True,Southern,MVFC
+2019,1,Florida,Miami,24,20,True,SEC,ACC
+2019,1,Hawai'i,Arizona,45,38,False,Mountain West,Pac-12
+2019,1,Morehead State,Union College,44,7,False,Pioneer,
+2019,1,Murray State,Pikeville,59,20,False,OVC,
+2019,1,Chattanooga,Eastern Illinois,24,10,False,Southern,OVC
+2019,1,Delaware,Delaware State,31,13,False,CAA,MEAC
+2019,1,Richmond,Jacksonville,38,19,False,CAA,Pioneer
+2019,1,Stony Brook,Bryant,35,10,False,CAA,NEC
+2019,1,Eastern Kentucky,Valparaiso,53,7,False,OVC,Pioneer
+2019,1,Bowling Green,Morgan State,46,3,False,Mid-American,MEAC
+2019,1,Cincinnati,UCLA,24,14,False,American Athletic,Pac-12
+2019,1,Buffalo,Robert Morris,38,10,False,Mid-American,NEC
+2019,1,UConn,Wagner,24,21,False,American Athletic,NEC
+2019,1,Charlotte,Gardner-Webb,49,28,False,Conference USA,Big South
+2019,1,Western Kentucky,Central Arkansas,28,35,False,Conference USA,Southland
+2019,1,UCF,Florida A&M,62,0,False,American Athletic,MEAC
+2019,1,Southeast Missouri State,Southern Illinois,44,26,False,OVC,MVFC
+2019,1,UT Martin,Northwestern State,42,20,False,OVC,Southland
+2019,1,Austin Peay,North Carolina Central,41,10,False,OVC,MEAC
+2019,1,SE Louisiana,Jacksonville State,35,14,False,Southland,OVC
+2019,1,Lamar,Bethel University Tennessee,65,16,False,Southland,
+2019,1,North Alabama,Western Illinois,26,17,False,Big South,MVFC
+2019,1,Tulane,Florida International,42,14,False,American Athletic,Conference USA
+2019,1,Clemson,Georgia Tech,52,14,False,ACC,ACC
+2019,1,UAB,Alabama State,24,19,False,Conference USA,SWAC
+2019,1,Texas A&M,Texas State,41,7,False,SEC,Sun Belt
+2019,1,Central Michigan,UAlbany,38,21,False,Mid-American,CAA
+2019,1,Minnesota,South Dakota State,28,21,False,Big Ten,MVFC
+2019,1,Northern Arizona,Missouri State,37,23,False,Big Sky,MVFC
+2019,1,San José State,Northern Colorado,35,18,False,Mountain West,Big Sky
+2019,1,Arizona State,Kent State,30,7,False,Pac-12,Mid-American
+2019,1,BYU,Utah,12,30,False,FBS Independents,Pac-12
+2019,1,Army,Rice,14,7,False,FBS Independents,Conference USA
+2019,1,Maine,Sacred Heart,42,14,False,CAA,NEC
+2019,1,Michigan State,Tulsa,28,7,False,Big Ten,American Athletic
+2019,1,Rutgers,Massachusetts,48,21,False,Big Ten,FBS Independents
+2019,1,South Florida,Wisconsin,0,49,False,American Athletic,Big Ten
+2019,1,Wake Forest,Utah State,38,35,False,ACC,Mountain West
+2019,1,Nevada,Purdue,34,31,False,Mountain West,Big Ten
+2019,1,Colorado,Colorado State,52,31,True,Pac-12,Mountain West
+2019,1,Oregon State,Oklahoma State,36,52,False,Pac-12,Big 12
+2019,1,Ball State,Indiana,24,34,True,Mid-American,Big Ten
+2019,1,Kansas,Indiana State,24,17,False,Big 12,MVFC
+2019,1,Memphis,Ole Miss,15,10,False,American Athletic,SEC
+2019,1,Nebraska,South Alabama,35,21,False,Big Ten,Sun Belt
+2019,1,Florida State,Boise State,31,36,False,ACC,Mountain West
+2019,1,Illinois,Akron,42,3,False,Big Ten,Mid-American
+2019,1,Louisiana,Mississippi State,28,38,True,Sun Belt,SEC
+2019,1,Kentucky,Toledo,38,24,False,SEC,Mid-American
+2019,1,Maryland,Howard,79,0,False,Big Ten,MEAC
+2019,1,Iowa State,Northern Iowa,29,26,False,Big 12,MVFC
+2019,1,NC State,East Carolina,34,6,False,ACC,American Athletic
+2019,1,Ohio State,Florida Atlantic,45,21,False,Big Ten,Conference USA
+2019,1,Lehigh,St. Francis (PA),13,14,False,Patriot,NEC
+2019,1,Davidson,Georgetown,27,20,False,Pioneer,Patriot
+2019,1,Furman,Charleston Southern,46,13,False,Southern,Big South
+2019,1,West Virginia,James Madison,20,13,False,Big 12,CAA
+2019,1,Ohio,Rhode Island,41,20,False,Mid-American,CAA
+2019,1,Merrimack,Virginia University Of Lynchburg,45,14,False,FCS Independents,
+2019,1,The Citadel,Towson,21,28,False,Southern,CAA
+2019,1,Temple,Bucknell,56,12,False,American Athletic,Patriot
+2019,1,Washington,Eastern Washington,47,14,False,Pac-12,Big Sky
+2019,1,South Dakota,Montana,17,31,False,MVFC,Big Sky
+2019,1,Air Force,Colgate,48,7,False,Mountain West,Patriot
+2019,1,App State,East Tennessee State,42,7,False,Sun Belt,Southern
+2019,1,Coastal Carolina,Eastern Michigan,23,30,False,Sun Belt,Mid-American
+2019,1,North Carolina,South Carolina,24,20,True,ACC,SEC
+2019,1,Alabama,Duke,42,3,True,SEC,ACC
+2019,1,Penn State,Idaho,79,7,False,Big Ten,Big Sky
+2019,1,Tennessee,Georgia State,30,38,False,SEC,Sun Belt
+2019,1,Navy,Holy Cross,45,7,False,American Athletic,Patriot
+2019,1,North Dakota State,Butler,57,10,False,MVFC,Pioneer
+2019,1,Texas Tech,Montana State,45,10,False,Big 12,Big Sky
+2019,1,Boston College,Virginia Tech,35,28,False,ACC,ACC
+2019,1,Arkansas,Portland State,20,13,False,SEC,Big Sky
+2019,1,Stanford,Northwestern,17,7,False,Pac-12,Big Ten
+2019,1,Cal Poly,San Diego,52,34,False,Big Sky,Pioneer
+2019,1,North Dakota,Drake,47,7,False,FCS Independents,Pioneer
+2019,1,Western Carolina,Mercer,27,49,False,Southern,Southern
+2019,1,Fordham,Central Connecticut,23,26,False,Patriot,NEC
+2019,1,South Carolina State,Wofford,28,13,False,MEAC,Southern
+2019,1,William & Mary,Lafayette,30,17,False,CAA,Patriot
+2019,1,Liberty,Syracuse,0,24,False,FBS Independents,ACC
+2019,1,North Carolina A&T,Elon,24,21,False,MEAC,CAA
+2019,1,UTSA,Incarnate Word,35,7,False,Conference USA,Southland
+2019,1,New Mexico,Sam Houston,39,31,False,Mountain West,Southland
+2019,1,Kennesaw State,Point University,59,0,False,Big South,
+2019,1,Hampton,Elizabeth City State,65,7,False,Big South,CIAA
+2019,1,Troy,Campbell,43,14,False,Sun Belt,Big South
+2019,1,California,UC Davis,27,13,False,Pac-12,Big Sky
+2019,1,Marshall,VMI,56,17,False,Conference USA,Southern
+2019,1,Texas Southern,Prairie View A&M,23,44,False,SWAC,SWAC
+2019,1,Tennessee Tech,Samford,59,58,False,OVC,Southern
+2019,1,Northern Illinois,Illinois State,24,10,False,Mid-American,MVFC
+2019,1,Western Michigan,Monmouth,48,13,False,Mid-American,Big South
+2019,1,McNeese,Southern,34,28,False,Southland,SWAC
+2019,1,Baylor,Stephen F. Austin,56,17,False,Big 12,Southland
+2019,1,Kansas State,Nicholls,49,14,False,Big 12,Southland
+2019,1,Tennessee State,Mississippi Valley State,26,20,False,OVC,SWAC
+2019,1,Southern Miss,Alcorn State,38,10,False,Conference USA,SWAC
+2019,1,Old Dominion,Norfolk State,24,21,False,Conference USA,MEAC
+2019,1,Arkansas State,SMU,30,37,False,Sun Belt,American Athletic
+2019,1,Vanderbilt,Georgia,6,30,False,SEC,SEC
+2019,1,Wyoming,Missouri,37,31,False,Mountain West,SEC
+2019,1,Pittsburgh,Virginia,14,30,False,ACC,ACC
+2019,1,LSU,Georgia Southern,55,3,False,SEC,Sun Belt
+2019,1,Iowa,Miami (OH),38,14,False,Big Ten,Mid-American
+2019,1,Michigan,Middle Tennessee,40,21,False,Big Ten,Conference USA
+2019,1,Auburn,Oregon,27,21,True,SEC,Pac-12
+2019,1,North Texas,Abilene Christian,51,31,False,Conference USA,Southland
+2019,1,UTEP,Houston Christian,36,34,False,Conference USA,Southland
+2019,1,Texas,Louisiana Tech,45,14,False,Big 12,Conference USA
+2019,1,UL Monroe,Grambling,31,9,False,Sun Belt,SWAC
+2019,1,TCU,Arkansas-Pine Bluff,39,7,False,Big 12,SWAC
+2019,1,San Diego State,Weber State,6,0,False,Mountain West,Big Sky
+2019,1,Sacramento State,Southern Oregon,77,19,False,Big Sky,
+2019,1,Washington State,New Mexico State,58,7,False,Pac-12,FBS Independents
+2019,1,UNLV,Southern Utah,56,23,False,Mountain West,Big Sky
+2019,1,USC,Fresno State,31,23,False,Pac-12,Mountain West
+2019,1,Jackson State,Bethune-Cookman,15,36,False,SWAC,MEAC
+2019,1,Alabama A&M,Morehouse College,35,30,False,SWAC,SIAC
+2019,1,Oklahoma,Houston,49,31,False,Big 12,American Athletic
+2019,1,Louisville,Notre Dame,17,35,False,ACC,FBS Independents
+2019,2,Idaho State,Western Colorado,38,13,False,Big Sky,Rocky Mountain
+2019,2,Virginia,William & Mary,52,17,False,ACC,CAA
+2019,2,Rice,Wake Forest,21,41,False,Conference USA,ACC
+2019,2,Boise State,Marshall,14,7,False,Mountain West,Conference USA
+2019,2,Arizona State,Sacramento State,19,7,False,Pac-12,Big Sky
+2019,2,Pittsburgh,Ohio,20,10,False,ACC,Mid-American
+2019,2,Missouri,West Virginia,38,7,False,SEC,Big 12
+2019,2,Virginia Tech,Old Dominion,31,17,False,ACC,Conference USA
+2019,2,Iowa,Rutgers,30,0,False,Big Ten,Big Ten
+2019,2,Memphis,Southern,55,24,False,American Athletic,SWAC
+2019,2,South Carolina,Charleston Southern,72,10,False,SEC,Big South
+2019,2,Ohio State,Cincinnati,42,0,False,Big Ten,American Athletic
+2019,2,Kent State,Kennesaw State,26,23,False,Mid-American,Big South
+2019,2,Akron,UAB,20,31,False,Mid-American,Conference USA
+2019,2,Michigan,Army,24,21,False,Big Ten,FBS Independents
+2019,2,Kansas State,Bowling Green,52,0,False,Big 12,Mid-American
+2019,2,Maryland,Syracuse,63,20,False,Big Ten,ACC
+2019,2,Purdue,Vanderbilt,42,24,False,Big Ten,SEC
+2019,2,NC State,Western Carolina,41,0,False,ACC,Southern
+2019,2,Georgetown,Marist,43,3,False,Patriot,Pioneer
+2019,2,Monmouth,Lafayette,24,21,False,Big South,Patriot
+2019,2,Utah,Northern Illinois,35,17,False,Pac-12,Mid-American
+2019,2,Robert Morris,Kentucky State,7,13,False,NEC,SIAC
+2019,2,Indiana State,Dayton,35,42,False,MVFC,Pioneer
+2019,2,Holy Cross,New Hampshire,13,10,False,Patriot,CAA
+2019,2,VMI,Mars Hill,63,21,False,Southern,South Atlantic
+2019,2,Youngstown State,Howard,54,28,False,MVFC,MEAC
+2019,2,Elon,The Citadel,35,28,False,CAA,Southern
+2019,2,Presbyterian,Mercer,7,45,False,Big South,Southern
+2019,2,Ball State,Fordham,57,29,False,Mid-American,Patriot
+2019,2,Georgia Tech,South Florida,14,10,False,ACC,American Athletic
+2019,2,Miami (OH),Tennessee Tech,48,17,False,Mid-American,OVC
+2019,2,Austin Peay,Central Arkansas,16,24,False,OVC,Southland
+2019,2,Colorado,Nebraska,34,31,False,Pac-12,Big Ten
+2019,2,Indiana,Eastern Illinois,52,0,False,Big Ten,OVC
+2019,2,Clemson,Texas A&M,24,10,False,ACC,SEC
+2019,2,Boston College,Richmond,45,13,False,ACC,CAA
+2019,2,Massachusetts,Southern Illinois,20,45,False,FBS Independents,MVFC
+2019,2,Mississippi State,Southern Miss,38,15,False,SEC,Conference USA
+2019,2,Louisiana Tech,Grambling,20,14,False,Conference USA,SWAC
+2019,2,UConn,Illinois,23,31,False,American Athletic,Big Ten
+2019,2,North Dakota State,North Dakota,38,7,False,MVFC,FCS Independents
+2019,2,App State,Charlotte,56,41,False,Sun Belt,Conference USA
+2019,2,Wisconsin,Central Michigan,61,0,False,Big Ten,Mid-American
+2019,2,Alabama,New Mexico State,62,10,False,SEC,FBS Independents
+2019,2,South Carolina State,Lane College,34,0,False,MEAC,SIAC
+2019,2,Duquesne,Walsh,44,3,False,NEC,Great Midwest Athletic
+2019,2,Colorado State,Western Illinois,38,13,False,Mountain West,MVFC
+2019,2,Baylor,UTSA,63,14,False,Big 12,Conference USA
+2019,2,Georgia,Murray State,63,17,False,SEC,OVC
+2019,2,Eastern Washington,Lindenwood,59,31,False,Big Sky,Great Lakes
+2019,2,UCLA,San Diego State,14,23,False,Pac-12,Mountain West
+2019,2,Northern Iowa,Southern Utah,34,14,False,MVFC,Big Sky
+2019,2,Florida State,UL Monroe,45,44,False,ACC,Sun Belt
+2019,2,San Diego,UC Davis,35,38,False,Pioneer,Big Sky
+2019,2,Washington State,Northern Colorado,59,17,False,Pac-12,Big Sky
+2019,2,Portland State,Simon Fraser,70,7,False,Big Sky,Great Northwest
+2019,2,Duke,North Carolina A&T,45,13,False,ACC,MEAC
+2019,2,East Carolina,Gardner-Webb,48,9,False,American Athletic,Big South
+2019,2,Butler,Indiana Wesleyan,30,27,False,Pioneer,
+2019,2,Alabama State,Tuskegee,38,31,False,SWAC,SIAC
+2019,2,Norfolk State,Virginia St,44,21,False,MEAC,CIAA
+2019,2,Towson,North Carolina Central,42,3,False,CAA,MEAC
+2019,2,James Madison,St. Francis (PA),44,7,False,CAA,NEC
+2019,2,Villanova,Lehigh,38,10,False,CAA,Patriot
+2019,2,Hampton,Virginia Union,17,36,False,Big South,CIAA
+2019,2,Campbell,Shaw,38,14,False,Big South,CIAA
+2019,2,Davidson,Virginia University Of Lynchburg,45,7,False,Pioneer,
+2019,2,Sacred Heart,Bucknell,30,10,False,NEC,Patriot
+2019,2,Stetson,Louisiana College,58,13,False,Pioneer,American Southwest
+2019,2,Wagner,East Stroudsburg University,14,24,False,NEC,Pennsylvania State Athletic
+2019,2,Central Connecticut,Merrimack,40,37,False,NEC,FCS Independents
+2019,2,Georgia Southern,Maine,26,18,False,Sun Belt,CAA
+2019,2,SMU,North Texas,49,27,False,American Athletic,Conference USA
+2019,2,Louisville,Eastern Kentucky,42,0,False,ACC,OVC
+2019,2,Florida International,Western Kentucky,14,20,False,Conference USA,Conference USA
+2019,2,Texas State,Wyoming,14,23,False,Sun Belt,Mountain West
+2019,2,Tennessee,BYU,26,29,False,SEC,FBS Independents
+2019,2,Florida Atlantic,UCF,14,48,False,Conference USA,American Athletic
+2019,2,Incarnate Word,Texas Southern,63,44,False,Southland,SWAC
+2019,2,South Dakota State,Long Island University,38,3,False,MVFC,NEC
+2019,2,Oklahoma,South Dakota,70,14,False,Big 12,MVFC
+2019,2,Middle Tennessee,Tennessee State,45,26,False,Conference USA,OVC
+2019,2,Georgia State,Furman,48,42,False,Sun Belt,Southern
+2019,2,Oklahoma State,McNeese,56,14,False,Big 12,Southland
+2019,2,South Alabama,Jackson State,37,14,False,Sun Belt,SWAC
+2019,2,Kansas,Coastal Carolina,7,12,False,Big 12,Sun Belt
+2019,2,Rhode Island,Delaware,36,44,False,CAA,CAA
+2019,2,UAlbany,Bryant,45,3,False,CAA,NEC
+2019,2,Jacksonville State,Chattanooga,41,20,False,OVC,Southern
+2019,2,Alabama A&M,Arkansas-Pine Bluff,34,52,False,SWAC,SWAC
+2019,2,Alcorn State,Mississippi College,45,7,False,SWAC,Gulf South
+2019,2,Lamar,Mississippi Valley State,23,20,False,Southland,SWAC
+2019,2,Abilene Christian,Phoenix,66,14,False,Southland,
+2019,2,Houston Christian,Texas Wesleyan,58,13,False,Southland,
+2019,2,Northwestern State,Midwestern State,7,33,False,Southland,Lone Star
+2019,2,Sam Houston,Oklahoma Panhandle St,77,0,False,Southland,Independent DII
+2019,2,Stephen F. Austin,Tarleton State,26,37,False,Southland,Lone Star
+2019,2,Drake,Truman State,7,10,False,Pioneer,Great Lakes
+2019,2,Illinois State,Morehead State,42,14,False,MVFC,Pioneer
+2019,2,Kentucky,Eastern Michigan,38,17,False,SEC,Mid-American
+2019,2,East Tennessee State,Shorter,48,10,False,Southern,Gulf South
+2019,2,Louisiana,Liberty,35,14,False,Sun Belt,FBS Independents
+2019,2,Utah State,Stony Brook,62,7,False,Mountain West,CAA
+2019,2,Texas,LSU,38,45,False,Big 12,SEC
+2019,2,Ole Miss,Arkansas,31,17,False,SEC,SEC
+2019,2,Oregon,Nevada,77,6,False,Pac-12,Mountain West
+2019,2,Florida,UT Martin,45,0,False,SEC,OVC
+2019,2,Michigan State,Western Michigan,51,17,False,Big Ten,Mid-American
+2019,2,Auburn,Tulane,24,6,False,SEC,American Athletic
+2019,2,Penn State,Buffalo,45,13,False,Big Ten,Mid-American
+2019,2,Montana State,Southeast Missouri State,38,17,False,Big Sky,OVC
+2019,2,Weber State,Cal Poly,41,24,False,Big Sky,Big Sky
+2019,2,Texas Tech,UTEP,38,3,False,Big 12,Conference USA
+2019,2,North Carolina,Miami,28,25,False,ACC,ACC
+2019,2,Houston,Prairie View A&M,37,17,False,American Athletic,SWAC
+2019,2,San José State,Tulsa,16,34,False,Mountain West,American Athletic
+2019,2,Montana,North Alabama,61,17,False,Big Sky,Big South
+2019,2,Idaho,Central Washington,41,31,False,Big Sky,Great Northwest
+2019,2,UNLV,Arkansas State,17,43,False,Mountain West,Sun Belt
+2019,2,Fresno State,Minnesota,35,38,False,Mountain West,Big Ten
+2019,2,Washington,California,19,20,False,Pac-12,Pac-12
+2019,2,USC,Stanford,45,20,False,Pac-12,Pac-12
+2019,2,Arizona,Northern Arizona,65,41,False,Pac-12,Big Sky
+2019,2,Hawai'i,Oregon State,31,28,False,Mountain West,Pac-12
+2019,3,Wake Forest,North Carolina,24,18,False,ACC,ACC
+2019,3,Boston College,Kansas,24,48,False,ACC,Big 12
+2019,3,Houston,Washington State,24,31,True,American Athletic,Pac-12
+2019,3,Cincinnati,Miami (OH),35,13,False,American Athletic,Mid-American
+2019,3,Tennessee,Chattanooga,45,0,False,SEC,Southern
+2019,3,Virginia Tech,Furman,24,17,False,ACC,Southern
+2019,3,West Virginia,NC State,44,27,False,Big 12,ACC
+2019,3,Illinois,Eastern Michigan,31,34,False,Big Ten,Mid-American
+2019,3,Mississippi State,Kansas State,24,31,False,SEC,Big 12
+2019,3,Indiana,Ohio State,10,51,False,Big Ten,Big Ten
+2019,3,Marist,Stetson,26,23,False,Pioneer,Pioneer
+2019,3,Georgetown,Catholic,69,0,False,Patriot,NEWMAC
+2019,3,St. Francis (PA),Merrimack,42,14,False,NEC,FCS Independents
+2019,3,Temple,Maryland,20,17,False,American Athletic,Big Ten
+2019,3,Penn State,Pittsburgh,17,10,False,Big Ten,ACC
+2019,3,Georgia,Arkansas State,55,0,False,SEC,Sun Belt
+2019,3,Georgia Tech,The Citadel,24,27,False,ACC,Southern
+2019,3,Lafayette,Sacred Heart,40,56,False,Patriot,NEC
+2019,3,Monmouth,UAlbany,38,35,False,Big South,CAA
+2019,3,Bryant,Fordham,14,29,False,NEC,Patriot
+2019,3,Indiana State,Eastern Kentucky,19,7,False,MVFC,OVC
+2019,3,Colorado,Air Force,23,30,False,Pac-12,Mountain West
+2019,3,Delaware,North Dakota State,22,47,False,CAA,MVFC
+2019,3,Valparaiso,Central Connecticut,13,42,False,Pioneer,NEC
+2019,3,Youngstown State,Duquesne,34,14,False,MVFC,NEC
+2019,3,Ball State,Florida Atlantic,31,41,False,Mid-American,Conference USA
+2019,3,Coastal Carolina,Norfolk State,46,7,False,Sun Belt,MEAC
+2019,3,South Dakota State,Drake,38,10,False,MVFC,Pioneer
+2019,3,Notre Dame,New Mexico,66,14,False,FBS Independents,Mountain West
+2019,3,Central Michigan,Akron,45,24,False,Mid-American,Mid-American
+2019,3,Robert Morris,Dayton,31,34,False,NEC,Pioneer
+2019,3,South Dakota,Houston Christian,52,53,False,MVFC,Southland
+2019,3,Eastern Illinois,Illinois State,3,21,False,OVC,MVFC
+2019,3,Northwestern,UNLV,30,14,False,Big Ten,Mountain West
+2019,3,Minnesota,Georgia Southern,35,32,False,Big Ten,Sun Belt
+2019,3,South Carolina,Alabama,23,47,False,SEC,SEC
+2019,3,Western Carolina,North Greenville,20,17,False,Southern,Gulf South
+2019,3,South Alabama,Memphis,6,42,False,Sun Belt,American Athletic
+2019,3,Navy,East Carolina,42,10,False,American Athletic,American Athletic
+2019,3,BYU,USC,30,27,False,FBS Independents,Pac-12
+2019,3,UCF,Stanford,45,27,False,American Athletic,Pac-12
+2019,3,UTSA,Army,13,31,False,Conference USA,FBS Independents
+2019,3,Tulsa,Oklahoma State,21,40,False,American Athletic,Big 12
+2019,3,Michigan State,Arizona State,7,10,False,Big Ten,Pac-12
+2019,3,Arkansas,Colorado State,55,34,False,SEC,Mountain West
+2019,3,Ole Miss,SE Louisiana,40,29,False,SEC,Southland
+2019,3,Miami,Bethune-Cookman,63,0,False,ACC,MEAC
+2019,3,Western Kentucky,Louisville,21,38,True,Conference USA,ACC
+2019,3,Jacksonville State,Eastern Washington,49,45,False,OVC,Big Sky
+2019,3,Western Illinois,Montana State,14,23,False,MVFC,Big Sky
+2019,3,James Madison,Morgan State,63,12,False,CAA,MEAC
+2019,3,Delaware State,Lincoln (PA),58,12,False,MEAC,CIAA
+2019,3,Morehead State,Kentucky Christian,73,34,False,Pioneer,
+2019,3,Iowa State,Iowa,17,18,False,Big 12,Big Ten
+2019,3,Utah,Idaho State,31,0,False,Pac-12,Big Sky
+2019,3,Oregon State,Cal Poly,45,7,False,Pac-12,Big Sky
+2019,3,California,North Texas,23,17,False,Pac-12,Conference USA
+2019,3,Howard,Hampton,20,41,False,MEAC,Big South
+2019,3,North Dakota,Sam Houston,27,23,False,FCS Independents,Southland
+2019,3,Wyoming,Idaho,21,16,False,Mountain West,Big Sky
+2019,3,Bowling Green,Louisiana Tech,7,35,False,Mid-American,Conference USA
+2019,3,Charlotte,Massachusetts,52,17,False,Conference USA,FBS Independents
+2019,3,Liberty,Buffalo,35,17,False,FBS Independents,Mid-American
+2019,3,South Florida,South Carolina State,55,16,False,American Athletic,MEAC
+2019,3,Troy,Southern Miss,42,47,False,Sun Belt,Conference USA
+2019,3,Butler,Taylor,14,17,False,Pioneer,
+2019,3,Gardner-Webb,North Carolina Central,21,12,False,Big South,MEAC
+2019,3,Richmond,Elon,20,42,False,CAA,CAA
+2019,3,Stony Brook,Wagner,26,10,False,CAA,NEC
+2019,3,Bucknell,Villanova,10,45,False,Patriot,CAA
+2019,3,William & Mary,Colgate,38,10,False,CAA,Patriot
+2019,3,Florida A&M,Fort Valley State,57,20,False,MEAC,SIAC
+2019,3,Alabama State,Kennesaw State,7,42,False,SWAC,Big South
+2019,3,Wofford,Samford,14,21,False,Southern,Southern
+2019,3,Charleston Southern,North Carolina A&T,21,27,False,Big South,MEAC
+2019,3,Marshall,Ohio,33,31,False,Conference USA,Mid-American
+2019,3,Jackson State,Tennessee State,49,44,False,SWAC,OVC
+2019,3,Tennessee Tech,UVA Wise,31,14,False,OVC,South Atlantic
+2019,3,McNeese,Alcorn State,17,14,False,Southland,SWAC
+2019,3,Arkansas-Pine Bluff,Langston University,53,15,False,SWAC,
+2019,3,Florida International,New Hampshire,30,17,False,Conference USA,CAA
+2019,3,Southern Illinois,UT Martin,28,14,False,MVFC,OVC
+2019,3,Prairie View A&M,Nicholls,35,42,False,SWAC,Southland
+2019,3,Northern Arizona,Western New Mexico,55,21,False,Big Sky,Lone Star
+2019,3,Presbyterian,Jacksonville,20,30,False,Big South,Pioneer
+2019,3,Texas A&M,Lamar,62,3,False,SEC,Southland
+2019,3,Central Arkansas,Abilene Christian,31,30,False,Southland,Southland
+2019,3,Mercer,Austin Peay,34,48,False,Southern,OVC
+2019,3,Maine,Towson,23,45,False,CAA,CAA
+2019,3,Nevada,Weber State,19,13,False,Mountain West,Big Sky
+2019,3,North Alabama,Alabama A&M,24,31,False,Big South,SWAC
+2019,3,Toledo,Murray State,45,0,False,Mid-American,OVC
+2019,3,Southern,Edward Waters,61,0,False,SWAC,SIAC
+2019,3,Davidson,West Virginia Wesleyan,41,0,False,Pioneer,Mountain East
+2019,3,Kentucky,Florida,21,29,False,SEC,SEC
+2019,3,Middle Tennessee,Duke,18,41,False,Conference USA,ACC
+2019,3,Western Michigan,Georgia State,57,10,False,Mid-American,Sun Belt
+2019,3,Auburn,Kent State,55,16,False,SEC,Mid-American
+2019,3,SMU,Texas State,47,17,False,American Athletic,Sun Belt
+2019,3,Syracuse,Clemson,6,41,False,ACC,ACC
+2019,3,Virginia,Florida State,31,24,False,ACC,ACC
+2019,3,LSU,Northwestern State,65,14,False,SEC,Southland
+2019,3,Purdue,TCU,13,34,False,Big Ten,Big 12
+2019,3,Washington,Hawai'i,52,20,False,Pac-12,Mountain West
+2019,3,Missouri,Southeast Missouri State,50,0,False,SEC,OVC
+2019,3,Louisiana,Texas Southern,77,6,False,Sun Belt,SWAC
+2019,3,Tulane,Missouri State,58,6,False,American Athletic,MVFC
+2019,3,UCLA,Oklahoma,14,48,False,Pac-12,Big 12
+2019,3,Rice,Texas,13,48,True,Conference USA,Big 12
+2019,3,New Mexico State,San Diego State,10,31,False,FBS Independents,Mountain West
+2019,3,Nebraska,Northern Illinois,44,8,False,Big Ten,Mid-American
+2019,3,Southern Utah,Stephen F. Austin,45,38,False,Big Sky,Southland
+2019,3,East Tennessee State,VMI,24,31,False,Southern,Southern
+2019,3,Sacramento State,Northern Colorado,50,0,False,Big Sky,Big Sky
+2019,3,UC Davis,Lehigh,41,13,False,Big Sky,Patriot
+2019,3,Boise State,Portland State,45,10,False,Mountain West,Big Sky
+2019,3,Arizona,Texas Tech,28,14,False,Pac-12,Big 12
+2019,3,Oregon,Montana,35,3,False,Pac-12,Big Sky
+2019,4,Tulane,Houston,38,31,False,American Athletic,American Athletic
+2019,4,Louisiana Tech,Florida International,43,31,False,Conference USA,Conference USA
+2019,4,USC,Utah,30,23,False,Pac-12,Pac-12
+2019,4,Boise State,Air Force,30,19,False,Mountain West,Mountain West
+2019,4,Florida,Tennessee,34,3,False,SEC,SEC
+2019,4,Vanderbilt,LSU,38,66,False,SEC,SEC
+2019,4,Rutgers,Boston College,16,30,False,Big Ten,ACC
+2019,4,Northwestern,Michigan State,10,31,False,Big Ten,Big Ten
+2019,4,Iowa State,UL Monroe,72,20,False,Big 12,Sun Belt
+2019,4,Wisconsin,Michigan,35,14,False,Big Ten,Big Ten
+2019,4,Indiana,UConn,38,3,False,Big Ten,American Athletic
+2019,4,Ole Miss,California,20,28,False,SEC,Pac-12
+2019,4,Marist,Cornell,7,21,False,Pioneer,Ivy
+2019,4,Colgate,Maine,21,35,False,Patriot,CAA
+2019,4,Alabama,Southern Miss,49,7,False,SEC,Conference USA
+2019,4,Syracuse,Western Michigan,52,33,False,ACC,Mid-American
+2019,4,Army,Morgan State,52,21,False,FBS Independents,MEAC
+2019,4,Wake Forest,Elon,49,7,False,ACC,CAA
+2019,4,Jacksonville,Dartmouth,6,35,False,Pioneer,Ivy
+2019,4,Presbyterian,Eastern Kentucky,10,35,False,Big South,OVC
+2019,4,Delaware,Pennsylvania,28,27,False,CAA,Ivy
+2019,4,Dayton,Duquesne,31,35,False,Pioneer,NEC
+2019,4,Massachusetts,Coastal Carolina,28,62,False,FBS Independents,Sun Belt
+2019,4,Furman,Mercer,45,10,False,Southern,Southern
+2019,4,Indiana State,Eastern Illinois,16,6,False,MVFC,OVC
+2019,4,Long Island University,Sacred Heart,10,34,False,NEC,NEC
+2019,4,Merrimack,Mayville State,76,7,False,FCS Independents,
+2019,4,St. Francis (PA),Columbia,14,31,False,NEC,Ivy
+2019,4,Yale,Holy Cross,23,10,False,Ivy,Patriot
+2019,4,VMI,Robert Morris,21,31,False,Southern,NEC
+2019,4,Ohio,Louisiana,25,45,False,Mid-American,Sun Belt
+2019,4,Delaware State,Howard,9,24,False,MEAC,MEAC
+2019,4,Bryant,Brown,30,35,False,NEC,Ivy
+2019,4,Southeast Missouri State,West Virginia State,56,10,False,OVC,Mountain East
+2019,4,Montana State,Norfolk State,56,21,False,Big Sky,MEAC
+2019,4,Idaho,Eastern Washington,35,27,False,Big Sky,Big Sky
+2019,4,Montana,Monmouth,47,27,False,Big Sky,Big South
+2019,4,Missouri State,Kennesaw State,24,35,False,MVFC,Big South
+2019,4,Akron,Troy,7,35,False,Mid-American,Sun Belt
+2019,4,Tennessee State,Arkansas-Pine Bluff,31,37,False,OVC,SWAC
+2019,4,Eastern Michigan,Central Connecticut,34,29,False,Mid-American,NEC
+2019,4,Buffalo,Temple,38,22,False,Mid-American,American Athletic
+2019,4,UAlbany,Lafayette,36,7,False,CAA,Patriot
+2019,4,Ohio State,Miami (OH),76,5,False,Big Ten,Mid-American
+2019,4,BYU,Washington,19,45,False,FBS Independents,Pac-12
+2019,4,North Carolina,App State,31,34,False,ACC,Sun Belt
+2019,4,North Dakota State,UC Davis,27,16,False,MVFC,Big Sky
+2019,4,Tulsa,Wyoming,24,21,False,American Athletic,Mountain West
+2019,4,Kent State,Bowling Green,62,20,False,Mid-American,Mid-American
+2019,4,UAB,South Alabama,35,3,False,Conference USA,Sun Belt
+2019,4,TCU,SMU,38,41,False,Big 12,American Athletic
+2019,4,Florida State,Louisville,35,24,False,ACC,ACC
+2019,4,Pittsburgh,UCF,35,34,False,ACC,American Athletic
+2019,4,Texas A&M,Auburn,20,28,False,SEC,SEC
+2019,4,Missouri,South Carolina,34,14,False,SEC,SEC
+2019,4,Miami,Central Michigan,17,12,False,ACC,Mid-American
+2019,4,San Diego,Harvard,31,23,False,Pioneer,Ivy
+2019,4,Truman State,Valparaiso,38,7,False,Great Lakes,Pioneer
+2019,4,North Carolina Central,Elizabeth City State,45,7,False,MEAC,CIAA
+2019,4,Chattanooga,James Madison,14,37,False,Southern,CAA
+2019,4,Northern Colorado,South Dakota,6,14,False,Big Sky,MVFC
+2019,4,Western Illinois,Tennessee Tech,24,38,False,MVFC,OVC
+2019,4,Mississippi State,Kentucky,28,13,False,SEC,SEC
+2019,4,Kansas,West Virginia,24,29,False,Big 12,Big 12
+2019,4,New Mexico,New Mexico State,55,52,False,Mountain West,FBS Independents
+2019,4,Northern Iowa,Idaho State,13,6,False,MVFC,Big Sky
+2019,4,Princeton,Butler,49,7,False,Ivy,Pioneer
+2019,4,Portland State,Eastern Oregon,59,9,False,Big Sky,
+2019,4,Towson,Villanova,45,52,False,CAA,CAA
+2019,4,Stony Brook,Fordham,45,10,False,CAA,Patriot
+2019,4,Florida A&M,Southern,27,21,False,MEAC,SWAC
+2019,4,Alabama State,Grambling,23,20,False,SWAC,SWAC
+2019,4,Stetson,Western New England,59,28,False,Pioneer,Commonwealth Coast
+2019,4,Alcorn State,Prairie View A&M,45,41,False,SWAC,SWAC
+2019,4,New Hampshire,Rhode Island,27,24,False,CAA,CAA
+2019,4,Florida Atlantic,Wagner,42,7,False,Conference USA,NEC
+2019,4,Wofford,Gardner-Webb,49,10,False,Southern,Big South
+2019,4,The Citadel,Charleston Southern,22,13,False,Southern,Big South
+2019,4,Campbell,Davidson,31,29,False,Big South,Pioneer
+2019,4,Liberty,Hampton,62,27,False,FBS Independents,Big South
+2019,4,East Carolina,William & Mary,19,7,False,American Athletic,CAA
+2019,4,Virginia,Old Dominion,28,17,False,ACC,Conference USA
+2019,4,Stanford,Oregon,6,21,False,Pac-12,Pac-12
+2019,4,Arkansas State,Southern Illinois,41,28,False,Sun Belt,MVFC
+2019,4,Texas State,Georgia State,37,34,False,Sun Belt,Sun Belt
+2019,4,Stephen F. Austin,Nicholls,30,48,False,Southland,Southland
+2019,4,NC State,Ball State,34,23,False,ACC,Mid-American
+2019,4,South Dakota State,Southern Utah,43,7,False,MVFC,Big Sky
+2019,4,Jacksonville State,North Alabama,30,12,False,OVC,Big South
+2019,4,Mississippi Valley State,Bethune-Cookman,6,22,False,SWAC,MEAC
+2019,4,Murray State,Morehead State,59,7,False,OVC,Pioneer
+2019,4,Samford,Alabama A&M,55,21,False,Southern,SWAC
+2019,4,Abilene Christian,McNeese,17,10,False,Southland,Southland
+2019,4,Houston Christian,Northwestern State,48,21,False,Southland,Southland
+2019,4,Sam Houston,Incarnate Word,45,6,False,Southland,Southland
+2019,4,Rice,Baylor,13,21,False,Conference USA,Big 12
+2019,4,Illinois State,Northern Arizona,40,27,False,MVFC,Big Sky
+2019,4,North Texas,UTSA,45,3,False,Conference USA,Conference USA
+2019,4,East Tennessee State,Austin Peay,20,14,False,Southern,OVC
+2019,4,Texas,Oklahoma State,36,30,False,Big 12,Big 12
+2019,4,Arkansas,San José State,24,31,False,SEC,Mountain West
+2019,4,Clemson,Charlotte,52,10,False,ACC,Conference USA
+2019,4,Illinois,Nebraska,38,42,False,Big Ten,Big Ten
+2019,4,SE Louisiana,Lamar,45,34,False,Southland,Southland
+2019,4,Georgia,Notre Dame,23,17,False,SEC,FBS Independents
+2019,4,UTEP,Nevada,21,37,False,Conference USA,Mountain West
+2019,4,Arizona State,Colorado,31,34,False,Pac-12,Pac-12
+2019,4,Fresno State,Sacramento State,34,20,False,Mountain West,Big Sky
+2019,4,Colorado State,Toledo,35,41,False,Mountain West,Mid-American
+2019,4,San Diego State,Utah State,17,23,False,Mountain West,Mountain West
+2019,4,Washington State,UCLA,63,67,False,Pac-12,Pac-12
+2019,4,Hawai'i,Central Arkansas,35,16,False,Mountain West,Southland
+2019,5,North Carolina A&T,Delaware State,37,0,False,MEAC,MEAC
+2019,5,Memphis,Navy,35,23,False,American Athletic,American Athletic
+2019,5,Harvard,Brown,42,7,False,Ivy,Ivy
+2019,5,Virginia Tech,Duke,10,45,False,ACC,ACC
+2019,5,Air Force,San José State,41,24,False,Mountain West,Mountain West
+2019,5,Maryland,Penn State,0,59,False,Big Ten,Big Ten
+2019,5,California,Arizona State,17,24,False,Pac-12,Pac-12
+2019,5,TCU,Kansas,51,14,False,Big 12,Big 12
+2019,5,Wagner,Long Island University,24,14,False,NEC,NEC
+2019,5,Western Michigan,Central Michigan,31,15,False,Mid-American,Mid-American
+2019,5,Miami (OH),Buffalo,34,20,False,Mid-American,Mid-American
+2019,5,Iowa,Middle Tennessee,48,3,False,Big Ten,Conference USA
+2019,5,Oklahoma,Texas Tech,55,16,False,Big 12,Big 12
+2019,5,Michigan,Rutgers,52,0,False,Big Ten,Big Ten
+2019,5,Syracuse,Holy Cross,41,3,False,ACC,Patriot
+2019,5,Wisconsin,Northwestern,24,15,False,Big Ten,Big Ten
+2019,5,Vanderbilt,Northern Illinois,24,18,False,SEC,Mid-American
+2019,5,Toledo,BYU,28,21,False,Mid-American,FBS Independents
+2019,5,Arkansas,Texas A&M,27,31,True,SEC,SEC
+2019,5,Pittsburgh,Delaware,17,14,False,ACC,CAA
+2019,5,Lehigh,Merrimack,10,3,False,Patriot,FCS Independents
+2019,5,Howard,Bethune-Cookman,29,37,False,MEAC,MEAC
+2019,5,Bryant,St. Francis (PA),6,16,False,NEC,NEC
+2019,5,Fordham,Richmond,23,16,False,Patriot,CAA
+2019,5,Stetson,North Carolina Wesleyan,55,21,False,Pioneer,USA South
+2019,5,Columbia,Georgetown,10,24,False,Ivy,Patriot
+2019,5,Yale,Cornell,27,16,False,Ivy,Ivy
+2019,5,New Hampshire,Duquesne,23,6,False,CAA,NEC
+2019,5,Furman,East Tennessee State,17,10,False,Southern,Southern
+2019,5,Jacksonville,Ave Maria University,42,28,False,Pioneer,
+2019,5,Marist,Drake,17,41,False,Pioneer,Pioneer
+2019,5,VMI,Wofford,36,51,False,Southern,Southern
+2019,5,Elon,James Madison,10,45,False,CAA,CAA
+2019,5,Valparaiso,University Of Charleston (WV),13,19,False,Pioneer,Mountain East
+2019,5,Jackson State,Kentucky State,25,33,True,SWAC,SIAC
+2019,5,Austin Peay,Jacksonville State,52,33,False,OVC,OVC
+2019,5,Samford,The Citadel,61,55,False,Southern,Southern
+2019,5,Northern Colorado,Idaho,27,24,False,Big Sky,Big Sky
+2019,5,Montana State,Northern Arizona,49,31,False,Big Sky,Big Sky
+2019,5,UAlbany,William & Mary,39,31,False,CAA,CAA
+2019,5,Baylor,Iowa State,23,21,False,Big 12,Big 12
+2019,5,Purdue,Minnesota,31,38,False,Big Ten,Big Ten
+2019,5,Washington,USC,28,14,False,Pac-12,Pac-12
+2019,5,Alabama,Ole Miss,59,31,False,SEC,SEC
+2019,5,Massachusetts,Akron,37,29,False,FBS Independents,Mid-American
+2019,5,Charlotte,Florida Atlantic,27,45,False,Conference USA,Conference USA
+2019,5,Notre Dame,Virginia,35,20,False,FBS Independents,ACC
+2019,5,North Carolina,Clemson,20,21,False,ACC,ACC
+2019,5,Michigan State,Indiana,40,31,False,Big Ten,Big Ten
+2019,5,App State,Coastal Carolina,56,37,False,Sun Belt,Sun Belt
+2019,5,Temple,Georgia Tech,24,2,False,American Athletic,ACC
+2019,5,Villanova,Maine,33,17,False,CAA,CAA
+2019,5,Boston College,Wake Forest,24,27,False,ACC,ACC
+2019,5,Lafayette,Pennsylvania,24,28,False,Patriot,Ivy
+2019,5,Bucknell,Princeton,23,56,False,Patriot,Ivy
+2019,5,Chattanooga,Western Carolina,60,36,False,Southern,Southern
+2019,5,South Florida,SMU,21,48,False,American Athletic,American Athletic
+2019,5,UC Davis,Montana,20,45,False,Big Sky,Big Sky
+2019,5,North Alabama,Presbyterian,41,21,False,Big South,Big South
+2019,5,Norfolk State,Florida A&M,28,30,False,MEAC,MEAC
+2019,5,Florida,Towson,38,0,False,SEC,CAA
+2019,5,Marshall,Cincinnati,14,52,False,Conference USA,American Athletic
+2019,5,Eastern Washington,North Dakota,35,20,False,Big Sky,FCS Independents
+2019,5,Eastern Illinois,Tennessee Tech,29,40,False,OVC,OVC
+2019,5,Prairie View A&M,Grambling,42,36,False,SWAC,SWAC
+2019,5,Idaho State,Portland State,51,24,False,Big Sky,Big Sky
+2019,5,Dartmouth,Colgate,38,3,False,Ivy,Patriot
+2019,5,Georgia Southern,Louisiana,24,37,False,Sun Belt,Sun Belt
+2019,5,Morgan State,North Carolina Central,17,27,False,MEAC,MEAC
+2019,5,Eastern Kentucky,Tennessee State,42,16,False,OVC,OVC
+2019,5,Troy,Arkansas State,43,50,False,Sun Belt,Sun Belt
+2019,5,Old Dominion,East Carolina,21,24,False,Conference USA,American Athletic
+2019,5,Kennesaw State,Reinhardt University,31,7,False,Big South,
+2019,5,Youngstown State,Robert Morris,45,10,False,MVFC,NEC
+2019,5,Liberty,New Mexico,17,10,False,FBS Independents,Mountain West
+2019,5,Western Kentucky,UAB,20,13,False,Conference USA,Conference USA
+2019,5,Auburn,Mississippi State,56,23,False,SEC,SEC
+2019,5,Texas State,Nicholls,24,3,False,Sun Belt,Southland
+2019,5,Mercer,Campbell,27,34,False,Southern,Big South
+2019,5,Southern Miss,UTEP,31,13,False,Conference USA,Conference USA
+2019,5,UCF,UConn,56,21,False,American Athletic,American Athletic
+2019,5,UL Monroe,South Alabama,30,17,False,Sun Belt,Sun Belt
+2019,5,Oregon State,Stanford,28,31,False,Pac-12,Pac-12
+2019,5,Oklahoma State,Kansas State,26,13,False,Big 12,Big 12
+2019,5,Rice,Louisiana Tech,20,23,False,Conference USA,Conference USA
+2019,5,Arkansas-Pine Bluff,Southern,7,31,False,SWAC,SWAC
+2019,5,Northwestern State,SE Louisiana,27,44,False,Southland,Southland
+2019,5,Rhode Island,Stony Brook,27,31,False,CAA,CAA
+2019,5,UT Martin,Murray State,40,7,False,OVC,OVC
+2019,5,Alabama A&M,Central State (OH),63,20,False,SWAC,SIAC
+2019,5,Alcorn State,Mississippi Valley State,45,19,False,SWAC,SWAC
+2019,5,Incarnate Word,Abilene Christian,31,24,False,Southland,Southland
+2019,5,Houston Christian,Texas Southern,68,31,False,Southland,SWAC
+2019,5,Lamar,Stephen F. Austin,17,24,False,Southland,Southland
+2019,5,McNeese,Sam Houston,17,28,False,Southland,Southland
+2019,5,Florida State,NC State,31,13,False,ACC,ACC
+2019,5,South Carolina,Kentucky,24,7,False,SEC,SEC
+2019,5,Utah State,Colorado State,34,24,False,Mountain West,Mountain West
+2019,5,Nebraska,Ohio State,7,48,False,Big Ten,Big Ten
+2019,5,Weber State,Northern Iowa,29,17,False,Big Sky,MVFC
+2019,5,Wyoming,UNLV,53,17,False,Mountain West,Mountain West
+2019,5,North Texas,Houston,25,46,False,Conference USA,American Athletic
+2019,5,New Mexico State,Fresno State,17,30,False,FBS Independents,Mountain West
+2019,5,Southern Utah,Cal Poly,21,24,False,Big Sky,Big Sky
+2019,5,Utah,Washington State,38,13,False,Pac-12,Pac-12
+2019,5,Nevada,Hawai'i,3,54,False,Mountain West,Mountain West
+2019,5,Arizona,UCLA,20,17,False,Pac-12,Pac-12
+2019,6,South Alabama,Georgia Southern,17,20,False,Sun Belt,Sun Belt
+2019,6,East Carolina,Temple,17,27,False,American Athletic,American Athletic
+2019,6,Pennsylvania,Dartmouth,15,28,False,Ivy,Ivy
+2019,6,Cincinnati,UCF,27,24,False,American Athletic,American Athletic
+2019,6,San José State,New Mexico,32,21,False,Mountain West,Mountain West
+2019,6,Michigan,Iowa,10,3,False,Big Ten,Big Ten
+2019,6,Duquesne,Long Island University,21,14,False,NEC,NEC
+2019,6,LSU,Utah State,42,6,False,SEC,Mountain West
+2019,6,Dayton,Jacksonville,56,28,False,Pioneer,Pioneer
+2019,6,Stetson,Butler,30,27,False,Pioneer,Pioneer
+2019,6,Army,Tulane,33,42,False,FBS Independents,American Athletic
+2019,6,Wisconsin,Kent State,48,0,False,Big Ten,Mid-American
+2019,6,UConn,South Florida,22,48,False,American Athletic,American Athletic
+2019,6,Kansas,Oklahoma,20,45,False,Big 12,Big 12
+2019,6,Penn State,Purdue,35,7,False,Big Ten,Big Ten
+2019,6,Texas Tech,Oklahoma State,45,35,False,Big 12,Big 12
+2019,6,Rutgers,Maryland,7,48,False,Big Ten,Big Ten
+2019,6,Louisville,Boston College,41,39,False,ACC,ACC
+2019,6,Brown,Rhode Island,28,31,False,Ivy,CAA
+2019,6,Princeton,Columbia,21,10,False,Ivy,Ivy
+2019,6,Merrimack,Bryant,17,24,False,FCS Independents,NEC
+2019,6,Yale,Fordham,48,24,False,Ivy,Patriot
+2019,6,Colgate,Lehigh,14,21,False,Patriot,Patriot
+2019,6,Morehead State,Davidson,31,42,False,Pioneer,Pioneer
+2019,6,Harvard,Howard,62,17,False,Ivy,MEAC
+2019,6,Illinois State,North Dakota State,3,37,False,MVFC,MVFC
+2019,6,Campbell,Presbyterian,28,14,False,Big South,Big South
+2019,6,Murray State,Eastern Illinois,24,17,False,OVC,OVC
+2019,6,Florida A&M,North Carolina Central,28,21,False,MEAC,MEAC
+2019,6,Richmond,UAlbany,23,20,False,CAA,CAA
+2019,6,Hampton,North Alabama,40,34,False,Big South,Big South
+2019,6,North Dakota,UC Davis,38,36,False,FCS Independents,Big Sky
+2019,6,The Citadel,VMI,21,34,False,Southern,Southern
+2019,6,Bucknell,Holy Cross,14,21,False,Patriot,Patriot
+2019,6,Sacred Heart,Central Connecticut,3,28,False,NEC,NEC
+2019,6,Norfolk State,North Carolina A&T,19,58,False,MEAC,MEAC
+2019,6,Iowa State,TCU,49,24,False,Big 12,Big 12
+2019,6,Central Michigan,Eastern Michigan,42,16,False,Mid-American,Mid-American
+2019,6,Alabama A&M,Texas Southern,35,28,False,SWAC,SWAC
+2019,6,Samford,Furman,14,58,False,Southern,Southern
+2019,6,Cornell,Georgetown,8,14,False,Ivy,Patriot
+2019,6,Drake,Valparaiso,35,6,False,Pioneer,Pioneer
+2019,6,Eastern Kentucky,UT Martin,28,38,False,OVC,OVC
+2019,6,South Dakota State,Southern Illinois,28,10,False,MVFC,MVFC
+2019,6,South Dakota,Indiana State,38,0,False,MVFC,MVFC
+2019,6,Montana,Idaho State,59,20,False,Big Sky,Big Sky
+2019,6,Alabama State,Alcorn State,7,35,False,SWAC,SWAC
+2019,6,William & Mary,Villanova,28,35,False,CAA,CAA
+2019,6,Western Carolina,Gardner-Webb,21,24,False,Southern,Big South
+2019,6,West Virginia,Texas,31,42,False,Big 12,Big 12
+2019,6,East Tennessee State,Wofford,17,35,False,Southern,Southern
+2019,6,New Hampshire,Elon,26,10,False,CAA,CAA
+2019,6,Florida,Auburn,24,13,False,SEC,SEC
+2019,6,Navy,Air Force,34,25,False,American Athletic,Mountain West
+2019,6,Northern Illinois,Ball State,20,27,False,Mid-American,Mid-American
+2019,6,Toledo,Western Michigan,31,24,False,Mid-American,Mid-American
+2019,6,Buffalo,Ohio,20,21,False,Mid-American,Mid-American
+2019,6,Notre Dame,Bowling Green,52,0,False,FBS Independents,Mid-American
+2019,6,Georgia State,Arkansas State,52,38,False,Sun Belt,Sun Belt
+2019,6,Miami,Virginia Tech,35,42,False,ACC,ACC
+2019,6,Middle Tennessee,Marshall,24,13,False,Conference USA,Conference USA
+2019,6,Minnesota,Illinois,40,17,False,Big Ten,Big Ten
+2019,6,Kansas State,Baylor,12,31,False,Big 12,Big 12
+2019,6,UL Monroe,Memphis,33,52,False,Sun Belt,American Athletic
+2019,6,Missouri,Troy,42,10,False,SEC,Sun Belt
+2019,6,Nicholls,Central Arkansas,34,14,False,Southland,Southland
+2019,6,Bethune-Cookman,Morgan State,31,20,False,MEAC,MEAC
+2019,6,Western Illinois,Missouri State,31,37,False,MVFC,MVFC
+2019,6,Arkansas-Pine Bluff,Lane College,45,38,False,SWAC,SIAC
+2019,6,Mississippi Valley State,Virginia University Of Lynchburg,31,23,False,SWAC,
+2019,6,Mercer,Chattanooga,17,34,False,Southern,Southern
+2019,6,Stephen F. Austin,Sam Houston,20,31,False,Southland,Southland
+2019,6,Nebraska,Northwestern,13,10,False,Big Ten,Big Ten
+2019,6,Georgia Tech,North Carolina,22,38,False,ACC,ACC
+2019,6,Colorado,Arizona,30,35,False,Pac-12,Pac-12
+2019,6,San Diego,Marist,31,7,False,Pioneer,Pioneer
+2019,6,McNeese,SE Louisiana,38,34,False,Southland,Southland
+2019,6,Idaho,Weber State,35,41,False,Big Sky,Big Sky
+2019,6,Northern Iowa,Youngstown State,21,14,False,MVFC,MVFC
+2019,6,Portland State,Southern Utah,52,31,False,Big Sky,Big Sky
+2019,6,Charleston Southern,Savannah St,24,19,False,Big South,SIAC
+2019,6,Stony Brook,James Madison,38,45,False,CAA,CAA
+2019,6,Old Dominion,Western Kentucky,3,20,False,Conference USA,Conference USA
+2019,6,Wagner,Monmouth,14,16,False,NEC,Big South
+2019,6,Lamar,Abilene Christian,27,24,False,Southland,Southland
+2019,6,Southeast Missouri State,Tennessee Tech,43,37,False,OVC,OVC
+2019,6,Jacksonville State,Tennessee State,31,23,False,OVC,OVC
+2019,6,Delaware State,South Carolina State,24,38,False,MEAC,MEAC
+2019,6,Northern Arizona,Northern Colorado,41,23,False,Big Sky,Big Sky
+2019,6,UAB,Rice,35,20,False,Conference USA,Conference USA
+2019,6,Jackson State,Grambling,21,44,False,SWAC,SWAC
+2019,6,Houston Christian,Incarnate Word,36,38,False,Southland,Southland
+2019,6,Tennessee,Georgia,14,43,False,SEC,SEC
+2019,6,Florida International,Massachusetts,44,0,False,Conference USA,FBS Independents
+2019,6,Ohio State,Michigan State,34,10,False,Big Ten,Big Ten
+2019,6,Ole Miss,Vanderbilt,31,6,False,SEC,SEC
+2019,6,SMU,Tulsa,43,37,False,American Athletic,American Athletic
+2019,6,Duke,Pittsburgh,30,33,False,ACC,ACC
+2019,6,Cal Poly,Montana State,28,34,False,Big Sky,Big Sky
+2019,6,Oregon,California,17,7,False,Pac-12,Pac-12
+2019,6,New Mexico State,Liberty,13,20,False,FBS Independents,FBS Independents
+2019,6,UTEP,UTSA,16,26,False,Conference USA,Conference USA
+2019,6,UCLA,Oregon State,31,48,False,Pac-12,Pac-12
+2019,6,Sacramento State,Eastern Washington,48,27,False,Big Sky,Big Sky
+2019,6,Colorado State,San Diego State,10,24,False,Mountain West,Mountain West
+2019,6,Stanford,Washington,23,13,False,Pac-12,Pac-12
+2019,6,UNLV,Boise State,13,38,False,Mountain West,Mountain West
+2019,7,Louisiana,App State,7,17,False,Sun Belt,Sun Belt
+2019,7,North Carolina Central,Bethune-Cookman,13,27,False,MEAC,MEAC
+2019,7,NC State,Syracuse,16,10,False,ACC,ACC
+2019,7,Texas State,UL Monroe,14,24,False,Sun Belt,Sun Belt
+2019,7,Princeton,Lafayette,28,3,False,Ivy,Patriot
+2019,7,Miami,Virginia,17,9,False,ACC,ACC
+2019,7,New Mexico,Colorado State,21,35,False,Mountain West,Mountain West
+2019,7,Oregon,Colorado,45,3,False,Pac-12,Pac-12
+2019,7,Illinois,Michigan,25,42,False,Big Ten,Big Ten
+2019,7,Georgia,South Carolina,17,20,False,SEC,SEC
+2019,7,Bowling Green,Toledo,20,7,False,Mid-American,Mid-American
+2019,7,St. Francis (PA),Robert Morris,17,20,False,NEC,NEC
+2019,7,Temple,Memphis,30,28,False,American Athletic,American Athletic
+2019,7,Texas,Oklahoma,27,34,True,Big 12,Big 12
+2019,7,Purdue,Maryland,40,14,False,Big Ten,Big Ten
+2019,7,Indiana,Rutgers,35,0,False,Big Ten,Big Ten
+2019,7,Maine,Richmond,17,24,False,CAA,CAA
+2019,7,Western Michigan,Miami (OH),38,16,False,Mid-American,Mid-American
+2019,7,Tennessee,Mississippi State,20,10,False,SEC,SEC
+2019,7,Duke,Georgia Tech,41,23,False,ACC,ACC
+2019,7,Brown,Holy Cross,31,47,False,Ivy,Patriot
+2019,7,Pennsylvania,Sacred Heart,38,24,False,Ivy,NEC
+2019,7,Columbia,Central Connecticut,14,24,False,Ivy,NEC
+2019,7,Harvard,Cornell,35,22,False,Ivy,Ivy
+2019,7,Colgate,Bucknell,14,32,False,Patriot,Patriot
+2019,7,Jacksonville,Morehead State,22,30,False,Pioneer,Pioneer
+2019,7,Davidson,San Diego,17,37,False,Pioneer,Pioneer
+2019,7,Butler,Drake,7,42,False,Pioneer,Pioneer
+2019,7,Eastern Illinois,Jacksonville State,20,28,False,OVC,OVC
+2019,7,Indiana State,Western Illinois,20,10,False,MVFC,MVFC
+2019,7,Howard,Norfolk State,21,49,False,MEAC,MEAC
+2019,7,Morgan State,Delaware State,34,3,False,MEAC,MEAC
+2019,7,Monmouth,Presbyterian,45,0,False,Big South,Big South
+2019,7,Bryant,Long Island University,27,22,False,NEC,NEC
+2019,7,VMI,Samford,48,41,False,Southern,Southern
+2019,7,Gardner-Webb,Hampton,35,27,False,Big South,Big South
+2019,7,Dartmouth,Yale,42,10,False,Ivy,Ivy
+2019,7,James Madison,Villanova,38,24,False,CAA,CAA
+2019,7,North Dakota State,Northern Iowa,46,14,False,MVFC,MVFC
+2019,7,South Carolina State,Florida A&M,38,42,False,MEAC,MEAC
+2019,7,Elon,Delaware,42,7,False,CAA,CAA
+2019,7,Eastern Michigan,Ball State,23,29,False,Mid-American,Mid-American
+2019,7,Valparaiso,Dayton,28,41,False,Pioneer,Pioneer
+2019,7,Arkansas-Pine Bluff,Mississippi Valley State,38,6,False,SWAC,SWAC
+2019,7,The Citadel,Western Carolina,35,17,False,Southern,Southern
+2019,7,Georgetown,Fordham,27,30,False,Patriot,Patriot
+2019,7,Marshall,Old Dominion,31,17,False,Conference USA,Conference USA
+2019,7,Central Michigan,New Mexico State,42,28,False,Mid-American,FBS Independents
+2019,7,Jackson State,Alabama State,16,31,False,SWAC,SWAC
+2019,7,Alcorn State,Savannah St,42,17,False,SWAC,SIAC
+2019,7,Grambling,Alabama A&M,23,10,False,SWAC,SWAC
+2019,7,Tennessee State,Murray State,17,31,False,OVC,OVC
+2019,7,Austin Peay,Southeast Missouri State,28,24,False,OVC,OVC
+2019,7,Missouri State,South Dakota,10,45,False,MVFC,MVFC
+2019,7,Sam Houston,Lamar,17,20,False,Southland,Southland
+2019,7,Texas Southern,Missouri S&T,20,23,False,SWAC,Great Lakes
+2019,7,Kennesaw State,Charleston Southern,45,23,False,Big South,Big South
+2019,7,Idaho State,North Dakota,55,20,False,Big Sky,FCS Independents
+2019,7,Arizona State,Washington State,38,34,False,Pac-12,Pac-12
+2019,7,Ohio,Northern Illinois,36,39,False,Mid-American,Mid-American
+2019,7,South Florida,BYU,27,23,False,American Athletic,FBS Independents
+2019,7,Clemson,Florida State,45,14,False,ACC,ACC
+2019,7,Texas A&M,Alabama,28,47,False,SEC,SEC
+2019,7,Wisconsin,Michigan State,38,0,False,Big Ten,Big Ten
+2019,7,Akron,Kent State,3,26,False,Mid-American,Mid-American
+2019,7,Houston,Cincinnati,23,38,False,American Athletic,American Athletic
+2019,7,Tulane,UConn,49,7,False,American Athletic,American Athletic
+2019,7,Nicholls,Northwestern State,45,35,False,Southland,Southland
+2019,7,Montana State,Sacramento State,21,34,False,Big Sky,Big Sky
+2019,7,Vanderbilt,UNLV,10,34,False,SEC,Mountain West
+2019,7,West Virginia,Iowa State,14,38,False,Big 12,Big 12
+2019,7,Nevada,San José State,41,38,False,Mountain West,Mountain West
+2019,7,Baylor,Texas Tech,33,30,False,Big 12,Big 12
+2019,7,Florida Atlantic,Middle Tennessee,28,13,False,Conference USA,Conference USA
+2019,7,Virginia Tech,Rhode Island,34,17,False,ACC,CAA
+2019,7,Towson,UAlbany,21,38,False,CAA,CAA
+2019,7,Eastern Washington,Northern Colorado,54,21,False,Big Sky,Big Sky
+2019,7,Coastal Carolina,Georgia State,21,31,False,Sun Belt,Sun Belt
+2019,7,SE Louisiana,Incarnate Word,21,27,False,Southland,Southland
+2019,7,Central Arkansas,McNeese,40,31,False,Southland,Southland
+2019,7,Portland State,Idaho,24,0,False,Big Sky,Big Sky
+2019,7,UTSA,UAB,14,33,False,Conference USA,Conference USA
+2019,7,Stony Brook,New Hampshire,14,20,False,CAA,CAA
+2019,7,Youngstown State,South Dakota State,28,38,False,MVFC,MVFC
+2019,7,Air Force,Fresno State,43,24,False,Mountain West,Mountain West
+2019,7,Western Kentucky,Army,17,8,False,Conference USA,FBS Independents
+2019,7,Louisiana Tech,Massachusetts,69,21,False,Conference USA,FBS Independents
+2019,7,Southern Illinois,Illinois State,7,21,False,MVFC,MVFC
+2019,7,Abilene Christian,Houston Christian,45,20,False,Southland,Southland
+2019,7,Florida International,Charlotte,48,23,False,Conference USA,Conference USA
+2019,7,Missouri,Ole Miss,38,27,False,SEC,SEC
+2019,7,Tennessee Tech,UT Martin,14,55,False,OVC,OVC
+2019,7,Southern,Prairie View A&M,34,28,False,SWAC,SWAC
+2019,7,Southern Miss,North Texas,45,27,False,Conference USA,Conference USA
+2019,7,UC Davis,Cal Poly,48,24,False,Big Sky,Big Sky
+2019,7,Minnesota,Nebraska,34,7,False,Big Ten,Big Ten
+2019,7,Wake Forest,Louisville,59,62,False,ACC,ACC
+2019,7,Kentucky,Arkansas,24,20,False,SEC,SEC
+2019,7,Iowa,Penn State,12,17,False,Big Ten,Big Ten
+2019,7,Notre Dame,USC,30,27,False,FBS Independents,Pac-12
+2019,7,Tulsa,Navy,17,45,False,American Athletic,American Athletic
+2019,7,Oregon State,Utah,7,52,False,Pac-12,Pac-12
+2019,7,LSU,Florida,42,28,False,SEC,SEC
+2019,7,Weber State,Southern Utah,29,14,False,Big Sky,Big Sky
+2019,7,Boise State,Hawai'i,59,37,False,Mountain West,Mountain West
+2019,7,San Diego State,Wyoming,26,22,False,Mountain West,Mountain West
+2019,7,Arizona,Washington,27,51,False,Pac-12,Pac-12
+2019,8,Troy,South Alabama,37,13,False,Sun Belt,Sun Belt
+2019,8,Chattanooga,East Tennessee State,16,13,False,Southern,Southern
+2019,8,Arkansas State,Louisiana,20,37,False,Sun Belt,Sun Belt
+2019,8,Stanford,UCLA,16,34,False,Pac-12,Pac-12
+2019,8,Florida Atlantic,Marshall,31,36,False,Conference USA,Conference USA
+2019,8,Syracuse,Pittsburgh,20,27,False,ACC,ACC
+2019,8,Northwestern,Ohio State,3,52,False,Big Ten,Big Ten
+2019,8,Fresno State,UNLV,56,27,False,Mountain West,Mountain West
+2019,8,South Carolina State,Morgan State,24,10,False,MEAC,MEAC
+2019,8,Illinois,Wisconsin,24,23,False,Big Ten,Big Ten
+2019,8,Arkansas,Auburn,10,51,False,SEC,SEC
+2019,8,Texas Tech,Iowa State,24,34,False,Big 12,Big 12
+2019,8,South Carolina,Florida,27,38,False,SEC,SEC
+2019,8,Marist,Dartmouth,7,49,False,Pioneer,Ivy
+2019,8,Georgetown,Lafayette,14,10,False,Patriot,Patriot
+2019,8,Sacred Heart,Duquesne,6,20,False,NEC,NEC
+2019,8,Wagner,Robert Morris,13,21,False,NEC,NEC
+2019,8,Miami,Georgia Tech,21,28,False,ACC,ACC
+2019,8,Iowa,Purdue,26,20,False,Big Ten,Big Ten
+2019,8,Louisville,Clemson,10,45,False,ACC,ACC
+2019,8,Oklahoma,West Virginia,52,14,False,Big 12,Big 12
+2019,8,Boston College,NC State,45,24,False,ACC,ACC
+2019,8,UConn,Houston,17,24,False,American Athletic,American Athletic
+2019,8,Ohio,Kent State,45,38,False,Mid-American,Mid-American
+2019,8,Brown,Princeton,22,65,False,Ivy,Ivy
+2019,8,Delaware,New Hampshire,16,10,False,CAA,CAA
+2019,8,Indiana State,South Dakota State,23,42,False,MVFC,MVFC
+2019,8,Monmouth,Gardner-Webb,49,28,False,Big South,Big South
+2019,8,Long Island University,St. Francis (PA),0,30,False,NEC,NEC
+2019,8,Fordham,Lehigh,27,30,False,Patriot,Patriot
+2019,8,Holy Cross,Harvard,21,31,False,Patriot,Ivy
+2019,8,Jacksonville,Davidson,19,49,False,Pioneer,Pioneer
+2019,8,Furman,The Citadel,10,27,False,Southern,Southern
+2019,8,Central Connecticut,Bryant,52,14,False,NEC,NEC
+2019,8,Columbia,Pennsylvania,44,6,False,Ivy,Ivy
+2019,8,Cornell,Colgate,20,21,False,Ivy,Patriot
+2019,8,Wofford,Western Carolina,59,7,False,Southern,Southern
+2019,8,Western Illinois,Illinois State,14,28,False,MVFC,MVFC
+2019,8,Ball State,Toledo,52,14,False,Mid-American,Mid-American
+2019,8,Delaware State,Merrimack,21,30,False,MEAC,FCS Independents
+2019,8,Morehead State,Butler,31,20,False,Pioneer,Pioneer
+2019,8,Bowling Green,Central Michigan,20,38,False,Mid-American,Mid-American
+2019,8,Presbyterian,Kennesaw State,10,55,False,Big South,Big South
+2019,8,California,Oregon State,17,21,False,Pac-12,Pac-12
+2019,8,Miami (OH),Northern Illinois,27,24,False,Mid-American,Mid-American
+2019,8,Kansas State,TCU,24,17,False,Big 12,Big 12
+2019,8,Southern Illinois,Youngstown State,35,10,False,MVFC,MVFC
+2019,8,Northern Colorado,Portland State,30,38,False,Big Sky,Big Sky
+2019,8,Wyoming,New Mexico,23,10,False,Mountain West,Mountain West
+2019,8,Georgia Southern,Coastal Carolina,30,27,False,Sun Belt,Sun Belt
+2019,8,Murray State,Eastern Kentucky,27,34,False,OVC,OVC
+2019,8,Texas Southern,Southern,21,28,False,SWAC,SWAC
+2019,8,UT Martin,Eastern Illinois,27,18,False,OVC,OVC
+2019,8,Sam Houston,Nicholls,17,0,False,Southland,Southland
+2019,8,Prairie View A&M,Virginia University Of Lynchburg,51,0,False,SWAC,
+2019,8,Mississippi Valley State,Jackson State,28,31,False,SWAC,SWAC
+2019,8,Mercer,VMI,34,27,False,Southern,Southern
+2019,8,Navy,South Florida,35,3,False,American Athletic,American Athletic
+2019,8,Akron,Buffalo,0,21,False,Mid-American,Mid-American
+2019,8,William & Mary,James Madison,10,38,False,CAA,CAA
+2019,8,North Dakota State,Missouri State,22,0,False,MVFC,MVFC
+2019,8,UAlbany,Rhode Island,35,28,False,CAA,CAA
+2019,8,SMU,Temple,45,21,False,American Athletic,American Athletic
+2019,8,Rutgers,Minnesota,7,42,False,Big Ten,Big Ten
+2019,8,App State,UL Monroe,52,7,False,Sun Belt,Sun Belt
+2019,8,Maryland,Indiana,28,34,False,Big Ten,Big Ten
+2019,8,Virginia,Duke,48,14,False,ACC,ACC
+2019,8,Cincinnati,Tulsa,24,13,False,American Athletic,American Athletic
+2019,8,Washington,Oregon,31,35,False,Pac-12,Pac-12
+2019,8,Mississippi State,LSU,13,36,False,SEC,SEC
+2019,8,Virginia Tech,North Carolina,43,41,False,ACC,ACC
+2019,8,Louisiana Tech,Southern Miss,45,30,False,Conference USA,Conference USA
+2019,8,Jacksonville State,Southeast Missouri State,21,24,False,OVC,OVC
+2019,8,Abilene Christian,Stephen F. Austin,31,24,False,Southland,Southland
+2019,8,Stetson,Dayton,38,21,False,Pioneer,Pioneer
+2019,8,Oklahoma State,Baylor,27,45,False,Big 12,Big 12
+2019,8,UAB,Old Dominion,38,14,False,Conference USA,Conference USA
+2019,8,Vanderbilt,Missouri,21,14,False,SEC,SEC
+2019,8,Towson,Bucknell,56,7,False,CAA,Patriot
+2019,8,North Texas,Middle Tennessee,33,30,False,Conference USA,Conference USA
+2019,8,Western Kentucky,Charlotte,30,14,False,Conference USA,Conference USA
+2019,8,Weber State,Northern Arizona,51,28,False,Big Sky,Big Sky
+2019,8,Campbell,Hampton,31,16,False,Big South,Big South
+2019,8,McNeese,Houston Christian,42,27,False,Southland,Southland
+2019,8,San Diego,Valparaiso,42,17,False,Pioneer,Pioneer
+2019,8,Northern Iowa,South Dakota,42,27,False,MVFC,MVFC
+2019,8,Incarnate Word,Lamar,35,17,False,Southland,Southland
+2019,8,Tennessee State,Austin Peay,26,24,False,OVC,OVC
+2019,8,Idaho,Idaho State,45,21,False,Big Sky,Big Sky
+2019,8,UTSA,Rice,31,27,False,Conference USA,Conference USA
+2019,8,Richmond,Yale,27,28,False,CAA,Ivy
+2019,8,Utah,Arizona State,21,3,False,Pac-12,Pac-12
+2019,8,Georgia,Kentucky,21,0,False,SEC,SEC
+2019,8,Liberty,Maine,59,44,False,FBS Independents,CAA
+2019,8,UCF,East Carolina,41,28,False,American Athletic,American Athletic
+2019,8,Northwestern State,Central Arkansas,30,31,False,Southland,Southland
+2019,8,Bethune-Cookman,Norfolk State,35,22,False,MEAC,MEAC
+2019,8,Florida International,UTEP,32,17,False,Conference USA,Conference USA
+2019,8,Washington State,Colorado,41,10,False,Pac-12,Pac-12
+2019,8,Georgia State,Army,28,21,False,Sun Belt,FBS Independents
+2019,8,Eastern Michigan,Western Michigan,34,27,False,Mid-American,Mid-American
+2019,8,San José State,San Diego State,17,27,False,Mountain West,Mountain West
+2019,8,Memphis,Tulane,47,17,False,American Athletic,American Athletic
+2019,8,Texas,Kansas,50,48,False,Big 12,Big 12
+2019,8,North Alabama,Charleston Southern,20,25,False,Big South,Big South
+2019,8,Ole Miss,Texas A&M,17,24,False,SEC,SEC
+2019,8,Penn State,Michigan,28,21,False,Big Ten,Big Ten
+2019,8,Wake Forest,Florida State,22,20,False,ACC,ACC
+2019,8,Cal Poly,North Dakota,26,30,False,Big Sky,FCS Independents
+2019,8,Southern Utah,UC Davis,25,33,False,Big Sky,Big Sky
+2019,8,Alabama,Tennessee,35,13,False,SEC,SEC
+2019,8,Sacramento State,Montana,49,22,False,Big Sky,Big Sky
+2019,8,USC,Arizona,41,14,False,Pac-12,Pac-12
+2019,8,Utah State,Nevada,36,10,False,Mountain West,Mountain West
+2019,8,BYU,Boise State,28,25,False,FBS Independents,Mountain West
+2019,8,Hawai'i,Air Force,26,56,False,Mountain West,Mountain West
+2019,9,Florida A&M,North Carolina A&T,34,31,False,MEAC,MEAC
+2019,9,Prairie View A&M,Jackson State,35,38,False,SWAC,SWAC
+2019,9,Houston,SMU,31,34,False,American Athletic,American Athletic
+2019,9,Dartmouth,Columbia,59,24,False,Ivy,Ivy
+2019,9,Colorado,USC,31,35,False,Pac-12,Pac-12
+2019,9,Rutgers,Liberty,44,34,False,Big Ten,FBS Independents
+2019,9,Army,San José State,29,34,False,FBS Independents,Mountain West
+2019,9,South Alabama,App State,3,30,False,Sun Belt,Sun Belt
+2019,9,Ohio State,Wisconsin,38,7,False,Big Ten,Big Ten
+2019,9,Northwestern,Iowa,0,20,False,Big Ten,Big Ten
+2019,9,Texas A&M,Mississippi State,49,30,False,SEC,SEC
+2019,9,Kansas State,Oklahoma,48,41,False,Big 12,Big 12
+2019,9,Western Michigan,Bowling Green,49,10,False,Mid-American,Mid-American
+2019,9,Yale,Pennsylvania,46,41,False,Ivy,Ivy
+2019,9,St. Francis (PA),Sacred Heart,33,36,False,NEC,NEC
+2019,9,Dayton,San Diego,38,50,False,Pioneer,Pioneer
+2019,9,Robert Morris,Bryant,24,20,False,NEC,NEC
+2019,9,Central Connecticut,Long Island University,28,0,False,NEC,NEC
+2019,9,Pittsburgh,Miami,12,16,False,ACC,ACC
+2019,9,Purdue,Illinois,6,24,False,Big Ten,Big Ten
+2019,9,Lehigh,Georgetown,27,24,False,Patriot,Patriot
+2019,9,Maine,William & Mary,34,25,False,CAA,CAA
+2019,9,Rhode Island,Elon,13,38,False,CAA,CAA
+2019,9,North Carolina A&T,Howard,64,6,False,MEAC,MEAC
+2019,9,Rice,Southern Miss,6,20,False,Conference USA,Conference USA
+2019,9,Merrimack,Presbyterian,24,21,False,FCS Independents,Big South
+2019,9,North Dakota,Montana State,16,12,False,FCS Independents,Big Sky
+2019,9,Delaware,Richmond,25,35,False,CAA,CAA
+2019,9,Samford,East Tennessee State,24,17,False,Southern,Southern
+2019,9,Davidson,Marist,21,27,False,Pioneer,Pioneer
+2019,9,Valparaiso,Stetson,19,10,False,Pioneer,Pioneer
+2019,9,Holy Cross,Colgate,31,10,False,Patriot,Patriot
+2019,9,Princeton,Harvard,30,24,False,Ivy,Ivy
+2019,9,Duquesne,Wagner,28,24,False,NEC,NEC
+2019,9,Butler,Jacksonville,24,14,False,Pioneer,Pioneer
+2019,9,Wofford,Chattanooga,35,34,False,Southern,Southern
+2019,9,Gardner-Webb,Campbell,47,49,False,Big South,Big South
+2019,9,Cornell,Brown,37,35,False,Ivy,Ivy
+2019,9,Youngstown State,Western Illinois,59,14,False,MVFC,MVFC
+2019,9,Montana,Eastern Washington,34,17,False,Big Sky,Big Sky
+2019,9,The Citadel,Mercer,35,24,False,Southern,Southern
+2019,9,Drake,Morehead State,36,17,False,Pioneer,Pioneer
+2019,9,Wyoming,Nevada,31,3,False,Mountain West,Mountain West
+2019,9,Ball State,Ohio,21,34,False,Mid-American,Mid-American
+2019,9,Southeast Missouri State,UT Martin,17,10,False,OVC,OVC
+2019,9,Hampton,Virginia University Of Lynchburg,56,6,False,Big South,
+2019,9,North Carolina Central,Delaware State,30,23,False,MEAC,MEAC
+2019,9,Tennessee Tech,Austin Peay,21,58,False,OVC,OVC
+2019,9,Marshall,Western Kentucky,26,23,False,Conference USA,Conference USA
+2019,9,Eastern Illinois,Eastern Kentucky,6,33,False,OVC,OVC
+2019,9,Missouri State,Northern Iowa,6,29,False,MVFC,MVFC
+2019,9,Morgan State,Florida A&M,12,24,False,MEAC,MEAC
+2019,9,Kennesaw State,North Alabama,41,17,False,Big South,Big South
+2019,9,Alcorn State,Southern,27,13,False,SWAC,SWAC
+2019,9,Mississippi Valley State,Texas Southern,35,14,False,SWAC,SWAC
+2019,9,Illinois State,Indiana State,24,7,False,MVFC,MVFC
+2019,9,South Dakota State,North Dakota State,16,23,False,MVFC,MVFC
+2019,9,Houston Christian,SE Louisiana,13,52,False,Southland,Southland
+2019,9,Georgia Southern,New Mexico State,41,7,False,Sun Belt,FBS Independents
+2019,9,James Madison,Towson,27,10,False,CAA,CAA
+2019,9,Villanova,Stony Brook,35,36,False,CAA,CAA
+2019,9,Alabama State,Alabama A&M,41,43,False,SWAC,SWAC
+2019,9,LSU,Auburn,23,20,False,SEC,SEC
+2019,9,Navy,Tulane,41,38,False,American Athletic,American Athletic
+2019,9,Minnesota,Maryland,52,10,False,Big Ten,Big Ten
+2019,9,Old Dominion,Florida Atlantic,3,41,False,Conference USA,Conference USA
+2019,9,Middle Tennessee,Florida International,50,17,False,Conference USA,Conference USA
+2019,9,Buffalo,Central Michigan,43,20,False,Mid-American,Mid-American
+2019,9,Stanford,Arizona,41,31,False,Pac-12,Pac-12
+2019,9,Kent State,Miami (OH),16,23,False,Mid-American,Mid-American
+2019,9,Michigan State,Penn State,7,28,False,Big Ten,Big Ten
+2019,9,Charlotte,North Texas,39,38,False,Conference USA,Conference USA
+2019,9,Iowa State,Oklahoma State,27,34,False,Big 12,Big 12
+2019,9,Florida State,Syracuse,35,17,False,ACC,ACC
+2019,9,Lafayette,Bucknell,21,17,False,Patriot,Patriot
+2019,9,Western Carolina,Furman,7,28,False,Southern,Southern
+2019,9,Toledo,Eastern Michigan,37,34,False,Mid-American,Mid-American
+2019,9,TCU,Texas,37,27,False,Big 12,Big 12
+2019,9,Northern Illinois,Akron,49,0,False,Mid-American,Mid-American
+2019,9,Massachusetts,UConn,35,56,False,FBS Independents,American Athletic
+2019,9,Nebraska,Indiana,31,38,False,Big Ten,Big Ten
+2019,9,Louisville,Virginia,28,21,False,ACC,ACC
+2019,9,East Carolina,South Florida,20,45,False,American Athletic,American Athletic
+2019,9,Arkansas-Pine Bluff,Grambling,33,39,False,SWAC,SWAC
+2019,9,North Carolina,Duke,20,17,False,ACC,ACC
+2019,9,Bethune-Cookman,South Carolina State,19,27,False,MEAC,MEAC
+2019,9,Jacksonville State,Murray State,14,12,False,OVC,OVC
+2019,9,Stephen F. Austin,McNeese,10,33,False,Southland,Southland
+2019,9,New Mexico,Hawai'i,31,45,False,Mountain West,Mountain West
+2019,9,Tennessee,South Carolina,41,21,False,SEC,SEC
+2019,9,Nicholls,Abilene Christian,31,37,False,Southland,Southland
+2019,9,Southern Utah,Idaho State,59,34,False,Big Sky,Big Sky
+2019,9,Incarnate Word,Northwestern State,41,44,False,Southland,Southland
+2019,9,South Dakota,Southern Illinois,28,48,False,MVFC,MVFC
+2019,9,Charleston Southern,Monmouth,13,35,False,Big South,Big South
+2019,9,Central Arkansas,Sam Houston,29,25,False,Southland,Southland
+2019,9,Temple,UCF,21,63,False,American Athletic,American Athletic
+2019,9,Arkansas State,Texas State,38,14,False,Sun Belt,Sun Belt
+2019,9,Kansas,Texas Tech,37,34,False,Big 12,Big 12
+2019,9,Georgia State,Troy,52,33,False,Sun Belt,Sun Belt
+2019,9,Alabama,Arkansas,48,7,False,SEC,SEC
+2019,9,Northern Arizona,Portland State,31,29,False,Big Sky,Big Sky
+2019,9,UC Davis,Weber State,20,36,False,Big Sky,Big Sky
+2019,9,Tulsa,Memphis,41,42,False,American Athletic,American Athletic
+2019,9,Clemson,Boston College,59,7,False,ACC,ACC
+2019,9,Michigan,Notre Dame,45,14,False,Big Ten,FBS Independents
+2019,9,UCLA,Arizona State,42,32,False,Pac-12,Pac-12
+2019,9,Kentucky,Missouri,29,7,False,SEC,SEC
+2019,9,Fresno State,Colorado State,31,41,False,Mountain West,Mountain West
+2019,9,Cal Poly,Sacramento State,14,38,False,Big Sky,Big Sky
+2019,9,UTEP,Louisiana Tech,21,42,False,Conference USA,Conference USA
+2019,9,Utah,California,35,0,False,Pac-12,Pac-12
+2019,9,Air Force,Utah State,31,7,False,Mountain West,Mountain West
+2019,9,Oregon,Washington State,37,35,False,Pac-12,Pac-12
+2019,9,UNLV,San Diego State,17,20,False,Mountain West,Mountain West
+2019,10,App State,Georgia Southern,21,24,False,Sun Belt,Sun Belt
+2019,10,Baylor,West Virginia,17,14,False,Big 12,Big 12
+2019,10,Cornell,Princeton,7,21,False,Ivy,Ivy
+2019,10,UConn,Navy,10,56,False,American Athletic,American Athletic
+2019,10,Central Michigan,Northern Illinois,48,10,False,Mid-American,Mid-American
+2019,10,Robert Morris,Long Island University,28,17,False,NEC,NEC
+2019,10,UCF,Houston,44,29,False,American Athletic,American Athletic
+2019,10,Massachusetts,Liberty,21,63,False,FBS Independents,FBS Independents
+2019,10,Wake Forest,NC State,44,10,False,ACC,ACC
+2019,10,Eastern Michigan,Buffalo,14,43,False,Mid-American,Mid-American
+2019,10,Maryland,Michigan,7,38,False,Big Ten,Big Ten
+2019,10,Texas A&M,UTSA,45,14,False,SEC,Conference USA
+2019,10,Florida International,Old Dominion,24,17,False,Conference USA,Conference USA
+2019,10,Duquesne,St. Francis (PA),30,21,False,NEC,NEC
+2019,10,Purdue,Nebraska,31,27,False,Big Ten,Big Ten
+2019,10,Syracuse,Boston College,27,58,False,ACC,ACC
+2019,10,Yale,Columbia,45,10,False,Ivy,Ivy
+2019,10,Georgetown,Colgate,14,24,False,Patriot,Patriot
+2019,10,Marist,Butler,37,27,False,Pioneer,Pioneer
+2019,10,Wagner,Central Connecticut,13,27,False,NEC,NEC
+2019,10,Lafayette,Fordham,38,34,False,Patriot,Patriot
+2019,10,Lehigh,Holy Cross,17,24,False,Patriot,Patriot
+2019,10,Harvard,Dartmouth,6,9,False,Ivy,Ivy
+2019,10,Rhode Island,Merrimack,42,14,False,CAA,FCS Independents
+2019,10,Hampton,Presbyterian,40,17,False,Big South,Big South
+2019,10,Indiana State,Southern Illinois,14,23,False,MVFC,MVFC
+2019,10,Pennsylvania,Brown,38,36,False,Ivy,Ivy
+2019,10,Eastern Kentucky,Austin Peay,21,28,False,OVC,OVC
+2019,10,Bryant,Sacred Heart,17,24,False,NEC,NEC
+2019,10,Jacksonville,Stetson,24,27,False,Pioneer,Pioneer
+2019,10,Illinois State,Northern Iowa,10,27,False,MVFC,MVFC
+2019,10,Howard,North Carolina Central,6,28,False,MEAC,MEAC
+2019,10,New Hampshire,Villanova,28,20,False,CAA,CAA
+2019,10,Davidson,Valparaiso,27,21,False,Pioneer,Pioneer
+2019,10,Morehead State,Dayton,35,49,False,Pioneer,Pioneer
+2019,10,Gardner-Webb,Charleston Southern,27,30,False,Big South,Big South
+2019,10,South Carolina State,North Carolina A&T,20,22,False,MEAC,MEAC
+2019,10,VMI,Western Carolina,35,43,False,Southern,Southern
+2019,10,Kennesaw State,Monmouth,21,45,False,Big South,Big South
+2019,10,Bowling Green,Akron,35,6,False,Mid-American,Mid-American
+2019,10,Montana State,Southern Utah,42,7,False,Big Sky,Big Sky
+2019,10,Elon,William & Mary,29,31,False,CAA,CAA
+2019,10,Murray State,Tennessee Tech,7,17,False,OVC,OVC
+2019,10,Norfolk State,Morgan State,48,0,False,MEAC,MEAC
+2019,10,Towson,Delaware,31,24,False,CAA,CAA
+2019,10,Chattanooga,Furman,20,35,False,Southern,Southern
+2019,10,Mississippi Valley State,Alabama State,0,27,False,SWAC,SWAC
+2019,10,Western Illinois,South Dakota,38,34,False,MVFC,MVFC
+2019,10,Notre Dame,Virginia Tech,21,20,False,FBS Independents,ACC
+2019,10,North Alabama,Campbell,25,24,False,Big South,Big South
+2019,10,Tennessee State,Southeast Missouri State,13,32,False,OVC,OVC
+2019,10,UT Martin,Jacksonville State,22,17,False,OVC,OVC
+2019,10,Missouri State,South Dakota State,14,35,False,MVFC,MVFC
+2019,10,Richmond,Stony Brook,30,10,False,CAA,CAA
+2019,10,Coastal Carolina,Troy,36,35,False,Sun Belt,Sun Belt
+2019,10,Grambling,Texas Southern,55,20,False,SWAC,SWAC
+2019,10,East Tennessee State,The Citadel,27,31,False,Southern,Southern
+2019,10,Illinois,Rutgers,38,10,False,Big Ten,Big Ten
+2019,10,Colorado State,UNLV,37,17,False,Mountain West,Mountain West
+2019,10,Florida,Georgia,17,24,True,SEC,SEC
+2019,10,UAlbany,Maine,31,47,False,CAA,CAA
+2019,10,North Texas,UTEP,52,26,False,Conference USA,Conference USA
+2019,10,Oklahoma State,TCU,34,27,False,Big 12,Big 12
+2019,10,UL Monroe,Arkansas State,41,48,False,Sun Belt,Sun Belt
+2019,10,Rice,Marshall,7,20,False,Conference USA,Conference USA
+2019,10,Air Force,Army,17,13,False,Mountain West,FBS Independents
+2019,10,Florida State,Miami,10,27,False,ACC,ACC
+2019,10,Charlotte,Middle Tennessee,34,20,False,Conference USA,Conference USA
+2019,10,Kansas,Kansas State,10,38,False,Big 12,Big 12
+2019,10,Arkansas,Mississippi State,24,54,False,SEC,SEC
+2019,10,Georgia Tech,Pittsburgh,10,20,False,ACC,ACC
+2019,10,Western Kentucky,Florida Atlantic,24,35,False,Conference USA,Conference USA
+2019,10,Washington,Utah,28,33,False,Pac-12,Pac-12
+2019,10,Clemson,Wofford,59,14,False,ACC,Southern
+2019,10,Lamar,Central Arkansas,17,45,False,Southland,Southland
+2019,10,Florida A&M,Delaware State,52,30,False,MEAC,MEAC
+2019,10,Tulane,Tulsa,38,26,False,American Athletic,American Athletic
+2019,10,Eastern Washington,Northern Arizona,66,38,False,Big Sky,Big Sky
+2019,10,Idaho State,Northern Colorado,20,26,False,Big Sky,Big Sky
+2019,10,Arizona,Oregon State,38,56,False,Pac-12,Pac-12
+2019,10,McNeese,Northwestern State,30,20,False,Southland,Southland
+2019,10,Louisiana,Texas State,31,3,False,Sun Belt,Sun Belt
+2019,10,SE Louisiana,Stephen F. Austin,47,30,False,Southland,Southland
+2019,10,San Diego,Drake,49,7,False,Pioneer,Pioneer
+2019,10,Idaho,Cal Poly,21,9,False,Big Sky,Big Sky
+2019,10,Southern,Alabama A&M,35,31,False,SWAC,SWAC
+2019,10,Incarnate Word,Nicholls,23,27,False,Southland,Southland
+2019,10,Portland State,Montana,23,38,False,Big Sky,Big Sky
+2019,10,Youngstown State,North Dakota State,17,56,False,MVFC,MVFC
+2019,10,East Carolina,Cincinnati,43,46,False,American Athletic,American Athletic
+2019,10,Tennessee,UAB,30,7,False,SEC,Conference USA
+2019,10,Indiana,Northwestern,34,3,False,Big Ten,Big Ten
+2019,10,Mercer,Samford,36,33,False,Southern,Southern
+2019,10,Jackson State,Arkansas-Pine Bluff,21,12,False,SWAC,SWAC
+2019,10,Auburn,Ole Miss,20,14,False,SEC,SEC
+2019,10,Memphis,SMU,54,48,False,American Athletic,American Athletic
+2019,10,North Carolina,Virginia,31,38,False,ACC,ACC
+2019,10,South Carolina,Vanderbilt,24,7,False,SEC,SEC
+2019,10,USC,Oregon,24,56,False,Pac-12,Pac-12
+2019,10,Sacramento State,Weber State,17,36,False,Big Sky,Big Sky
+2019,10,UCLA,Colorado,31,14,False,Pac-12,Pac-12
+2019,10,Utah State,BYU,14,42,False,Mountain West,FBS Independents
+2019,10,Nevada,New Mexico,21,10,False,Mountain West,Mountain West
+2019,10,San José State,Boise State,42,52,False,Mountain West,Mountain West
+2019,10,Hawai'i,Fresno State,38,41,False,Mountain West,Mountain West
+2019,11,Toledo,Kent State,35,33,False,Mid-American,Mid-American
+2019,11,Western Michigan,Ball State,35,31,False,Mid-American,Mid-American
+2019,11,Ohio,Miami (OH),21,24,False,Mid-American,Mid-American
+2019,11,Coastal Carolina,Louisiana,7,48,False,Sun Belt,Sun Belt
+2019,11,South Florida,Temple,7,17,False,American Athletic,American Athletic
+2019,11,Tulsa,UCF,34,31,False,American Athletic,American Athletic
+2019,11,Oregon State,Washington,7,19,False,Pac-12,Pac-12
+2019,11,SMU,East Carolina,59,51,False,American Athletic,American Athletic
+2019,11,Florida,Vanderbilt,56,0,False,SEC,SEC
+2019,11,Ohio State,Maryland,73,14,False,Big Ten,Big Ten
+2019,11,Army,Massachusetts,63,7,False,FBS Independents,FBS Independents
+2019,11,Arkansas,Western Kentucky,19,45,False,SEC,Conference USA
+2019,11,Boston College,Florida State,31,38,False,ACC,ACC
+2019,11,West Virginia,Texas Tech,17,38,False,Big 12,Big 12
+2019,11,TCU,Baylor,23,29,False,Big 12,Big 12
+2019,11,Sacred Heart,Wagner,41,7,False,NEC,NEC
+2019,11,Northwestern,Purdue,22,24,False,Big Ten,Big Ten
+2019,11,Central Connecticut,St. Francis (PA),38,31,False,NEC,NEC
+2019,11,Holy Cross,Lafayette,20,23,False,Patriot,Patriot
+2019,11,Stetson,San Diego,7,51,False,Pioneer,Pioneer
+2019,11,Butler,Davidson,10,52,False,Pioneer,Pioneer
+2019,11,Monmouth,North Alabama,49,38,False,Big South,Big South
+2019,11,Minnesota,Penn State,31,26,False,Big Ten,Big Ten
+2019,11,Brown,Yale,35,59,False,Ivy,Ivy
+2019,11,Virginia,Georgia Tech,33,28,False,ACC,ACC
+2019,11,Dayton,Marist,59,35,False,Pioneer,Pioneer
+2019,11,Morgan State,North Carolina A&T,22,16,False,MEAC,MEAC
+2019,11,Delaware,UAlbany,17,21,False,CAA,CAA
+2019,11,Furman,VMI,60,21,False,Southern,Southern
+2019,11,William & Mary,Rhode Island,55,19,False,CAA,CAA
+2019,11,Bucknell,Lehigh,20,10,False,Patriot,Patriot
+2019,11,Columbia,Harvard,17,10,False,Ivy,Ivy
+2019,11,Colgate,Fordham,24,13,False,Patriot,Patriot
+2019,11,Robert Morris,Duquesne,41,21,False,NEC,NEC
+2019,11,Presbyterian,Gardner-Webb,24,14,False,Big South,Big South
+2019,11,Campbell,Kennesaw State,35,38,False,Big South,Big South
+2019,11,Villanova,Richmond,35,28,False,CAA,CAA
+2019,11,South Carolina State,Howard,62,21,False,MEAC,MEAC
+2019,11,Pennsylvania,Cornell,21,20,False,Ivy,Ivy
+2019,11,Drake,Jacksonville,28,14,False,Pioneer,Pioneer
+2019,11,Alabama A&M,Jackson State,48,43,False,SWAC,SWAC
+2019,11,Southeast Missouri State,Eastern Kentucky,38,31,False,OVC,OVC
+2019,11,Valparaiso,Morehead State,21,27,False,Pioneer,Pioneer
+2019,11,Elon,Maine,17,31,False,CAA,CAA
+2019,11,Stony Brook,Towson,14,31,False,CAA,CAA
+2019,11,Northern Colorado,Montana State,14,45,False,Big Sky,Big Sky
+2019,11,Delaware State,Bethune-Cookman,16,13,False,MEAC,MEAC
+2019,11,North Carolina Central,Norfolk State,21,38,False,MEAC,MEAC
+2019,11,Old Dominion,UTSA,23,24,False,Conference USA,Conference USA
+2019,11,Tennessee Tech,Jacksonville State,37,27,False,OVC,OVC
+2019,11,Southern Illinois,Missouri State,37,14,False,MVFC,MVFC
+2019,11,Colorado,Stanford,16,13,False,Pac-12,Pac-12
+2019,11,Texas State,South Alabama,30,28,False,Sun Belt,Sun Belt
+2019,11,South Dakota State,Illinois State,18,27,False,MVFC,MVFC
+2019,11,Samford,Chattanooga,27,35,False,Southern,Southern
+2019,11,Prairie View A&M,Arkansas-Pine Bluff,37,20,False,SWAC,SWAC
+2019,11,Mercer,Wofford,7,41,False,Southern,Southern
+2019,11,Grambling,Alcorn State,19,16,False,SWAC,SWAC
+2019,11,Texas Southern,Alabama State,21,27,False,SWAC,SWAC
+2019,11,Tennessee State,Eastern Illinois,38,49,False,OVC,OVC
+2019,11,UTEP,Charlotte,21,28,False,Conference USA,Conference USA
+2019,11,South Dakota,Youngstown State,56,21,False,MVFC,MVFC
+2019,11,Montana,Idaho,42,17,False,Big Sky,Big Sky
+2019,11,Troy,Georgia Southern,49,28,False,Sun Belt,Sun Belt
+2019,11,Texas,Kansas State,27,24,False,Big 12,Big 12
+2019,11,Dartmouth,Princeton,27,10,False,Ivy,Ivy
+2019,11,James Madison,New Hampshire,54,16,False,CAA,CAA
+2019,11,Miami,Louisville,52,27,False,ACC,ACC
+2019,11,Western Carolina,East Tennessee State,23,20,False,Southern,Southern
+2019,11,Alabama,LSU,41,46,False,SEC,SEC
+2019,11,Michigan State,Illinois,34,37,False,Big Ten,Big Ten
+2019,11,Cincinnati,UConn,48,3,False,American Athletic,American Athletic
+2019,11,Virginia Tech,Wake Forest,36,17,False,ACC,ACC
+2019,11,Arizona State,USC,26,31,False,Pac-12,Pac-12
+2019,11,North Dakota State,Western Illinois,57,21,False,MVFC,MVFC
+2019,11,Southern Miss,UAB,37,2,False,Conference USA,Conference USA
+2019,11,Ole Miss,New Mexico State,41,3,False,SEC,FBS Independents
+2019,11,Louisiana Tech,North Texas,52,17,False,Conference USA,Conference USA
+2019,11,Wisconsin,Iowa,24,22,False,Big Ten,Big Ten
+2019,11,Abilene Christian,Sam Houston,10,24,False,Southland,Southland
+2019,11,Northern Arizona,Sacramento State,34,38,False,Big Sky,Big Sky
+2019,11,Weber State,North Dakota,30,27,False,Big Sky,FCS Independents
+2019,11,Nicholls,Houston Christian,48,27,False,Southland,Southland
+2019,11,Central Arkansas,SE Louisiana,0,34,False,Southland,Southland
+2019,11,Austin Peay,UT Martin,38,24,False,OVC,OVC
+2019,11,Idaho State,Eastern Washington,5,48,False,Big Sky,Big Sky
+2019,11,Southern,Virginia University Of Lynchburg,58,7,False,SWAC,
+2019,11,Stephen F. Austin,Incarnate Word,31,24,False,Southland,Southland
+2019,11,Northern Iowa,Indiana State,17,9,False,MVFC,MVFC
+2019,11,UL Monroe,Georgia State,45,31,False,Sun Belt,Sun Belt
+2019,11,Portland State,UC Davis,28,45,False,Big Sky,Big Sky
+2019,11,Charleston Southern,Hampton,27,20,False,Big South,Big South
+2019,11,Florida Atlantic,Florida International,37,7,False,Conference USA,Conference USA
+2019,11,Georgia,Missouri,27,0,False,SEC,SEC
+2019,11,California,Washington State,33,20,False,Pac-12,Pac-12
+2019,11,South Carolina,App State,15,20,False,SEC,Sun Belt
+2019,11,Fresno State,Utah State,35,37,False,Mountain West,Mountain West
+2019,11,Duke,Notre Dame,7,38,False,ACC,FBS Independents
+2019,11,BYU,Liberty,31,24,False,FBS Independents,FBS Independents
+2019,11,NC State,Clemson,10,55,False,ACC,ACC
+2019,11,Kentucky,Tennessee,13,17,False,SEC,SEC
+2019,11,Northwestern State,Lamar,34,13,False,Southland,Southland
+2019,11,Oklahoma,Iowa State,42,41,False,Big 12,Big 12
+2019,11,Boise State,Wyoming,20,17,False,Mountain West,Mountain West
+2019,11,San Diego State,Nevada,13,17,False,Mountain West,Mountain West
+2019,11,Hawai'i,San José State,42,40,False,Mountain West,Mountain West
+2019,12,Akron,Eastern Michigan,14,42,False,Mid-American,Mid-American
+2019,12,Ohio,Western Michigan,34,37,False,Mid-American,Mid-American
+2019,12,Toledo,Northern Illinois,28,31,False,Mid-American,Mid-American
+2019,12,Miami (OH),Bowling Green,44,3,False,Mid-American,Mid-American
+2019,12,Kent State,Buffalo,30,27,False,Mid-American,Mid-American
+2019,12,Pittsburgh,North Carolina,34,27,False,ACC,ACC
+2019,12,Marshall,Louisiana Tech,31,10,False,Conference USA,Conference USA
+2019,12,Villanova,Long Island University,35,7,False,CAA,NEC
+2019,12,San Diego State,Fresno State,17,7,False,Mountain West,Mountain West
+2019,12,Florida State,Alabama State,49,12,False,ACC,SWAC
+2019,12,Penn State,Indiana,34,27,False,Big Ten,Big Ten
+2019,12,Northwestern,Massachusetts,45,6,False,Big Ten,FBS Independents
+2019,12,Texas Tech,TCU,31,33,False,Big 12,Big 12
+2019,12,Missouri,Florida,6,23,False,SEC,SEC
+2019,12,Oklahoma State,Kansas,31,13,False,Big 12,Big 12
+2019,12,Temple,Tulane,29,21,False,American Athletic,American Athletic
+2019,12,Mississippi State,Alabama,7,38,False,SEC,SEC
+2019,12,Nebraska,Wisconsin,21,37,False,Big Ten,Big Ten
+2019,12,Army,VMI,47,6,False,FBS Independents,Southern
+2019,12,Stetson,Davidson,14,42,False,Pioneer,Pioneer
+2019,12,Butler,Valparaiso,24,21,False,Pioneer,Pioneer
+2019,12,Harvard,Pennsylvania,20,24,False,Ivy,Ivy
+2019,12,Michigan,Michigan State,44,10,False,Big Ten,Big Ten
+2019,12,Central Connecticut,Robert Morris,49,28,False,NEC,NEC
+2019,12,Maine,Rhode Island,34,30,False,CAA,CAA
+2019,12,Sacred Heart,Lehigh,13,6,False,NEC,Patriot
+2019,12,St. Francis (PA),Wagner,42,8,False,NEC,NEC
+2019,12,Marist,Jacksonville,45,52,False,Pioneer,Pioneer
+2019,12,Lafayette,Colgate,0,16,False,Patriot,Patriot
+2019,12,Sam Houston,Northwestern State,28,31,False,Southland,Southland
+2019,12,Campbell,Monmouth,10,47,False,Big South,Big South
+2019,12,Presbyterian,Charleston Southern,7,27,False,Big South,Big South
+2019,12,Hampton,Kennesaw State,7,50,False,Big South,Big South
+2019,12,Eastern Illinois,Southeast Missouri State,12,26,False,OVC,OVC
+2019,12,Murray State,Austin Peay,7,42,False,OVC,OVC
+2019,12,UAlbany,New Hampshire,24,17,False,CAA,CAA
+2019,12,Delaware,Stony Brook,17,10,False,CAA,CAA
+2019,12,North Carolina A&T,Bethune-Cookman,47,17,False,MEAC,MEAC
+2019,12,Illinois State,Missouri State,17,12,False,MVFC,MVFC
+2019,12,Indiana State,Youngstown State,24,17,False,MVFC,MVFC
+2019,12,Bryant,Duquesne,20,16,False,NEC,NEC
+2019,12,Morgan State,Virginia University Of Lynchburg,59,26,False,MEAC,
+2019,12,Merrimack,Franklin Pierce,57,0,False,FCS Independents,Northeast 10
+2019,12,Princeton,Yale,14,51,False,Ivy,Ivy
+2019,12,Columbia,Brown,24,48,False,Ivy,Ivy
+2019,12,William & Mary,Towson,10,31,False,CAA,CAA
+2019,12,Eastern Kentucky,Tennessee Tech,22,10,False,OVC,OVC
+2019,12,UAB,UTEP,37,10,False,Conference USA,Conference USA
+2019,12,Fordham,Holy Cross,27,49,False,Patriot,Patriot
+2019,12,East Tennessee State,Mercer,38,33,False,Southern,Southern
+2019,12,Bucknell,Georgetown,20,17,False,Patriot,Patriot
+2019,12,Gardner-Webb,North Alabama,30,34,False,Big South,Big South
+2019,12,Dartmouth,Cornell,17,20,False,Ivy,Ivy
+2019,12,Wofford,Furman,24,7,False,Southern,Southern
+2019,12,Western Illinois,Southern Illinois,21,45,False,MVFC,MVFC
+2019,12,Mississippi Valley State,Grambling,0,40,False,SWAC,SWAC
+2019,12,North Carolina Central,South Carolina State,0,24,False,MEAC,MEAC
+2019,12,Chattanooga,The Citadel,34,33,False,Southern,Southern
+2019,12,North Dakota,Northern Colorado,45,38,False,FCS Independents,Big Sky
+2019,12,Drake,Dayton,29,46,False,Pioneer,Pioneer
+2019,12,Delaware State,Norfolk State,17,33,False,MEAC,MEAC
+2019,12,Abilene Christian,SE Louisiana,14,35,False,Southland,Southland
+2019,12,Western Carolina,Samford,13,31,False,Southern,Southern
+2019,12,Notre Dame,Navy,52,20,False,FBS Independents,American Athletic
+2019,12,BYU,Idaho State,42,10,False,FBS Independents,Big Sky
+2019,12,Georgia Southern,UL Monroe,51,29,False,Sun Belt,Sun Belt
+2019,12,Texas State,Troy,27,63,False,Sun Belt,Sun Belt
+2019,12,Arkansas State,Coastal Carolina,28,27,False,Sun Belt,Sun Belt
+2019,12,UT Martin,Tennessee State,28,17,False,OVC,OVC
+2019,12,Montana,Weber State,35,16,False,Big Sky,Big Sky
+2019,12,South Dakota State,Northern Iowa,38,7,False,MVFC,MVFC
+2019,12,Alcorn State,Alabama A&M,34,28,False,SWAC,SWAC
+2019,12,Jackson State,Southern,34,40,False,SWAC,SWAC
+2019,12,Prairie View A&M,Edward Waters,41,14,False,SWAC,SIAC
+2019,12,Houston Christian,Lamar,31,26,False,Southland,Southland
+2019,12,Kansas State,West Virginia,20,24,False,Big 12,Big 12
+2019,12,James Madison,Richmond,48,6,False,CAA,CAA
+2019,12,North Dakota State,South Dakota,49,14,False,MVFC,MVFC
+2019,12,Clemson,Wake Forest,52,3,False,ACC,ACC
+2019,12,Rutgers,Ohio State,21,56,False,Big Ten,Big Ten
+2019,12,Georgia Tech,Virginia Tech,0,45,False,ACC,ACC
+2019,12,Iowa State,Texas,23,21,False,Big 12,Big 12
+2019,12,Houston,Memphis,27,45,False,American Athletic,American Athletic
+2019,12,Vanderbilt,Kentucky,14,38,False,SEC,SEC
+2019,12,Ball State,Central Michigan,44,45,False,Mid-American,Mid-American
+2019,12,Auburn,Georgia,14,21,False,SEC,SEC
+2019,12,Iowa,Minnesota,23,19,False,Big Ten,Big Ten
+2019,12,Nicholls,McNeese,34,20,False,Southland,Southland
+2019,12,New Mexico State,Incarnate Word,41,28,False,FBS Independents,Southland
+2019,12,Central Arkansas,Stephen F. Austin,30,7,False,Southland,Southland
+2019,12,Utah State,Wyoming,26,21,False,Mountain West,Mountain West
+2019,12,UNLV,Hawai'i,7,21,False,Mountain West,Mountain West
+2019,12,Southern Utah,Northern Arizona,31,30,False,Big Sky,Big Sky
+2019,12,Florida A&M,Howard,39,7,False,MEAC,MEAC
+2019,12,Duke,Syracuse,6,49,False,ACC,ACC
+2019,12,Washington State,Stanford,49,22,False,Pac-12,Pac-12
+2019,12,Middle Tennessee,Rice,28,31,False,Conference USA,Conference USA
+2019,12,Idaho,Sacramento State,7,31,False,Big Sky,Big Sky
+2019,12,San Diego,Morehead State,52,20,False,Pioneer,Pioneer
+2019,12,South Alabama,Louisiana,27,37,False,Sun Belt,Sun Belt
+2019,12,UTSA,Southern Miss,17,36,False,Conference USA,Conference USA
+2019,12,Ole Miss,LSU,37,58,False,SEC,SEC
+2019,12,UC Davis,Montana State,17,27,False,Big Sky,Big Sky
+2019,12,South Florida,Cincinnati,17,20,False,American Athletic,American Athletic
+2019,12,Colorado State,Air Force,21,38,False,Mountain West,Mountain West
+2019,12,NC State,Louisville,20,34,False,ACC,ACC
+2019,12,Georgia State,App State,27,56,False,Sun Belt,Sun Belt
+2019,12,Texas A&M,South Carolina,30,6,False,SEC,SEC
+2019,12,Baylor,Oklahoma,31,34,False,Big 12,Big 12
+2019,12,Oregon State,Arizona State,35,34,False,Pac-12,Pac-12
+2019,12,Utah,UCLA,49,3,False,Pac-12,Pac-12
+2019,12,Cal Poly,Eastern Washington,41,42,False,Big Sky,Big Sky
+2019,12,Boise State,New Mexico,42,9,False,Mountain West,Mountain West
+2019,12,Oregon,Arizona,34,6,False,Pac-12,Pac-12
+2019,12,California,USC,17,41,False,Pac-12,Pac-12
+2019,12,Monmouth,Hampton,48,13,False,Big South,Big South
+2019,12,Kennesaw State,Gardner-Webb,42,14,False,Big South,Big South
+2019,12,Charleston Southern,Campbell,41,31,False,Big South,Big South
+2019,13,Northern Illinois,Eastern Michigan,17,45,False,Mid-American,Mid-American
+2019,13,Bowling Green,Ohio,24,66,False,Mid-American,Mid-American
+2019,13,Miami (OH),Akron,20,17,False,Mid-American,Mid-American
+2019,13,Buffalo,Toledo,49,30,False,Mid-American,Mid-American
+2019,13,SE Louisiana,Nicholls,27,28,False,Southland,Southland
+2019,13,Northwestern State,Stephen F. Austin,20,32,False,Southland,Southland
+2019,13,Georgia Tech,NC State,28,26,False,ACC,ACC
+2019,13,Incarnate Word,Central Arkansas,35,52,False,Southland,Southland
+2019,13,Wyoming,Colorado State,17,7,False,Mountain West,Mountain West
+2019,13,Massachusetts,BYU,24,56,False,FBS Independents,FBS Independents
+2019,13,West Virginia,Oklahoma State,13,20,False,Big 12,Big 12
+2019,13,Iowa,Illinois,19,10,False,Big Ten,Big Ten
+2019,13,Rutgers,Michigan State,0,27,False,Big Ten,Big Ten
+2019,13,Kent State,Ball State,41,38,False,Mid-American,Mid-American
+2019,13,Tulane,UCF,31,34,False,American Athletic,American Athletic
+2019,13,Northwestern,Minnesota,22,38,False,Big Ten,Big Ten
+2019,13,Virginia,Liberty,55,27,False,ACC,FBS Independents
+2019,13,Iowa State,Kansas,41,31,False,Big 12,Big 12
+2019,13,UConn,East Carolina,24,31,False,American Athletic,American Athletic
+2019,13,Yale,Harvard,50,43,False,Ivy,Ivy
+2019,13,Duquesne,Central Connecticut,10,43,False,NEC,NEC
+2019,13,Wagner,Bryant,10,14,False,NEC,NEC
+2019,13,Richmond,William & Mary,15,21,False,CAA,CAA
+2019,13,Rhode Island,James Madison,21,55,False,CAA,CAA
+2019,13,Youngstown State,Illinois State,21,3,False,MVFC,MVFC
+2019,13,Brown,Dartmouth,23,29,False,Ivy,Ivy
+2019,13,Jacksonville,San Diego,28,47,True,Pioneer,Pioneer
+2019,13,The Citadel,Wofford,11,31,False,Southern,Southern
+2019,13,Holy Cross,Georgetown,24,0,False,Patriot,Patriot
+2019,13,Long Island University,Merrimack,10,24,False,NEC,FCS Independents
+2019,13,Auburn,Samford,52,0,False,SEC,Southern
+2019,13,Ohio State,Penn State,28,17,False,Big Ten,Big Ten
+2019,13,Alabama,Western Carolina,66,3,False,SEC,Southern
+2019,13,Robert Morris,Sacred Heart,16,14,False,NEC,NEC
+2019,13,Lehigh,Lafayette,16,17,False,Patriot,Patriot
+2019,13,Furman,Point University,64,7,False,Southern,
+2019,13,Dayton,Butler,51,38,False,Pioneer,Pioneer
+2019,13,Morehead State,Stetson,16,31,False,Pioneer,Pioneer
+2019,13,North Carolina A&T,North Carolina Central,54,0,False,MEAC,MEAC
+2019,13,Fordham,Bucknell,31,14,True,Patriot,Patriot
+2019,13,Sam Houston,Houston Christian,37,14,False,Southland,Southland
+2019,13,Norfolk State,South Carolina State,17,20,False,MEAC,MEAC
+2019,13,Howard,Morgan State,20,15,False,MEAC,MEAC
+2019,13,New Hampshire,Maine,28,10,False,CAA,CAA
+2019,13,Villanova,Delaware,55,33,False,CAA,CAA
+2019,13,VMI,Chattanooga,31,24,False,Southern,Southern
+2019,13,Davidson,Drake,28,31,False,Pioneer,Pioneer
+2019,13,Pennsylvania,Princeton,7,28,False,Ivy,Ivy
+2019,13,Cornell,Columbia,35,9,False,Ivy,Ivy
+2019,13,Delaware State,St. Francis (PA),21,35,False,MEAC,NEC
+2019,13,Northern Iowa,Western Illinois,38,7,False,MVFC,MVFC
+2019,13,Towson,Elon,23,25,False,CAA,CAA
+2019,13,Stony Brook,UAlbany,26,31,False,CAA,CAA
+2019,13,Valparaiso,Marist,14,26,False,Pioneer,Pioneer
+2019,13,Alabama A&M,Mississippi Valley State,30,13,False,SWAC,SWAC
+2019,13,Montana State,Montana,48,14,False,Big Sky,Big Sky
+2019,13,North Dakota,Southern Utah,36,18,False,FCS Independents,Big Sky
+2019,13,Jacksonville State,Eastern Kentucky,23,29,False,OVC,OVC
+2019,13,Southeast Missouri State,Murray State,31,24,True,OVC,OVC
+2019,13,Georgia State,South Alabama,28,15,False,Sun Belt,Sun Belt
+2019,13,New Mexico,Air Force,22,44,False,Mountain West,Mountain West
+2019,13,Northern Colorado,Cal Poly,21,28,False,Big Sky,Big Sky
+2019,13,Tennessee Tech,Tennessee State,27,37,False,OVC,OVC
+2019,13,App State,Texas State,35,13,False,Sun Belt,Sun Belt
+2019,13,Notre Dame,Boston College,40,7,False,FBS Independents,ACC
+2019,13,Arkansas State,Georgia Southern,38,33,False,Sun Belt,Sun Belt
+2019,13,Southern Illinois,North Dakota State,7,21,False,MVFC,MVFC
+2019,13,Jackson State,Alcorn State,6,41,False,SWAC,SWAC
+2019,13,South Dakota,South Dakota State,24,21,False,MVFC,MVFC
+2019,13,Austin Peay,Eastern Illinois,35,7,False,OVC,OVC
+2019,13,Missouri State,Indiana State,24,51,False,MVFC,MVFC
+2019,13,Rice,North Texas,20,14,False,Conference USA,Conference USA
+2019,13,Kentucky,UT Martin,50,7,False,SEC,OVC
+2019,13,Bethune-Cookman,Florida A&M,31,27,True,MEAC,MEAC
+2019,13,USC,UCLA,52,35,False,Pac-12,Pac-12
+2019,13,Vanderbilt,East Tennessee State,38,0,False,SEC,Southern
+2019,13,Navy,SMU,35,28,False,American Athletic,American Athletic
+2019,13,Baylor,Texas,24,10,False,Big 12,Big 12
+2019,13,North Carolina,Mercer,56,7,False,ACC,Southern
+2019,13,Maryland,Nebraska,7,54,False,Big Ten,Big Ten
+2019,13,Georgia,Texas A&M,19,13,False,SEC,SEC
+2019,13,Southern Miss,Western Kentucky,10,28,False,Conference USA,Conference USA
+2019,13,Charlotte,Marshall,24,13,False,Conference USA,Conference USA
+2019,13,Indiana,Michigan,14,39,False,Big Ten,Big Ten
+2019,13,Virginia Tech,Pittsburgh,28,0,False,ACC,ACC
+2019,13,UAB,Louisiana Tech,20,14,False,Conference USA,Conference USA
+2019,13,New Mexico State,UTEP,44,35,False,FBS Independents,Conference USA
+2019,13,Wisconsin,Purdue,45,24,False,Big Ten,Big Ten
+2019,13,UNLV,San José State,38,35,False,Mountain West,Mountain West
+2019,13,Stanford,California,20,24,False,Pac-12,Pac-12
+2019,13,South Florida,Memphis,10,49,False,American Athletic,American Athletic
+2019,13,Louisville,Syracuse,56,34,False,ACC,ACC
+2019,13,Weber State,Idaho State,38,10,False,Big Sky,Big Sky
+2019,13,Arkansas-Pine Bluff,Texas Southern,45,13,False,SWAC,SWAC
+2019,13,Northern Arizona,Idaho,53,60,False,Big Sky,Big Sky
+2019,13,Lamar,McNeese,3,27,False,Southland,Southland
+2019,13,Eastern Washington,Portland State,53,46,False,Big Sky,Big Sky
+2019,13,Middle Tennessee,Old Dominion,38,17,False,Conference USA,Conference USA
+2019,13,UL Monroe,Coastal Carolina,45,42,False,Sun Belt,Sun Belt
+2019,13,Louisiana,Troy,53,3,False,Sun Belt,Sun Belt
+2019,13,Sacramento State,UC Davis,27,17,False,Big Sky,Big Sky
+2019,13,UTSA,Florida Atlantic,26,40,False,Conference USA,Conference USA
+2019,13,Cincinnati,Temple,15,13,False,American Athletic,American Athletic
+2019,13,LSU,Arkansas,56,20,False,SEC,SEC
+2019,13,Florida International,Miami,30,24,False,Conference USA,ACC
+2019,13,Texas Tech,Kansas State,27,30,False,Big 12,Big 12
+2019,13,Arizona State,Oregon,31,28,False,Pac-12,Pac-12
+2019,13,Missouri,Tennessee,20,24,False,SEC,SEC
+2019,13,Wake Forest,Duke,39,27,False,ACC,ACC
+2019,13,Tulsa,Houston,14,24,False,American Athletic,American Athletic
+2019,13,Mississippi State,Abilene Christian,45,7,False,SEC,Southland
+2019,13,Oklahoma,TCU,28,24,False,Big 12,Big 12
+2019,13,Washington State,Oregon State,54,53,False,Pac-12,Pac-12
+2019,13,Arizona,Utah,7,35,False,Pac-12,Pac-12
+2019,13,Colorado,Washington,20,14,False,Pac-12,Pac-12
+2019,13,Fresno State,Nevada,28,35,False,Mountain West,Mountain West
+2019,13,Utah State,Boise State,21,56,False,Mountain West,Mountain West
+2019,13,Hawai'i,San Diego State,14,11,False,Mountain West,Mountain West
+2019,14,Akron,Ohio,3,52,False,Mid-American,Mid-American
+2019,14,Northern Illinois,Western Michigan,17,14,False,Mid-American,Mid-American
+2019,14,Alabama State,Prairie View A&M,17,20,False,SWAC,SWAC
+2019,14,Mississippi State,Ole Miss,21,20,False,SEC,SEC
+2019,14,Ball State,Miami (OH),41,27,False,Mid-American,Mid-American
+2019,14,Central Michigan,Toledo,49,7,False,Mid-American,Mid-American
+2019,14,Buffalo,Bowling Green,49,7,False,Mid-American,Mid-American
+2019,14,Eastern Michigan,Kent State,26,34,False,Mid-American,Mid-American
+2019,14,Virginia,Virginia Tech,39,30,False,ACC,ACC
+2019,14,Texas,Texas Tech,49,24,False,Big 12,Big 12
+2019,14,Arkansas,Missouri,14,24,False,SEC,SEC
+2019,14,Nebraska,Iowa,24,27,False,Big Ten,Big Ten
+2019,14,Colorado State,Boise State,24,31,False,Mountain West,Mountain West
+2019,14,Memphis,Cincinnati,34,24,False,American Athletic,American Athletic
+2019,14,Washington,Washington State,31,13,False,Pac-12,Pac-12
+2019,14,TCU,West Virginia,17,20,False,Big 12,Big 12
+2019,14,South Alabama,Arkansas State,34,30,False,Sun Belt,Sun Belt
+2019,14,Troy,App State,13,48,False,Sun Belt,Sun Belt
+2019,14,UCF,South Florida,34,7,False,American Athletic,American Athletic
+2019,14,Coastal Carolina,Texas State,24,21,False,Sun Belt,Sun Belt
+2019,14,Marshall,Florida International,30,27,False,Conference USA,Conference USA
+2019,14,Monmouth,Holy Cross,44,27,False,Big South,Patriot
+2019,14,Georgia Tech,Georgia,7,52,False,ACC,SEC
+2019,14,East Carolina,Tulsa,24,49,False,American Athletic,American Athletic
+2019,14,Illinois,Northwestern,10,29,False,Big Ten,Big Ten
+2019,14,Purdue,Indiana,41,44,False,Big Ten,Big Ten
+2019,14,Kentucky,Louisville,45,13,False,SEC,ACC
+2019,14,Michigan,Ohio State,27,56,False,Big Ten,Big Ten
+2019,14,South Carolina,Clemson,3,38,False,SEC,ACC
+2019,14,Syracuse,Wake Forest,39,30,False,ACC,ACC
+2019,14,Austin Peay,Furman,42,6,False,OVC,Southern
+2019,14,UAlbany,Central Connecticut,42,14,False,CAA,NEC
+2019,14,Old Dominion,Charlotte,22,38,False,Conference USA,Conference USA
+2019,14,Liberty,New Mexico State,49,28,False,FBS Independents,FBS Independents
+2019,14,Air Force,Wyoming,20,6,False,Mountain West,Mountain West
+2019,14,Southeast Missouri State,Illinois State,6,24,False,OVC,MVFC
+2019,14,Northern Iowa,San Diego,17,3,False,MVFC,Pioneer
+2019,14,Western Kentucky,Middle Tennessee,31,26,False,Conference USA,Conference USA
+2019,14,Nevada,UNLV,30,33,False,Mountain West,Mountain West
+2019,14,UTEP,Rice,16,30,False,Conference USA,Conference USA
+2019,14,Florida Atlantic,Southern Miss,34,17,False,Conference USA,Conference USA
+2019,14,Duke,Miami,27,17,False,ACC,ACC
+2019,14,Auburn,Alabama,48,45,False,SEC,SEC
+2019,14,Temple,UConn,49,17,False,American Athletic,American Athletic
+2019,14,Kansas,Baylor,6,61,False,Big 12,Big 12
+2019,14,Pittsburgh,Boston College,19,26,False,ACC,ACC
+2019,14,Louisiana Tech,UTSA,41,27,False,Conference USA,Conference USA
+2019,14,Minnesota,Wisconsin,17,38,False,Big Ten,Big Ten
+2019,14,Penn State,Rutgers,27,6,False,Big Ten,Big Ten
+2019,14,Michigan State,Maryland,19,16,False,Big Ten,Big Ten
+2019,14,SE Louisiana,Villanova,45,44,False,Southland,CAA
+2019,14,Tennessee,Vanderbilt,28,10,False,SEC,SEC
+2019,14,Stanford,Notre Dame,24,45,False,Pac-12,FBS Independents
+2019,14,Wofford,Kennesaw State,21,28,False,Southern,Big South
+2019,14,Nicholls,North Dakota,24,6,False,Southland,FCS Independents
+2019,14,SMU,Tulane,37,20,False,American Athletic,American Athletic
+2019,14,Oregon,Oregon State,24,10,False,Pac-12,Pac-12
+2019,14,New Mexico,Utah State,25,38,False,Mountain West,Mountain West
+2019,14,North Texas,UAB,21,26,False,Conference USA,Conference USA
+2019,14,Grambling,Southern,28,30,True,SWAC,SWAC
+2019,14,Georgia Southern,Georgia State,38,10,False,Sun Belt,Sun Belt
+2019,14,NC State,North Carolina,10,41,False,ACC,ACC
+2019,14,Kansas State,Iowa State,27,17,False,Big 12,Big 12
+2019,14,Houston,Navy,41,56,False,American Athletic,American Athletic
+2019,14,LSU,Texas A&M,50,7,False,SEC,SEC
+2019,14,Utah,Colorado,45,15,False,Pac-12,Pac-12
+2019,14,Louisiana,UL Monroe,31,30,False,Sun Belt,Sun Belt
+2019,14,Florida,Florida State,40,17,False,SEC,ACC
+2019,14,Oklahoma State,Oklahoma,16,34,False,Big 12,Big 12
+2019,14,San Diego State,BYU,13,3,False,Mountain West,FBS Independents
+2019,14,Arizona State,Arizona,24,14,False,Pac-12,Pac-12
+2019,14,UCLA,California,18,28,False,Pac-12,Pac-12
+2019,14,San José State,Fresno State,17,16,False,Mountain West,Mountain West
+2019,14,Hawai'i,Army,52,31,False,Mountain West,FBS Independents
+2019,15,Oregon,Utah,37,15,True,Pac-12,Pac-12
+2019,15,Central Michigan,Miami (OH),21,26,True,Mid-American,Mid-American
+2019,15,App State,Louisiana,45,38,False,Sun Belt,Sun Belt
+2019,15,Oklahoma,Baylor,30,23,True,Big 12,Big 12
+2019,15,James Madison,Monmouth,66,21,False,CAA,Big South
+2019,15,Florida Atlantic,UAB,49,6,False,Conference USA,Conference USA
+2019,15,South Dakota State,Northern Iowa,10,13,False,MVFC,MVFC
+2019,15,Montana State,UAlbany,47,21,False,Big Sky,CAA
+2019,15,Montana,SE Louisiana,73,28,False,Big Sky,Southland
+2019,15,Weber State,Kennesaw State,26,20,False,Big Sky,Big South
+2019,15,Central Arkansas,Illinois State,14,24,False,Southland,MVFC
+2019,15,North Dakota State,Nicholls,37,13,False,MVFC,Southland
+2019,15,Memphis,Cincinnati,29,24,False,American Athletic,American Athletic
+2019,15,LSU,Georgia,37,10,True,SEC,SEC
+2019,15,Alcorn State,Southern,39,24,False,SWAC,SWAC
+2019,15,Boise State,Hawai'i,31,10,False,Mountain West,Mountain West
+2019,15,Clemson,Virginia,62,17,True,ACC,ACC
+2019,15,Wisconsin,Ohio State,21,34,True,Big Ten,Big Ten
+2019,15,Sacramento State,Austin Peay,28,42,False,Big Sky,OVC
+2019,15,Navy,Army,31,7,True,American Athletic,FBS Independents
+2019,16,James Madison,Northern Iowa,17,0,False,CAA,MVFC
+2019,16,Montana State,Austin Peay,24,10,False,Big Sky,OVC
+2019,16,Weber State,Montana,17,10,False,Big Sky,Big Sky
+2019,16,North Dakota State,Illinois State,9,3,False,MVFC,MVFC
