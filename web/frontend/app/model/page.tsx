@@ -128,7 +128,9 @@ export default function ModelPage() {
           How the CFB Rating Model calculates team rankings
         </p>
 
-        {modelInfo && <ModelInfo info={modelInfo} metrics={metrics} />}
+        {modelInfo ? (
+          <ModelInfo info={modelInfo} metrics={metrics || undefined} />
+        ) : null}
         
         {features.length > 0 && (
           <div className="mt-8">
