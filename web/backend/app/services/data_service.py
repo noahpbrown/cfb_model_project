@@ -5,9 +5,9 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional
 
 # Get project root - works in both local and Railway
-# In Railway, files are in the repo root
+# In Railway with root directory = repo root, /app is the repo root
 if os.path.exists("/app"):
-    # Railway deployment
+    # Railway deployment - /app is now the repo root
     PROJECT_ROOT = Path("/app")
 elif os.path.exists(Path(__file__).parent.parent.parent.parent.parent.parent):
     # Local development

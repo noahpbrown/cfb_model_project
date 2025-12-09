@@ -235,6 +235,23 @@ def main():
         print("✅ PIPELINE COMPLETED SUCCESSFULLY")
     print("="*70)
     print(f"\nRankings generated: outputs/top25_{args.season}_week{week}.json")
+    
+    # Copy files to web/backend for deployment
+    print("\n📦 Copying files to web/backend for deployment...")
+    import shutil
+    from pathlib import Path
+    
+    backend_dir = Path("web/backend")
+    for dir_name in ["outputs", "models", "data"]:
+        src = Path(dir_name)
+        dst = backend_dir / dir_name
+        if src.exists():
+            if dst.exists():
+                shutil.rmtree(dst)
+            shutil.copytree(src, dst)
+            print(f"  ✓ Copied {dir_name}/")
+    
+    print("✅ Files copied to web/backend/")
     print("="*70 + "\n")
 
 if __name__ == "__main__":
