@@ -1,0 +1,2409 @@
+season,week,home_team,away_team,home_points,away_points,neutral_site,home_conference,away_conference
+2021,1,Illinois,Nebraska,30,22,False,Big Ten,Big Ten
+2021,1,Fresno State,UConn,45,0,False,Mountain West,FBS Independents
+2021,1,Central State (OH),Kentucky State,6,20,True,SIAC,SIAC
+2021,1,UCLA,Hawai'i,44,10,False,Pac-12,Mountain West
+2021,1,Indiana State,Eastern Illinois,26,21,False,MVFC,OVC
+2021,1,North Carolina Central,Alcorn State,23,14,True,MEAC,SWAC
+2021,1,New Mexico State,UTEP,3,30,False,FBS Independents,Conference USA
+2021,1,San José State,Southern Utah,45,14,False,Mountain West,Big Sky
+2021,1,Jacksonville State,UAB,0,31,True,AWC,Conference USA
+2021,1,Wayne State (MI),Slippery Rock,21,24,False,GLIAC,Pennsylvania State Athletic
+2021,1,Stony Brook,New Hampshire,21,27,False,CAA,CAA
+2021,1,Wingate,Shaw,30,7,False,South Atlantic,CIAA
+2021,1,Mercer,Point University,69,0,False,Southern,
+2021,1,Samford,Tennessee Tech,52,14,False,Southern,OVC
+2021,1,Ball State,Western Illinois,31,21,False,Mid-American,MVFC
+2021,1,Youngstown State,Incarnate Word,44,41,False,MVFC,Southland
+2021,1,Maine,Delaware,24,34,False,CAA,CAA
+2021,1,Buffalo,Wagner,69,7,False,Mid-American,NEC
+2021,1,Coastal Carolina,The Citadel,52,14,False,Sun Belt,Southern
+2021,1,Kentucky Wesleyan,Frostburg State,13,20,False,Great Midwest Athletic,Mountain East
+2021,1,Arkansas Tech,Southeastern Oklahoma State,20,38,False,Great American,Great American
+2021,1,UCF,Boise State,36,31,False,American Athletic,Mountain West
+2021,1,Wayne State (NE),University of Mary,34,27,False,Northern Sun,Northern Sun
+2021,1,Fairmont State,PennWest California,14,23,False,Mountain East,Pennsylvania State Athletic
+2021,1,West Liberty,Walsh,6,27,False,Mountain East,Great Midwest Athletic
+2021,1,Drake,West Virginia Wesleyan,45,3,False,Pioneer,Mountain East
+2021,1,Northwestern Oklahoma State,Southern Arkansas,13,32,False,Great American,Great American
+2021,1,Arkansas-Monticello,Southern Nazarene,30,23,False,Great American,Great American
+2021,1,Delta State,Bethel University Tennessee,48,14,False,Gulf South,
+2021,1,Ouachita Baptist,Oklahoma Baptist,38,31,False,Great American,Great American
+2021,1,Southwestern Oklahoma State,Henderson State,13,31,False,Great American,Great American
+2021,1,Mississippi College,Albany State GA,0,24,False,Gulf South,SIAC
+2021,1,Carson-Newman College,West Georgia,7,45,False,South Atlantic,Gulf South
+2021,1,Seton Hill,Wheeling,16,14,False,Pennsylvania State Athletic,Mountain East
+2021,1,Ohio Dominican,Shepherd,30,35,False,Great Midwest Athletic,Pennsylvania State Athletic
+2021,1,Millersville,American International,9,14,False,Pennsylvania State Athletic,Northeast 10
+2021,1,Lincoln (MO),Washburn,12,76,False,Mid America,Mid America
+2021,1,Minnesota State Mankato,Northern State,40,34,False,Northern Sun,Northern Sun
+2021,1,Sioux Falls,Bemidji State,16,24,False,Northern Sun,Northern Sun
+2021,1,Mars Hill,Chowan,24,30,False,South Atlantic,CIAA
+2021,1,Upper Iowa University,Minnesota Duluth,14,41,False,Northern Sun,Northern Sun
+2021,1,Northwood (MI),Gannon,21,28,False,GLIAC,Pennsylvania State Athletic
+2021,1,Lindenwood,Angelo State,20,40,False,Great Lakes,Lone Star
+2021,1,East Stroudsburg University,Pace,35,14,False,Pennsylvania State Athletic,Northeast 10
+2021,1,Utah,Weber State,40,17,False,Pac-12,Big Sky
+2021,1,Tulsa,UC Davis,17,19,False,American Athletic,Big Sky
+2021,1,Ferris State,Findlay,54,14,False,GLIAC,Great Midwest Athletic
+2021,1,Chattanooga,Austin Peay,20,30,False,Southern,OVC
+2021,1,Southeast Missouri State,Southern Illinois,21,47,False,OVC,MVFC
+2021,1,App State,East Carolina,33,19,False,Sun Belt,American Athletic
+2021,1,NC State,South Florida,45,0,False,ACC,American Athletic
+2021,1,Tennessee,Bowling Green,38,6,False,SEC,Mid-American
+2021,1,Minnesota,Ohio State,31,45,False,Big Ten,Big Ten
+2021,1,Winona State,Concordia University St Paul,47,6,False,Northern Sun,Northern Sun
+2021,1,Eastern New Mexico,Central Washington,24,66,False,Lone Star,Great Northwest
+2021,1,Nebraska-Kearney,Missouri Southern State,38,0,False,Mid America,Mid America
+2021,1,Fort Hays State,Northwest Missouri St,7,15,False,Mid America,Mid America
+2021,1,Central Oklahoma,Missouri Western,24,20,False,Mid America,Mid America
+2021,1,Central Missouri,Pittsburg St,16,35,False,Mid America,Mid America
+2021,1,New Mexico,Houston Christian,27,17,False,Mountain West,Southland
+2021,1,Colorado Mesa,William Jewell,40,3,False,Rocky Mountain,Great Lakes
+2021,1,CSU Pueblo,East Texas A&M,6,12,False,Rocky Mountain,Lone Star
+2021,1,Colorado School Of Mines,Western Oregon,42,3,False,Rocky Mountain,Great Northwest
+2021,1,Southwest Minnesota State,Minnesota State Moorhead,21,33,False,Northern Sun,Northern Sun
+2021,1,South Dakota Mines,Missouri S&T,34,31,False,Rocky Mountain,Great Lakes
+2021,1,Western Kentucky,UT Martin,59,21,False,Conference USA,OVC
+2021,1,Kennesaw State,Reinhardt University,35,25,False,Big South,
+2021,1,Murray State,Mississippi Valley State,35,0,False,OVC,SWAC
+2021,1,Florida International,Long Island University,48,10,False,Conference USA,NEC
+2021,1,Northern Arizona,Sam Houston,16,42,False,Big Sky,AWC
+2021,1,West Texas A&M,Texas College,73,0,False,Lone Star,
+2021,1,UNLV,Eastern Washington,33,35,False,Mountain West,Big Sky
+2021,1,Arizona State,Southern Utah,41,14,False,Pac-12,Big Sky
+2021,1,Bentley,West Chester,41,17,False,Northeast 10,Pennsylvania State Athletic
+2021,1,Central Connecticut,Southern Connecticut State,21,28,False,NEC,Northeast 10
+2021,1,Virginia Tech,North Carolina,17,10,False,ACC,ACC
+2021,1,Charlotte,Duke,31,28,False,Conference USA,ACC
+2021,1,Wake Forest,Old Dominion,42,10,False,ACC,Conference USA
+2021,1,Eastern Michigan,St. Francis (PA),35,15,False,Mid-American,NEC
+2021,1,Kansas,South Dakota,17,14,False,Big 12,MVFC
+2021,1,Colorado,Northern Colorado,35,7,False,Pac-12,Big Sky
+2021,1,Colorado State,South Dakota State,23,42,False,Mountain West,MVFC
+2021,1,Northwestern,Michigan State,21,38,False,Big Ten,Big Ten
+2021,1,Lehigh,Villanova,3,47,False,Patriot,CAA
+2021,1,Kentucky,UL Monroe,45,10,False,SEC,Sun Belt
+2021,1,Kansas State,Stanford,24,7,True,Big 12,Pac-12
+2021,1,Rutgers,Temple,61,14,False,Big Ten,American Athletic
+2021,1,Wisconsin,Penn State,10,16,False,Big Ten,Big Ten
+2021,1,Georgia State,Army,10,43,False,Sun Belt,FBS Independents
+2021,1,Southwest Baptist,UT Permian Basin,16,24,False,Great Lakes,Lone Star
+2021,1,Boston College,Colgate,51,0,False,ACC,Patriot
+2021,1,UConn,Holy Cross,28,38,False,FBS Independents,Patriot
+2021,1,Davenport,Truman State,14,31,False,GLIAC,Great Lakes
+2021,1,Notre Dame College,Ashland,42,35,False,Mountain East,Great Midwest Athletic
+2021,1,Shorter,Brevard College,38,14,False,Gulf South,USA South
+2021,1,UVA Wise,Virginia University Of Lynchburg,54,0,False,South Atlantic,
+2021,1,Bluefield State,Lawrence Tech,14,21,False,Independent DII,
+2021,1,Michigan,Western Michigan,47,14,False,Big Ten,Mid-American
+2021,1,Oklahoma,Tulane,40,35,False,Big 12,American Athletic
+2021,1,Nebraska,Fordham,52,7,False,Big Ten,Patriot
+2021,1,Kutztown University,Assumption,19,0,False,Pennsylvania State Athletic,Northeast 10
+2021,1,Shippensburg,West Virginia State,25,17,False,Pennsylvania State Athletic,Mountain East
+2021,1,MARIAN (IN,Tiffin,10,34,False,,Great Midwest Athletic
+2021,1,New Haven,Franklin Pierce,30,14,False,Northeast 10,Northeast 10
+2021,1,Catawba,ERSKINE,37,27,False,South Atlantic,Independent DII
+2021,1,St. Augustine's,Greeneville,14,58,False,CIAA,South Atlantic
+2021,1,Merrimack,St. Anselm,55,23,False,NEC,Northeast 10
+2021,1,McNeese,West Florida,36,42,False,Southland,Gulf South
+2021,1,VMI,Davidson,45,24,False,Southern,Pioneer
+2021,1,Furman,North Carolina A&T,29,18,False,Southern,Big South
+2021,1,Oregon,Fresno State,31,24,False,Pac-12,Mountain West
+2021,1,Arkansas,Rice,38,17,False,SEC,Conference USA
+2021,1,Richmond,Howard,38,14,False,CAA,MEAC
+2021,1,Elon,Wofford,22,24,False,CAA,Southern
+2021,1,Augustana University (SD),Minot State,49,0,False,Northern Sun,Northern Sun
+2021,1,Michigan Tech,Hillsdale,14,10,False,GLIAC,Great Midwest Athletic
+2021,1,McKendree,Northern Michigan,20,27,False,Great Lakes,GLIAC
+2021,1,Fort Lewis,New Mexico Highlands,7,44,False,Rocky Mountain,Rocky Mountain
+2021,1,Air Force,Lafayette,35,14,False,Mountain West,Patriot
+2021,1,Wilson,Newberry,7,31,False,Independent DII,South Atlantic
+2021,1,Quincy,Midwestern State,27,48,False,Great Lakes,Lone Star
+2021,1,Stonehill,Bloomsburg,35,13,False,Northeast 10,Pennsylvania State Athletic
+2021,1,Western Colorado,Chadron St,23,10,False,Rocky Mountain,Rocky Mountain
+2021,1,Idaho State,North Dakota,14,35,False,Big Sky,MVFC
+2021,1,North Dakota State,UAlbany,28,6,False,MVFC,CAA
+2021,1,Iowa,Indiana,34,6,False,Big Ten,Big Ten
+2021,1,Maryland,West Virginia,30,24,False,Big Ten,Big 12
+2021,1,Navy,Marshall,7,49,False,American Athletic,Conference USA
+2021,1,Cincinnati,Miami (OH),49,14,False,American Athletic,Mid-American
+2021,1,Miami,Alabama,13,44,True,ACC,SEC
+2021,1,Mississippi State,Louisiana Tech,35,34,False,SEC,Conference USA
+2021,1,Wyoming,Montana State,19,16,False,Mountain West,Big Sky
+2021,1,Missouri,Central Michigan,34,24,False,SEC,Mid-American
+2021,1,Pittsburgh,Massachusetts,51,7,False,ACC,FBS Independents
+2021,1,Elizabeth City State,Fayetteville State,6,47,False,CIAA,CIAA
+2021,1,Morgan State,Towson,0,31,False,MEAC,CAA
+2021,1,Idaho,Simon Fraser,68,0,False,Big Sky,Great Northwest
+2021,1,Delaware State,Bowie State,32,24,False,MEAC,CIAA
+2021,1,San Diego,Cal Poly,17,28,False,Pioneer,Big Sky
+2021,1,Presbyterian,Laurinburg,84,43,False,Pioneer,
+2021,1,Iowa State,Northern Iowa,16,10,False,Big 12,MVFC
+2021,1,Texas,Louisiana,38,18,False,Big 12,Sun Belt
+2021,1,USC,San José State,30,7,False,Pac-12,Mountain West
+2021,1,Liberty,Campbell,48,7,False,FBS Independents,Big South
+2021,1,Benedict College,Allen,45,12,False,SIAC,SIAC
+2021,1,Lincoln (PA),Lock Haven University,0,20,False,CIAA,Pennsylvania State Athletic
+2021,1,Georgia Southern,Gardner-Webb,30,25,False,Sun Belt,Big South
+2021,1,Virginia St,Lenoir-Rhyne,7,48,False,CIAA,South Atlantic
+2021,1,Mercyhurst,Alderson-Broaddus,18,3,False,Pennsylvania State Athletic,Mountain East
+2021,1,Livingstone,Clark Atlanta,10,13,False,CIAA,SIAC
+2021,1,Clarion,Lake Erie,26,31,False,Pennsylvania State Athletic,Great Midwest Athletic
+2021,1,Sacred Heart,Bucknell,21,0,False,NEC,Patriot
+2021,1,Western Carolina,Eastern Kentucky,28,31,False,Southern,AWC
+2021,1,Hampton,Virginia Union,42,28,False,Big South,CIAA
+2021,1,James Madison,Morehead State,68,10,False,CAA,Pioneer
+2021,1,Rhode Island,Bryant,45,21,False,CAA,NEC
+2021,1,Indiana Wesleyan,Valparaiso,28,10,False,,Pioneer
+2021,1,Alabama State,Miles College,14,13,False,SWAC,SIAC
+2021,1,Stetson,Warner University,54,14,False,Pioneer,
+2021,1,Adams State,Western New Mexico,17,35,False,Rocky Mountain,Lone Star
+2021,1,North Alabama,SE Louisiana,28,49,False,Big South,Southland
+2021,1,Stephen F. Austin,Tarleton State,20,10,False,AWC,AWC
+2021,1,St. Xavier IL,Indianapolis,10,34,False,,Great Lakes
+2021,1,Northeastern State,Emporia State University,7,38,False,Mid America,Mid America
+2021,1,Houston,Texas Tech,21,38,True,American Athletic,Big 12
+2021,1,Arkansas State,Central Arkansas,40,21,False,Sun Belt,AWC
+2021,1,Ohio,Syracuse,9,29,False,Mid-American,ACC
+2021,1,Purdue,Oregon State,30,21,False,Big Ten,Pac-12
+2021,1,North Greenville,Limestone,37,16,False,Gulf South,South Atlantic
+2021,1,South Carolina,Eastern Illinois,46,0,False,SEC,OVC
+2021,1,Troy,Southern,55,3,False,Sun Belt,SWAC
+2021,1,Middle Tennessee,Monmouth,50,15,False,Conference USA,Big South
+2021,1,Oklahoma State,Missouri State,23,16,False,Big 12,MVFC
+2021,1,SMU,Abilene Christian,56,9,False,American Athletic,AWC
+2021,1,West Alabama,Morehouse College,48,7,False,Gulf South,SIAC
+2021,1,Saginaw Valley State,Texas A&M-Kingsville,13,9,False,GLIAC,Lone Star
+2021,1,Valdosta State,Savannah St,53,7,False,Gulf South,SIAC
+2021,1,Harding University,East Central (OK),28,0,False,Great American,Great American
+2021,1,Auburn,Akron,60,10,False,SEC,Mid-American
+2021,1,Arkansas-Pine Bluff,Lane College,34,16,False,SWAC,SIAC
+2021,1,Alabama A&M,South Carolina State,42,41,False,SWAC,MEAC
+2021,1,Texas State,Baylor,20,29,False,Sun Belt,Big 12
+2021,1,Toledo,Norfolk State,49,10,False,Mid-American,MEAC
+2021,1,Memphis,Nicholls,42,17,False,American Athletic,Southland
+2021,1,North Texas,Northwestern State,44,14,False,Conference USA,Southland
+2021,1,Illinois,UTSA,30,37,False,Big Ten,Conference USA
+2021,1,Illinois State,Butler,49,7,False,MVFC,Pioneer
+2021,1,Virginia,William & Mary,43,0,False,ACC,CAA
+2021,1,Florida,Florida Atlantic,35,14,False,SEC,Conference USA
+2021,1,Clemson,Georgia,3,10,True,ACC,SEC
+2021,1,Georgia Tech,Northern Illinois,21,22,False,ACC,Mid-American
+2021,1,Texas Southern,Prairie View A&M,17,40,False,SWAC,SWAC
+2021,1,South Alabama,Southern Miss,31,7,False,Sun Belt,Conference USA
+2021,1,TCU,Duquesne,45,3,False,Big 12,NEC
+2021,1,Vanderbilt,East Tennessee State,3,23,False,SEC,Southern
+2021,1,Texas A&M,Kent State,41,10,False,SEC,Mid-American
+2021,1,Washington,Montana,7,13,False,Pac-12,Big Sky
+2021,1,UCLA,LSU,38,27,False,Pac-12,SEC
+2021,1,UTEP,Bethune-Cookman,38,28,False,Conference USA,SWAC
+2021,1,Utah Tech,Sacramento State,7,19,False,AWC,Big Sky
+2021,1,California,Nevada,17,22,False,Pac-12,Mountain West
+2021,1,San Diego State,New Mexico State,28,10,False,Mountain West,FBS Independents
+2021,1,Arizona,BYU,16,24,True,Pac-12,FBS Independents
+2021,1,Washington State,Utah State,23,26,False,Pac-12,Mountain West
+2021,1,Hawai'i,Portland State,49,35,False,Mountain West,Big Sky
+2021,1,Florida A&M,Jackson State,6,7,False,SWAC,SWAC
+2021,1,Grambling,Tennessee State,16,10,False,SWAC,OVC
+2021,1,Tuskegee,Fort Valley State,0,30,False,SIAC,SIAC
+2021,1,Florida State,Notre Dame,38,41,False,ACC,FBS Independents
+2021,1,Ole Miss,Louisville,43,24,True,SEC,ACC
+2021,2,University Of Charleston (WV),Fairmont State,27,6,False,Mountain East,Mountain East
+2021,2,Glenville State,Concord University,17,10,False,Mountain East,Mountain East
+2021,2,Wheeling,Notre Dame College,15,31,False,Mountain East,Mountain East
+2021,2,Mars Hill,Virginia University Of Lynchburg,50,14,False,South Atlantic,
+2021,2,Washburn,Central Missouri,29,10,False,Mid America,Mid America
+2021,2,Benedict College,Edward Waters,44,3,False,SIAC,SIAC
+2021,2,Missouri Western,Fort Hays State,38,31,False,Mid America,Mid America
+2021,2,Pace,American International,33,40,False,Northeast 10,Northeast 10
+2021,2,Coastal Carolina,Kansas,49,22,False,Sun Belt,Big 12
+2021,2,Duke,North Carolina A&T,45,17,False,ACC,Big South
+2021,2,Boise State,UTEP,54,13,False,Mountain West,Conference USA
+2021,2,Utah State,North Dakota,48,24,False,Mountain West,MVFC
+2021,2,Virginia,Illinois,42,14,False,ACC,Big Ten
+2021,2,Army,Western Kentucky,38,35,False,FBS Independents,Conference USA
+2021,2,Kent State,VMI,60,10,False,Mid-American,Southern
+2021,2,Minnesota,Miami (OH),31,26,False,Big Ten,Mid-American
+2021,2,East Carolina,South Carolina,17,20,False,American Athletic,SEC
+2021,2,Tennessee,Pittsburgh,34,41,False,SEC,ACC
+2021,2,Ohio State,Oregon,28,35,False,Big Ten,Pac-12
+2021,2,Gannon,Shepherd,26,56,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,2,Edinboro University,Shippensburg,9,30,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,2,Mercyhurst,West Chester,10,56,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,2,Northwestern,Indiana State,24,6,False,Big Ten,MVFC
+2021,2,Georgia Tech,Kennesaw State,45,17,False,ACC,Big South
+2021,2,Wake Forest,Norfolk State,41,16,False,ACC,MEAC
+2021,2,Michigan State,Youngstown State,42,14,False,Big Ten,MVFC
+2021,2,Auburn,Alabama State,62,0,False,SEC,SWAC
+2021,2,Oklahoma State,Tulsa,28,23,False,Big 12,American Athletic
+2021,2,Tulane,Morgan State,69,20,False,American Athletic,MEAC
+2021,2,Colgate,Stony Brook,3,24,False,Patriot,CAA
+2021,2,South Florida,Florida,20,42,False,American Athletic,SEC
+2021,2,Dayton,Eastern Illinois,17,10,False,Pioneer,OVC
+2021,2,Kentucky State,Kentucky Wesleyan,25,26,False,SIAC,Great Midwest Athletic
+2021,2,Assumption,Bentley,28,40,False,Northeast 10,Northeast 10
+2021,2,Ohio Dominican,Virginia St,10,7,False,Great Midwest Athletic,CIAA
+2021,2,Bowie State,Saginaw Valley State,28,19,False,CIAA,GLIAC
+2021,2,Lincoln (PA),Central State (OH),7,19,False,CIAA,SIAC
+2021,2,Wayne State (MI),Truman State,9,27,False,GLIAC,Great Lakes
+2021,2,Northern Michigan,Wisconsin-Oshkosh,10,28,False,GLIAC,Wisconsin
+2021,2,Tiffin,Northwood (MI),40,6,False,Great Midwest Athletic,GLIAC
+2021,2,Minnesota State Moorhead,Winona State,13,27,False,Northern Sun,Northern Sun
+2021,2,Concordia University St Paul,Upper Iowa University,24,6,False,Northern Sun,Northern Sun
+2021,2,Clarion,Millersville,17,21,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,2,Franklin Pierce,Lake Erie,20,31,False,Northeast 10,Great Midwest Athletic
+2021,2,Greeneville,Chowan,38,46,False,South Atlantic,CIAA
+2021,2,ERSKINE,Wilson,25,38,False,Independent DII,Independent DII
+2021,2,Alderson-Broaddus,West Liberty,0,24,False,Mountain East,Mountain East
+2021,2,PennWest California,Lock Haven University,59,0,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,2,Michigan Tech,St. Thomas (MN),9,12,False,GLIAC,Pioneer
+2021,2,Elizabeth City State,Bluefield State,27,35,False,CIAA,Independent DII
+2021,2,Northern Illinois,Wyoming,43,50,False,Mid-American,Mountain West
+2021,2,West Virginia State,Frostburg State,21,34,False,Mountain East,Mountain East
+2021,2,Virginia Tech,Middle Tennessee,35,14,False,ACC,Conference USA
+2021,2,Southern Nazarene,Ouachita Baptist,3,41,False,Great American,Great American
+2021,2,Tuskegee,West Alabama,7,33,False,SIAC,Gulf South
+2021,2,Indiana-Pennsylvania,Kutztown University,29,26,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,2,Colorado School Of Mines,New Mexico Highlands,31,21,False,Rocky Mountain,Rocky Mountain
+2021,2,Western New Mexico,Western Colorado,14,49,False,Lone Star,Rocky Mountain
+2021,2,Quincy,Iowa Wesleyan,59,27,False,Great Lakes,
+2021,2,Holy Cross,Merrimack,21,35,False,Patriot,NEC
+2021,2,South Dakota,Northern Arizona,34,7,False,MVFC,Big Sky
+2021,2,Delaware State,Georgetown,14,20,False,MEAC,Patriot
+2021,2,Ohio,Duquesne,26,28,False,Mid-American,NEC
+2021,2,The Citadel,Charleston Southern,21,38,False,Southern,Big South
+2021,2,Richmond,Lehigh,31,3,False,CAA,Patriot
+2021,2,Morehead State,Point University,62,9,False,Pioneer,
+2021,2,Syracuse,Rutgers,7,17,False,ACC,Big Ten
+2021,2,Notre Dame,Toledo,32,29,False,FBS Independents,Mid-American
+2021,2,Tennessee Tech,Furman,0,26,False,OVC,Southern
+2021,2,Central Michigan,Robert Morris,45,0,False,Mid-American,Big South
+2021,2,Wagner,Central Connecticut,19,21,False,NEC,NEC
+2021,2,Missouri Southern State,Northeastern State,17,21,False,Mid America,Mid America
+2021,2,University of Mary,Augustana University (SD),20,43,False,Northern Sun,Northern Sun
+2021,2,UConn,Purdue,0,49,False,FBS Independents,Big Ten
+2021,2,Bemidji State,Wayne State (NE),38,28,False,Northern Sun,Northern Sun
+2021,2,Missouri S&T,Little Rock,71,0,False,Great Lakes,
+2021,2,Chadron St,Angelo State,24,28,False,Rocky Mountain,Lone Star
+2021,2,Akron,Temple,24,45,False,Mid-American,American Athletic
+2021,2,North Dakota State,Valparaiso,64,0,False,MVFC,Pioneer
+2021,2,Navy,Air Force,3,23,False,American Athletic,Mountain West
+2021,2,Georgia,UAB,56,7,False,SEC,Conference USA
+2021,2,Massachusetts,Boston College,28,45,False,FBS Independents,ACC
+2021,2,Colorado,Texas A&M,7,10,True,Pac-12,SEC
+2021,2,Nebraska,Buffalo,28,3,False,Big Ten,Mid-American
+2021,2,Penn State,Ball State,44,13,False,Big Ten,Mid-American
+2021,2,TCU,California,34,32,False,Big 12,Pac-12
+2021,2,Cincinnati,Murray State,42,7,False,American Athletic,OVC
+2021,2,Florida Atlantic,Georgia Southern,38,6,False,Conference USA,Sun Belt
+2021,2,Bowling Green,South Alabama,19,22,False,Mid-American,Sun Belt
+2021,2,Alabama,Mercer,48,14,False,SEC,Southern
+2021,2,Eastern Washington,Central Washington,63,14,False,Big Sky,Great Northwest
+2021,2,Clark Atlanta,Lane College,26,35,False,SIAC,SIAC
+2021,2,Linfield College,Simon Fraser,56,20,False,Northwest,Great Northwest
+2021,2,James Madison,Maine,55,7,False,CAA,CAA
+2021,2,San Diego,UC Davis,7,53,False,Pioneer,Big Sky
+2021,2,Presbyterian,UFTL,68,3,False,Pioneer,
+2021,2,Iowa State,Iowa,17,27,False,Big 12,Big Ten
+2021,2,Clemson,South Carolina State,49,3,False,ACC,MEAC
+2021,2,Western Michigan,Illinois State,28,0,False,Mid-American,MVFC
+2021,2,Virginia Union,Valdosta State,7,51,False,CIAA,Gulf South
+2021,2,West Virginia,Long Island University,66,0,False,Big 12,NEC
+2021,2,Seton Hill,Bloomsburg,13,7,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,2,Findlay,UNC Pembroke,34,28,False,Great Midwest Athletic,Mountain East
+2021,2,Stonehill,Southern Connecticut State,54,21,False,Northeast 10,Northeast 10
+2021,2,Slippery Rock,East Stroudsburg University,22,7,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,2,West Georgia,Morehouse College,47,0,False,Gulf South,SIAC
+2021,2,Newberry,North Greenville,14,24,False,South Atlantic,Gulf South
+2021,2,Savannah St,Livingstone,50,6,False,SIAC,CIAA
+2021,2,Johnson C Smith,Allen,19,20,False,CIAA,SIAC
+2021,2,Wingate,Fayetteville State,40,21,False,South Atlantic,CIAA
+2021,2,Stetson,Ave Maria University,49,16,False,Pioneer,
+2021,2,Fordham,Monmouth,23,26,False,Patriot,Big South
+2021,2,Florida A&M,Fort Valley State,34,7,False,SWAC,SIAC
+2021,2,Butler,Depauw,49,24,False,Pioneer,North Coast
+2021,2,William & Mary,Lafayette,24,3,False,CAA,Patriot
+2021,2,Villanova,Bucknell,55,3,False,CAA,Patriot
+2021,2,New Hampshire,Towson,26,14,False,CAA,CAA
+2021,2,Delaware,St. Francis (PA),27,10,False,CAA,NEC
+2021,2,Campbell,Elon,23,24,False,Big South,CAA
+2021,2,Charlotte,Gardner-Webb,38,10,False,Conference USA,Big South
+2021,2,UTSA,Lamar,54,0,False,Conference USA,AWC
+2021,2,Washington State,Portland State,44,24,False,Pac-12,Big Sky
+2021,2,Rice,Houston,7,44,False,Conference USA,American Athletic
+2021,2,Marshall,North Carolina Central,44,10,False,Conference USA,MEAC
+2021,2,UCF,Bethune-Cookman,63,14,False,American Athletic,SWAC
+2021,2,Oklahoma Baptist,Arkansas-Monticello,45,20,False,Great American,Great American
+2021,2,Southeastern Oklahoma State,Harding University,32,31,False,Great American,Great American
+2021,2,Henderson State,Northwestern Oklahoma State,55,7,False,Great American,Great American
+2021,2,Southern Arkansas,Southwestern Oklahoma State,42,27,False,Great American,Great American
+2021,2,Delta State,McKendree,45,17,False,Gulf South,Great Lakes
+2021,2,West Florida,Southwest Baptist,63,14,False,Gulf South,Great Lakes
+2021,2,Ashland,Ferris State,19,45,False,Great Midwest Athletic,GLIAC
+2021,2,Grand Valley State University,CSU Pueblo,34,14,False,GLIAC,Rocky Mountain
+2021,2,Albany State GA,Shorter,28,12,False,SIAC,Gulf South
+2021,2,Northern State,Southwest Minnesota State,30,13,False,Northern Sun,Northern Sun
+2021,2,South Dakota Mines,Mayville State,52,7,False,Rocky Mountain,
+2021,2,UT Permian Basin,West Texas A&M,42,31,False,Lone Star,Lone Star
+2021,2,Minnesota Duluth,Minnesota State Mankato,30,10,False,Northern Sun,Northern Sun
+2021,2,Hillsdale,Indianapolis,31,35,False,Great Midwest Athletic,Great Lakes
+2021,2,East Texas A&M,Midwestern State,30,31,False,Lone Star,Lone Star
+2021,2,Bryant,Sacred Heart,17,6,False,NEC,NEC
+2021,2,Abilene Christian,Louisiana College,62,7,False,AWC,
+2021,2,Southern,Miles College,41,24,False,SWAC,SIAC
+2021,2,South Dakota State,Lindenwood,52,7,False,MVFC,Great Lakes
+2021,2,Alcorn State,Northwestern State,13,10,False,SWAC,Southland
+2021,2,UT Martin,Samford,33,27,False,OVC,Southern
+2021,2,Jackson State,Tennessee State,38,16,False,SWAC,OVC
+2021,2,Davidson,Shaw,28,26,False,Pioneer,CIAA
+2021,2,UAlbany,Rhode Island,14,16,False,CAA,CAA
+2021,2,North Alabama,Chattanooga,0,20,False,Big South,Southern
+2021,2,Houston Christian,Northern Colorado,13,45,False,Southland,Big Sky
+2021,2,Arkansas State,Memphis,50,55,False,Sun Belt,American Athletic
+2021,2,Troy,Liberty,13,21,False,Sun Belt,FBS Independents
+2021,2,Miami,App State,25,23,False,ACC,Sun Belt
+2021,2,Old Dominion,Hampton,47,7,False,Conference USA,Big South
+2021,2,SMU,North Texas,35,12,False,American Athletic,Conference USA
+2021,2,Arkansas,Texas,40,21,False,SEC,Big 12
+2021,2,New Mexico,New Mexico State,34,25,False,Mountain West,FBS Independents
+2021,2,Louisville,Eastern Kentucky,30,3,False,ACC,AWC
+2021,2,Southern Miss,Grambling,37,0,False,Conference USA,SWAC
+2021,2,Texas Tech,Stephen F. Austin,28,22,False,Big 12,AWC
+2021,2,Louisiana,Nicholls,27,24,False,Sun Belt,Southland
+2021,2,Kansas State,Southern Illinois,31,23,False,Big 12,MVFC
+2021,2,Louisiana Tech,SE Louisiana,45,42,False,Conference USA,Southland
+2021,2,Oklahoma,Western Carolina,76,0,False,Big 12,Southern
+2021,2,Baylor,Texas Southern,66,7,False,Big 12,SWAC
+2021,2,Catawba,Winston-Salem,28,6,False,South Atlantic,CIAA
+2021,2,East Central (OK),Arkansas Tech,13,10,False,Great American,Great American
+2021,2,Tarleton State,Fort Lewis,54,7,False,AWC,Rocky Mountain
+2021,2,Wisconsin,Eastern Michigan,34,7,False,Big Ten,Mid-American
+2021,2,Mississippi State,NC State,24,10,False,SEC,ACC
+2021,2,Florida International,Texas State,17,23,False,Conference USA,Sun Belt
+2021,2,Sam Houston,Southeast Missouri State,52,14,False,AWC,OVC
+2021,2,Indiana,Idaho,56,14,False,Big Ten,Big Sky
+2021,2,Maryland,Howard,62,0,False,Big Ten,MEAC
+2021,2,North Carolina,Georgia State,59,17,False,ACC,Sun Belt
+2021,2,Ole Miss,Austin Peay,54,17,False,SEC,OVC
+2021,2,Kentucky,Missouri,35,28,False,SEC,SEC
+2021,2,East Tennessee State,UVA Wise,45,14,False,Southern,South Atlantic
+2021,2,Florida State,Jacksonville State,17,20,False,ACC,AWC
+2021,2,LSU,McNeese,34,7,False,SEC,Southland
+2021,2,Missouri State,Central Arkansas,43,34,False,MVFC,AWC
+2021,2,Montana State,Drake,45,7,False,Big Sky,Pioneer
+2021,2,Montana,Western Illinois,42,7,False,Big Sky,MVFC
+2021,2,Incarnate Word,Prairie View A&M,40,9,False,Southland,SWAC
+2021,2,Michigan,Washington,31,10,False,Big Ten,Pac-12
+2021,2,Eastern New Mexico,Adams State,42,14,False,Lone Star,Rocky Mountain
+2021,2,Emporia State University,Central Oklahoma,31,21,False,Mid America,Mid America
+2021,2,Pittsburg St,Nebraska-Kearney,17,28,False,Mid America,Mid America
+2021,2,Texas A&M-Kingsville,Western Oregon,24,10,False,Lone Star,Great Northwest
+2021,2,Sacramento State,Northern Iowa,16,34,False,Big Sky,MVFC
+2021,2,Fresno State,Cal Poly,63,10,False,Mountain West,Big Sky
+2021,2,Arizona,San Diego State,14,38,False,Pac-12,Mountain West
+2021,2,Colorado State,Vanderbilt,21,24,False,Mountain West,SEC
+2021,2,Utah Tech,Weber State,3,41,False,AWC,Big Sky
+2021,2,BYU,Utah,26,17,False,FBS Independents,Pac-12
+2021,2,USC,Stanford,28,42,False,Pac-12,Pac-12
+2021,2,Arizona State,UNLV,37,10,False,Pac-12,Mountain West
+2021,2,Nevada,Idaho State,49,10,False,Mountain West,Big Sky
+2021,2,Oregon State,Hawai'i,45,27,False,Pac-12,Mountain West
+2021,3,Frostburg State,University Of Charleston (WV),30,24,False,Mountain East,Mountain East
+2021,3,Bethune-Cookman,Alabama A&M,27,30,False,SWAC,SWAC
+2021,3,Louisiana,Ohio,49,14,False,Sun Belt,Mid-American
+2021,3,Southern Connecticut State,St. Anselm,34,31,False,Northeast 10,Northeast 10
+2021,3,Louisville,UCF,42,35,False,ACC,American Athletic
+2021,3,Illinois,Maryland,17,20,False,Big Ten,Big Ten
+2021,3,Texas A&M,New Mexico,34,0,False,SEC,Mountain West
+2021,3,Oklahoma,Nebraska,23,16,False,Big 12,Big Ten
+2021,3,Michigan,Northern Illinois,63,10,False,Big Ten,Mid-American
+2021,3,Army,UConn,52,21,False,FBS Independents,FBS Independents
+2021,3,Indiana,Cincinnati,24,38,False,Big Ten,American Athletic
+2021,3,Miami,Michigan State,17,38,False,ACC,Big Ten
+2021,3,Pittsburgh,Western Michigan,41,44,False,ACC,Mid-American
+2021,3,Temple,Boston College,3,28,False,American Athletic,ACC
+2021,3,West Virginia,Virginia Tech,27,21,False,Big 12,ACC
+2021,3,Buffalo,Coastal Carolina,25,28,False,Mid-American,Sun Belt
+2021,3,Lehigh,Princeton,0,32,False,Patriot,Ivy
+2021,3,West Chester,Edinboro University,41,37,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,3,Clark Atlanta,Shorter,17,38,False,SIAC,Gulf South
+2021,3,Howard,Hampton,32,48,True,MEAC,Big South
+2021,3,St. Francis (PA),Wagner,39,24,False,NEC,NEC
+2021,3,Maine,Merrimack,31,26,False,CAA,NEC
+2021,3,Yale,Holy Cross,17,20,False,Ivy,Patriot
+2021,3,Central Connecticut,SE Louisiana,10,56,False,NEC,Southland
+2021,3,Missouri,Southeast Missouri State,59,28,False,SEC,OVC
+2021,3,Kentucky,Chattanooga,28,23,False,SEC,Southern
+2021,3,Tennessee,Tennessee Tech,56,0,False,SEC,OVC
+2021,3,Syracuse,UAlbany,62,24,False,ACC,CAA
+2021,3,Kutztown University,Seton Hill,14,3,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,3,Brown,Rhode Island,24,45,False,Ivy,CAA
+2021,3,Lafayette,New Hampshire,13,19,False,Patriot,CAA
+2021,3,Georgetown,Harvard,9,44,False,Patriot,Ivy
+2021,3,Columbia,Marist,37,14,False,Ivy,Pioneer
+2021,3,Sacred Heart,Morgan State,21,7,False,NEC,MEAC
+2021,3,Colorado,Minnesota,0,30,False,Pac-12,Big Ten
+2021,3,Colgate,William & Mary,7,27,False,Patriot,CAA
+2021,3,New Haven,Bowie State,13,27,False,Northeast 10,CIAA
+2021,3,Assumption,Pace,32,21,False,Northeast 10,Northeast 10
+2021,3,Fairmont State,West Virginia State,23,30,False,Mountain East,Mountain East
+2021,3,Chowan,ERSKINE,49,19,False,CIAA,Independent DII
+2021,3,Wheeling,Alderson-Broaddus,28,6,False,Mountain East,Mountain East
+2021,3,William Jewell,Ohio Dominican,25,35,False,Great Lakes,Great Midwest Athletic
+2021,3,Catawba,Wilson,17,10,False,South Atlantic,Independent DII
+2021,3,PennWest California,Millersville,30,0,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,3,Clarion,Shippensburg,33,62,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,3,Northern Michigan,Davenport,20,14,False,GLIAC,GLIAC
+2021,3,Truman State,Hillsdale,38,24,False,Great Lakes,Great Midwest Athletic
+2021,3,Shaw,Central State (OH),52,0,False,CIAA,SIAC
+2021,3,Carson-Newman College,Wingate,3,25,False,South Atlantic,South Atlantic
+2021,3,Mars Hill,UVA Wise,44,9,False,South Atlantic,South Atlantic
+2021,3,East Stroudsburg University,Mercyhurst,17,7,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,3,New Mexico Highlands,Colorado Mesa,37,56,False,Rocky Mountain,Rocky Mountain
+2021,3,Indiana-Pennsylvania,Shepherd,21,37,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,3,Fort Lewis,Colorado School Of Mines,0,76,False,Rocky Mountain,Rocky Mountain
+2021,3,McKendree,Lake Erie,10,17,False,Great Lakes,Great Midwest Athletic
+2021,3,Missouri S&T,Wayne State (MI),51,45,False,Great Lakes,GLIAC
+2021,3,Southwest Baptist,Findlay,41,62,False,Great Lakes,Great Midwest Athletic
+2021,3,Morehouse College,Miles College,14,37,False,SIAC,SIAC
+2021,3,Augustana University (SD),Minnesota State Moorhead,43,17,False,Northern Sun,Northern Sun
+2021,3,Winona State,Minnesota Duluth,23,29,False,Northern Sun,Northern Sun
+2021,3,Fort Valley State,Lane College,24,27,False,SIAC,SIAC
+2021,3,Bloomsburg,Gannon,31,27,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,3,Sioux Falls,Concordia University St Paul,50,14,False,Northern Sun,Northern Sun
+2021,3,Central Missouri,Northwest Missouri St,7,47,False,Mid America,Mid America
+2021,3,Cornell,VMI,21,31,False,Ivy,Southern
+2021,3,Quincy,Walsh,38,17,False,Great Lakes,Great Midwest Athletic
+2021,3,Eastern New Mexico,Texas A&M-Kingsville,10,36,False,Lone Star,Lone Star
+2021,3,Concord University,West Virginia Wesleyan,28,25,False,Mountain East,Mountain East
+2021,3,Tuskegee,Edward Waters,23,6,False,SIAC,SIAC
+2021,3,Nebraska-Kearney,Washburn,28,24,False,Mid America,Mid America
+2021,3,West Liberty,Notre Dame College,10,51,False,Mountain East,Mountain East
+2021,3,Bentley,Stonehill,24,14,False,Northeast 10,Northeast 10
+2021,3,Kansas State,Nevada,38,17,False,Big 12,Mountain West
+2021,3,Valparaiso,Dartmouth,18,28,False,Pioneer,Ivy
+2021,3,Western Carolina,Samford,37,42,False,Southern,Southern
+2021,3,Notre Dame,Purdue,27,13,False,FBS Independents,Big Ten
+2021,3,CSU Pueblo,Black Hills State,19,16,False,Rocky Mountain,Rocky Mountain
+2021,3,Mississippi College,UFTL,63,0,False,Gulf South,
+2021,3,Grand Valley State University,Wisconsin-Lacrosse,45,24,False,GLIAC,Wisconsin
+2021,3,Tennessee State,Kentucky State,41,7,False,OVC,SIAC
+2021,3,Austin Peay,Morehead State,59,35,False,OVC,Pioneer
+2021,3,Montana State,San Diego,52,10,False,Big Sky,Pioneer
+2021,3,Greeneville,Limestone,24,21,False,South Atlantic,South Atlantic
+2021,3,Ohio State,Tulsa,41,20,False,Big Ten,American Athletic
+2021,3,Florida,Alabama,29,31,False,SEC,SEC
+2021,3,Kansas,Baylor,7,45,False,Big 12,Big 12
+2021,3,Massachusetts,Eastern Michigan,28,42,False,FBS Independents,Mid-American
+2021,3,Iowa,Kent State,30,7,False,Big Ten,Mid-American
+2021,3,Louisiana Tech,SMU,37,39,False,Conference USA,American Athletic
+2021,3,Washington State,USC,14,45,False,Pac-12,Pac-12
+2021,3,Clemson,Georgia Tech,14,8,False,ACC,ACC
+2021,3,Rutgers,Delaware,45,13,False,Big Ten,CAA
+2021,3,Miami (OH),Long Island University,42,7,False,Mid-American,NEC
+2021,3,Akron,Bryant,35,14,False,Mid-American,NEC
+2021,3,Villanova,Richmond,34,27,False,CAA,CAA
+2021,3,Oregon State,Idaho,42,0,False,Pac-12,Big Sky
+2021,3,Wake Forest,Florida State,35,14,False,ACC,ACC
+2021,3,App State,Elon,44,10,False,Sun Belt,CAA
+2021,3,California,Sacramento State,42,30,False,Pac-12,Big Sky
+2021,3,Northern Colorado,Lamar,10,17,False,Big Sky,AWC
+2021,3,Western Illinois,Eastern Washington,56,62,False,MVFC,Big Sky
+2021,3,Memphis,Mississippi State,31,29,False,American Athletic,SEC
+2021,3,Duke,Northwestern,30,23,False,ACC,Big Ten
+2021,3,Arkansas,Georgia Southern,45,10,False,SEC,Sun Belt
+2021,3,Wyoming,Ball State,45,12,False,Mountain West,Mid-American
+2021,3,Toledo,Colorado State,6,22,False,Mid-American,Mountain West
+2021,3,Washington,Arkansas State,52,3,False,Pac-12,Sun Belt
+2021,3,Minnesota State Mankato,Bemidji State,45,24,False,Northern Sun,Northern Sun
+2021,3,Northern Iowa,St. Thomas (MN),44,3,False,MVFC,Pioneer
+2021,3,North Dakota,Drake,38,0,False,MVFC,Pioneer
+2021,3,Portland State,Western Oregon,21,7,False,Big Sky,Great Northwest
+2021,3,Bowling Green,Murray State,27,10,False,Mid-American,OVC
+2021,3,Florida Atlantic,Fordham,45,14,False,Conference USA,Patriot
+2021,3,Charleston Southern,Monmouth,14,41,False,Big South,Big South
+2021,3,Campbell,Presbyterian,72,0,False,Big South,Pioneer
+2021,3,Wofford,Kennesaw State,10,31,False,Southern,Big South
+2021,3,Gardner-Webb,Lincoln (PA),56,0,False,Big South,CIAA
+2021,3,Norfolk State,Elizabeth City State,63,26,False,MEAC,CIAA
+2021,3,The Citadel,North Greenville,45,13,False,Southern,Gulf South
+2021,3,Towson,North Dakota State,7,35,False,CAA,MVFC
+2021,3,North Carolina Central,Winston-Salem,20,13,False,MEAC,CIAA
+2021,3,Bucknell,Pennsylvania,6,30,False,Patriot,Ivy
+2021,3,Savannah St,Benedict College,41,34,False,SIAC,SIAC
+2021,3,Virginia Union,Virginia University Of Lynchburg,49,7,False,CIAA,
+2021,3,Johnson C Smith,Bluefield State,12,20,False,CIAA,Independent DII
+2021,3,Franklin Pierce,American International,19,38,False,Northeast 10,Northeast 10
+2021,3,Allen,Livingstone,34,32,False,SIAC,CIAA
+2021,3,Indianapolis,Tiffin,17,20,False,Great Lakes,Great Midwest Athletic
+2021,3,Newberry,Lenoir-Rhyne,28,21,False,South Atlantic,South Atlantic
+2021,3,Slippery Rock,Lock Haven University,57,7,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,3,UNC Pembroke,Glenville State,36,22,False,Mountain East,Mountain East
+2021,3,Liberty,Old Dominion,45,17,False,FBS Independents,Conference USA
+2021,3,Marshall,East Carolina,38,42,False,Conference USA,American Athletic
+2021,3,UTSA,Middle Tennessee,27,13,False,Conference USA,Conference USA
+2021,3,West Georgia,Delta State,27,26,False,Gulf South,Gulf South
+2021,3,Southwest Minnesota State,University of Mary,23,45,False,Northern Sun,Northern Sun
+2021,3,Ouachita Baptist,Arkansas Tech,38,24,False,Great American,Great American
+2021,3,Arkansas-Monticello,Henderson State,18,58,False,Great American,Great American
+2021,3,East Central (OK),Southern Nazarene,40,13,False,Great American,Great American
+2021,3,Southern Arkansas,Harding University,6,37,False,Great American,Great American
+2021,3,Oklahoma Baptist,Northwestern Oklahoma State,56,42,False,Great American,Great American
+2021,3,Southeastern Oklahoma State,Southwestern Oklahoma State,37,28,False,Great American,Great American
+2021,3,Ferris State,Saginaw Valley State,47,45,False,GLIAC,GLIAC
+2021,3,Valdosta State,Albany State GA,21,3,False,Gulf South,SIAC
+2021,3,East Texas A&M,West Florida,17,35,False,Lone Star,Gulf South
+2021,3,Upper Iowa University,Northern State,22,40,False,Northern Sun,Northern Sun
+2021,3,Angelo State,Midwestern State,17,35,False,Lone Star,Lone Star
+2021,3,Missouri Western,Emporia State University,38,37,False,Mid America,Mid America
+2021,3,Northeastern State,Pittsburg St,13,48,False,Mid America,Mid America
+2021,3,Georgia State,Charlotte,20,9,False,Sun Belt,Conference USA
+2021,3,Georgia,South Carolina,40,13,False,SEC,SEC
+2021,3,Wayne State (NE),Minot State,48,0,False,Northern Sun,Northern Sun
+2021,3,Northwestern State,UT Martin,10,35,False,Southland,OVC
+2021,3,Southern Illinois,Dayton,55,3,False,MVFC,Pioneer
+2021,3,Eastern Illinois,Illinois State,24,31,False,OVC,MVFC
+2021,3,Tarleton State,Southern Utah,35,40,False,AWC,Big Sky
+2021,3,Jacksonville State,North Alabama,27,24,False,AWC,Big South
+2021,3,Eastern Kentucky,Indiana State,21,23,False,AWC,MVFC
+2021,3,Central Arkansas,Arkansas-Pine Bluff,45,23,False,AWC,SWAC
+2021,3,Houston,Grambling,45,0,False,American Athletic,SWAC
+2021,3,South Florida,Florida A&M,38,17,False,American Athletic,SWAC
+2021,3,Texas State,Incarnate Word,34,42,False,Sun Belt,Southland
+2021,3,Texas Tech,Florida International,54,21,False,Big 12,Conference USA
+2021,3,Southern Miss,Troy,9,21,False,Conference USA,Sun Belt
+2021,3,San Diego State,Utah,33,31,False,Mountain West,Pac-12
+2021,3,Abilene Christian,UT Permian Basin,34,9,False,AWC,Lone Star
+2021,3,Stephen F. Austin,Mississippi Valley State,58,13,False,AWC,SWAC
+2021,3,Southern,McNeese,24,31,False,SWAC,Southland
+2021,3,Prairie View A&M,Houston Christian,37,27,False,SWAC,Southland
+2021,3,Taylor,Butler,24,77,False,,Pioneer
+2021,3,Oregon,Stony Brook,48,7,False,Pac-12,CAA
+2021,3,East Tennessee State,Delaware State,38,6,False,Southern,MEAC
+2021,3,NC State,Furman,45,7,False,ACC,Southern
+2021,3,North Carolina,Virginia,59,39,False,ACC,ACC
+2021,3,North Texas,UAB,6,40,False,Conference USA,Conference USA
+2021,3,Penn State,Auburn,28,20,False,Big Ten,SEC
+2021,3,Air Force,Utah State,45,49,False,Mountain West,Mountain West
+2021,3,LSU,Central Michigan,49,21,False,SEC,Mid-American
+2021,3,Texas,Rice,58,0,False,Big 12,Conference USA
+2021,3,Lindenwood,Kentucky Wesleyan,56,34,False,Great Lakes,Great Midwest Athletic
+2021,3,Central Oklahoma,Missouri Southern State,10,14,False,Mid America,Mid America
+2021,3,Fort Hays State,Lincoln (MO),72,0,False,Mid America,Mid America
+2021,3,Ole Miss,Tulane,61,21,False,SEC,American Athletic
+2021,3,West Texas A&M,Western New Mexico,42,14,False,Lone Star,Lone Star
+2021,3,Vanderbilt,Stanford,23,41,False,SEC,Pac-12
+2021,3,Cal Poly,South Dakota,14,48,False,Big Sky,MVFC
+2021,3,South Alabama,Alcorn State,28,21,False,Sun Belt,SWAC
+2021,3,New Mexico State,South Carolina State,43,35,False,FBS Independents,MEAC
+2021,3,Weber State,James Madison,24,37,False,Big Sky,CAA
+2021,3,UL Monroe,Jackson State,12,7,False,Sun Belt,SWAC
+2021,3,Chadron St,South Dakota Mines,31,20,False,Rocky Mountain,Rocky Mountain
+2021,3,Boise State,Oklahoma State,20,21,False,Mountain West,Big 12
+2021,3,Simon Fraser,Central Washington,14,36,False,Great Northwest,Great Northwest
+2021,3,Adams State,Western Colorado,10,24,False,Rocky Mountain,Rocky Mountain
+2021,3,UC Davis,Utah Tech,60,27,False,Big Sky,AWC
+2021,3,Arizona,Northern Arizona,19,21,False,Pac-12,Big Sky
+2021,3,BYU,Arizona State,27,17,False,FBS Independents,Pac-12
+2021,3,UNLV,Iowa State,3,48,False,Mountain West,Big 12
+2021,3,UCLA,Fresno State,37,40,False,Pac-12,Mountain West
+2021,3,Hawai'i,San José State,13,17,False,Mountain West,Mountain West
+2021,4,Arkansas-Pine Bluff,Alcorn State,38,39,False,SWAC,SWAC
+2021,4,App State,Marshall,31,30,False,Sun Belt,Conference USA
+2021,4,Charlotte,Middle Tennessee,42,39,False,Conference USA,Conference USA
+2021,4,Harvard,Brown,49,17,False,Ivy,Ivy
+2021,4,Virginia,Wake Forest,17,37,False,ACC,ACC
+2021,4,Syracuse,Liberty,24,21,False,ACC,FBS Independents
+2021,4,Fresno State,UNLV,38,30,False,Mountain West,Mountain West
+2021,4,Shepherd,Kutztown University,29,37,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,4,Wisconsin,Notre Dame,13,41,True,Big Ten,FBS Independents
+2021,4,Findlay,Lindenwood,16,28,False,Great Midwest Athletic,Great Lakes
+2021,4,Boston College,Missouri,41,34,False,ACC,SEC
+2021,4,Notre Dame College,West Virginia State,38,14,False,Mountain East,Mountain East
+2021,4,Glenville State,Wheeling,10,27,False,Mountain East,Mountain East
+2021,4,Army,Miami (OH),23,10,False,FBS Independents,Mid-American
+2021,4,Utah State,Boise State,3,27,False,Mountain West,Mountain West
+2021,4,Penn State,Villanova,38,17,False,Big Ten,CAA
+2021,4,Northwestern,Ohio,35,6,False,Big Ten,Mid-American
+2021,4,TCU,SMU,34,42,False,Big 12,American Athletic
+2021,4,Yale,Cornell,23,17,False,Ivy,Ivy
+2021,4,Virginia Tech,Richmond,21,10,False,ACC,CAA
+2021,4,Pittsburgh,New Hampshire,77,7,False,ACC,CAA
+2021,4,Temple,Wagner,41,7,False,American Athletic,NEC
+2021,4,UVA Wise,Carson-Newman College,33,7,False,South Atlantic,South Atlantic
+2021,4,St. Francis (PA),Norfolk State,16,28,False,NEC,MEAC
+2021,4,Texas,Texas Tech,70,35,False,Big 12,Big 12
+2021,4,Edinboro University,PennWest California,12,20,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,4,American International,Bentley,27,35,False,Northeast 10,Northeast 10
+2021,4,Kentucky Wesleyan,William Jewell,41,21,False,Great Midwest Athletic,Great Lakes
+2021,4,Central Michigan,Florida International,31,27,False,Mid-American,Conference USA
+2021,4,Vanderbilt,Georgia,0,62,False,SEC,SEC
+2021,4,Davidson,San Diego,28,16,False,Pioneer,Pioneer
+2021,4,Minnesota,Bowling Green,10,14,False,Big Ten,Mid-American
+2021,4,Incarnate Word,McNeese,31,0,False,Southland,Southland
+2021,4,Robert Morris,Howard,22,16,False,Big South,MEAC
+2021,4,Mississippi State,LSU,25,28,False,SEC,SEC
+2021,4,Miami,Central Connecticut,69,0,False,ACC,NEC
+2021,4,Coastal Carolina,Massachusetts,53,3,False,Sun Belt,FBS Independents
+2021,4,Ashland,Quincy,63,23,False,Great Midwest Athletic,Great Lakes
+2021,4,New Haven,Southern Connecticut State,38,9,False,Northeast 10,Northeast 10
+2021,4,Columbia,Georgetown,35,24,False,Ivy,Patriot
+2021,4,Indiana State,South Dakota State,0,44,False,MVFC,MVFC
+2021,4,Colgate,Lehigh,30,3,False,Patriot,Patriot
+2021,4,Monmouth,Holy Cross,15,45,False,Big South,Patriot
+2021,4,St. Thomas (MN),Butler,36,0,False,Pioneer,Pioneer
+2021,4,St. Anselm,Franklin Pierce,42,7,False,Northeast 10,Northeast 10
+2021,4,Alderson-Broaddus,University Of Charleston (WV),7,69,False,Mountain East,Mountain East
+2021,4,Dayton,Presbyterian,63,43,False,Pioneer,Pioneer
+2021,4,Concord University,Frostburg State,23,42,False,Mountain East,Mountain East
+2021,4,UNC Pembroke,Fairmont State,27,30,False,Mountain East,Mountain East
+2021,4,West Virginia Wesleyan,West Liberty,0,31,False,Mountain East,Mountain East
+2021,4,Drake,Valparaiso,21,24,False,Pioneer,Pioneer
+2021,4,Duquesne,Virginia University Of Lynchburg,56,7,False,NEC,
+2021,4,Princeton,Stetson,63,0,False,Ivy,Pioneer
+2021,4,Indianapolis,Ohio Dominican,16,19,False,Great Lakes,Great Midwest Athletic
+2021,4,Mercyhurst,Indiana-Pennsylvania,13,48,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,4,Gannon,Clarion,56,21,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,4,Shippensburg,Bloomsburg,51,7,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,4,Concordia University St Paul,Southwest Minnesota State,24,34,False,Northern Sun,Northern Sun
+2021,4,Minnesota State Moorhead,Upper Iowa University,33,28,False,Northern Sun,Northern Sun
+2021,4,ERSKINE,North Greenville,7,38,False,Independent DII,Gulf South
+2021,4,Shorter,West Georgia,0,56,False,Gulf South,Gulf South
+2021,4,Northwood (MI),Northern Michigan,37,20,False,GLIAC,GLIAC
+2021,4,Michigan Tech,Grand Valley State University,21,44,False,GLIAC,GLIAC
+2021,4,St. Augustine's,Chowan,12,59,False,CIAA,CIAA
+2021,4,Lincoln (PA),Shaw,6,41,False,CIAA,CIAA
+2021,4,Johnson C Smith,Virginia Union,7,43,False,CIAA,CIAA
+2021,4,Winston-Salem,Elizabeth City State,14,19,False,CIAA,CIAA
+2021,4,Greeneville,Newberry,19,24,False,South Atlantic,South Atlantic
+2021,4,Dartmouth,Sacred Heart,41,3,False,Ivy,NEC
+2021,4,VMI,Wofford,31,23,False,Southern,Southern
+2021,4,Lincoln (MO),Northeastern State,48,49,False,Mid America,Mid America
+2021,4,Ball State,Toledo,12,22,False,Mid-American,Mid-American
+2021,4,Central Missouri,Nebraska-Kearney,28,31,False,Mid America,Mid America
+2021,4,Eastern Michigan,Texas State,59,21,False,Mid-American,Sun Belt
+2021,4,Elon,William & Mary,31,34,False,CAA,CAA
+2021,4,Delaware State,Merrimack,10,47,False,MEAC,NEC
+2021,4,Washburn,Missouri Western,47,41,False,Mid America,Mid America
+2021,4,Furman,Mercer,3,24,False,Southern,Southern
+2021,4,Western Michigan,San José State,23,3,False,Mid-American,Mountain West
+2021,4,Northwest Missouri St,Central Oklahoma,38,0,False,Mid America,Mid America
+2021,4,Northern Illinois,Maine,41,14,False,Mid-American,CAA
+2021,4,Tennessee Tech,Eastern Illinois,14,28,False,OVC,OVC
+2021,4,Utah,Washington State,24,13,False,Pac-12,Pac-12
+2021,4,University of Mary,Winona State,38,48,False,Northern Sun,Northern Sun
+2021,4,Southern Nazarene,Southeastern Oklahoma State,10,31,False,Great American,Great American
+2021,4,Tiffin,Truman State,35,38,False,Great Midwest Athletic,Great Lakes
+2021,4,Ferris State,Davenport,38,0,False,GLIAC,GLIAC
+2021,4,Black Hills State,Adams State,51,48,False,Rocky Mountain,Rocky Mountain
+2021,4,Kentucky State,Benedict College,34,28,False,SIAC,SIAC
+2021,4,Bemidji State,Augustana University (SD),24,52,False,Northern Sun,Northern Sun
+2021,4,Colorado Mesa,Chadron St,24,17,False,Rocky Mountain,Rocky Mountain
+2021,4,Western Colorado,Fort Lewis,42,0,False,Rocky Mountain,Rocky Mountain
+2021,4,Missouri Southern State,Fort Hays State,21,42,False,Mid America,Mid America
+2021,4,Idaho State,Sacramento State,21,23,False,Big Sky,Big Sky
+2021,4,Montana,Cal Poly,39,7,False,Big Sky,Big Sky
+2021,4,Eastern Kentucky,Austin Peay,35,27,False,AWC,OVC
+2021,4,Northern Colorado,Northern Arizona,17,10,False,Big Sky,Big Sky
+2021,4,Southeast Missouri State,Tennessee State,47,14,False,OVC,OVC
+2021,4,Samford,East Tennessee State,48,55,False,Southern,Southern
+2021,4,Jackson State,Delta State,24,17,False,SWAC,Gulf South
+2021,4,Southern Illinois,Illinois State,35,17,False,MVFC,MVFC
+2021,4,Lafayette,Pennsylvania,24,14,False,Patriot,Ivy
+2021,4,Arkansas,Texas A&M,20,10,True,SEC,SEC
+2021,4,Baylor,Iowa State,31,29,False,Big 12,Big 12
+2021,4,Maryland,Kent State,37,16,False,Big Ten,Mid-American
+2021,4,Michigan,Rutgers,20,13,False,Big Ten,Big Ten
+2021,4,UConn,Wyoming,22,24,False,FBS Independents,Mountain West
+2021,4,San Diego State,Towson,48,21,False,Mountain West,CAA
+2021,4,Memphis,UTSA,28,31,False,American Athletic,Conference USA
+2021,4,Florida State,Louisville,23,31,False,ACC,ACC
+2021,4,NC State,Clemson,27,21,False,ACC,ACC
+2021,4,Iowa,Colorado State,24,14,False,Big Ten,Mountain West
+2021,4,Purdue,Illinois,13,9,False,Big Ten,Big Ten
+2021,4,Hillsdale,Missouri S&T,38,31,False,Great Midwest Athletic,Great Lakes
+2021,4,Livingstone,Bowie State,0,49,False,CIAA,CIAA
+2021,4,Auburn,Georgia State,34,24,False,SEC,Sun Belt
+2021,4,Duke,Kansas,52,33,False,ACC,Big 12
+2021,4,Millersville,West Chester,14,42,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,4,Nicholls,North Alabama,31,14,False,Southland,Big South
+2021,4,Jacksonville State,UT Martin,31,34,False,AWC,OVC
+2021,4,Stony Brook,Fordham,14,31,False,CAA,Patriot
+2021,4,Central Arkansas,Sam Houston,35,45,False,AWC,AWC
+2021,4,Portland State,Montana State,17,30,False,Big Sky,Big Sky
+2021,4,Prairie View A&M,Grambling,24,10,False,SWAC,SWAC
+2021,4,Alabama A&M,Tuskegee,45,35,False,SWAC,SIAC
+2021,4,Tulsa,Arkansas State,41,34,False,American Athletic,Sun Belt
+2021,4,Georgia Southern,Louisiana,20,28,False,Sun Belt,Sun Belt
+2021,4,Lenoir-Rhyne,Mars Hill,31,16,False,South Atlantic,South Atlantic
+2021,4,South Dakota Mines,CSU Pueblo,7,49,False,Rocky Mountain,Rocky Mountain
+2021,4,Old Dominion,Buffalo,34,35,False,Conference USA,Mid-American
+2021,4,Seton Hill,Slippery Rock,17,41,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,4,Edward Waters,Lane College,35,45,False,SIAC,SIAC
+2021,4,Allen,Fort Valley State,20,56,False,SIAC,SIAC
+2021,4,Wayne State (MI),Saginaw Valley State,21,41,False,GLIAC,GLIAC
+2021,4,Savannah St,Morehouse College,29,10,False,SIAC,SIAC
+2021,4,East Carolina,Charleston Southern,31,28,False,American Athletic,Big South
+2021,4,Lake Erie,Southwest Baptist,20,28,False,Great Midwest Athletic,Great Lakes
+2021,4,Stanford,UCLA,24,35,False,Pac-12,Pac-12
+2021,4,Gardner-Webb,Western Carolina,52,34,False,Big South,Southern
+2021,4,Stonehill,Assumption,27,26,False,Northeast 10,Northeast 10
+2021,4,North Carolina A&T,North Carolina Central,37,14,False,Big South,MEAC
+2021,4,Youngstown State,Western Illinois,35,38,False,MVFC,MVFC
+2021,4,Marist,Bryant,17,34,False,Pioneer,NEC
+2021,4,Alabama State,Bethune-Cookman,38,24,False,SWAC,SWAC
+2021,4,Lock Haven University,East Stroudsburg University,21,45,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,4,Rice,Texas Southern,48,34,False,Conference USA,SWAC
+2021,4,Louisiana Tech,North Texas,24,17,False,Conference USA,Conference USA
+2021,4,Houston,Navy,28,20,False,American Athletic,American Athletic
+2021,4,Oklahoma State,Kansas State,31,20,False,Big 12,Big 12
+2021,4,Michigan State,Nebraska,23,20,False,Big Ten,Big Ten
+2021,4,South Carolina,Kentucky,10,16,False,SEC,SEC
+2021,4,Florida,Tennessee,38,14,False,SEC,SEC
+2021,4,Arkansas Tech,Arkansas-Monticello,20,27,False,Great American,Great American
+2021,4,Lamar,Abilene Christian,0,56,False,AWC,AWC
+2021,4,Tarleton State,New Mexico Highlands,40,21,False,AWC,Rocky Mountain
+2021,4,Stephen F. Austin,Lincoln (CA),61,13,False,AWC,
+2021,4,Minnesota Duluth,Wayne State (NE),28,31,False,Northern Sun,Northern Sun
+2021,4,Limestone,Wilson,7,45,False,South Atlantic,Independent DII
+2021,4,Minot State,Minnesota State Mankato,10,68,False,Northern Sun,Northern Sun
+2021,4,Central Washington,Angelo State,9,14,False,Great Northwest,Lone Star
+2021,4,Albany State GA,Clark Atlanta,49,0,False,SIAC,SIAC
+2021,4,Northern State,Sioux Falls,41,10,False,Northern Sun,Northern Sun
+2021,4,Miles College,Central State (OH),55,4,False,SIAC,SIAC
+2021,4,Southwestern Oklahoma State,Oklahoma Baptist,27,31,False,Great American,Great American
+2021,4,Henderson State,Southern Arkansas,56,49,False,Great American,Great American
+2021,4,Harding University,Ouachita Baptist,38,21,False,Great American,Great American
+2021,4,Fayetteville State,Virginia St,28,14,False,CIAA,CIAA
+2021,4,Northwestern Oklahoma State,East Central (OK),17,20,False,Great American,Great American
+2021,4,Ohio State,Akron,59,7,False,Big Ten,Mid-American
+2021,4,Alabama,Southern Miss,63,14,False,SEC,Conference USA
+2021,4,Oklahoma,West Virginia,16,13,False,Big 12,Big 12
+2021,4,Georgia Tech,North Carolina,45,22,True,ACC,ACC
+2021,4,Air Force,Florida Atlantic,31,7,False,Mountain West,Conference USA
+2021,4,Tulane,UAB,21,28,False,American Athletic,Conference USA
+2021,4,UL Monroe,Troy,29,16,False,Sun Belt,Sun Belt
+2021,4,New Mexico State,Hawai'i,21,41,False,FBS Independents,Mountain West
+2021,4,Western Kentucky,Indiana,31,33,False,Conference USA,Big Ten
+2021,4,Missouri State,South Dakota,31,23,False,MVFC,MVFC
+2021,4,Mississippi College,West Alabama,28,31,False,Gulf South,Gulf South
+2021,4,Midwestern State,Eastern New Mexico,31,24,False,Lone Star,Lone Star
+2021,4,Weber State,UC Davis,14,17,False,Big Sky,Big Sky
+2021,4,Southern Utah,Eastern Washington,21,50,False,Big Sky,Big Sky
+2021,4,Texas A&M-Kingsville,East Texas A&M,10,35,False,Lone Star,Lone Star
+2021,4,West Texas A&M,Colorado School Of Mines,13,21,False,Lone Star,Rocky Mountain
+2021,4,Pittsburg St,Emporia State University,30,28,False,Mid America,Mid America
+2021,4,Western New Mexico,UT Permian Basin,19,27,False,Lone Star,Lone Star
+2021,4,Simon Fraser,Western Oregon,7,24,False,Great Northwest,Great Northwest
+2021,4,UTEP,New Mexico,20,13,False,Conference USA,Mountain West
+2021,4,Washington,California,31,24,False,Pac-12,Pac-12
+2021,4,BYU,South Florida,35,27,False,FBS Independents,American Athletic
+2021,4,USC,Oregon State,27,45,False,Pac-12,Pac-12
+2021,4,Oregon,Arizona,41,19,False,Pac-12,Pac-12
+2021,4,Arizona State,Colorado,35,13,False,Pac-12,Pac-12
+2021,5,Mississippi Valley State,Southern,25,38,True,SWAC,SWAC
+2021,5,Walsh,Ashland,10,35,False,Great Midwest Athletic,Great Midwest Athletic
+2021,5,Prairie View A&M,Arkansas-Pine Bluff,27,17,False,SWAC,SWAC
+2021,5,Miami,Virginia,28,30,False,ACC,ACC
+2021,5,Southern Connecticut State,American International,23,7,False,Northeast 10,Northeast 10
+2021,5,Pennsylvania,Dartmouth,7,31,False,Ivy,Ivy
+2021,5,Tulsa,Houston,10,45,False,American Athletic,American Athletic
+2021,5,Maryland,Iowa,14,51,False,Big Ten,Big Ten
+2021,5,Utah State,BYU,20,34,False,Mountain West,FBS Independents
+2021,5,Shepherd,Shippensburg,59,27,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,5,Millersville,Lock Haven University,31,29,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,5,University Of Charleston (WV),Notre Dame College,38,28,False,Mountain East,Mountain East
+2021,5,Georgia,Arkansas,37,0,False,SEC,SEC
+2021,5,Pace,New Haven,14,28,False,Northeast 10,Northeast 10
+2021,5,TCU,Texas,27,32,False,Big 12,Big 12
+2021,5,Illinois,Charlotte,24,14,False,Big Ten,Conference USA
+2021,5,Missouri,Tennessee,24,62,False,SEC,SEC
+2021,5,North Carolina,Duke,38,7,False,ACC,ACC
+2021,5,Lehigh,Yale,0,34,False,Patriot,Ivy
+2021,5,Butler,Drake,3,6,False,Pioneer,Pioneer
+2021,5,Morgan State,St. Francis (PA),14,27,False,MEAC,NEC
+2021,5,Rhode Island,Stony Brook,27,20,False,CAA,CAA
+2021,5,Georgia Tech,Pittsburgh,21,52,False,ACC,ACC
+2021,5,Temple,Memphis,34,31,False,American Athletic,American Athletic
+2021,5,Wisconsin,Michigan,17,38,False,Big Ten,Big Ten
+2021,5,Purdue,Minnesota,13,20,False,Big Ten,Big Ten
+2021,5,Massachusetts,Toledo,7,45,False,FBS Independents,Mid-American
+2021,5,Buffalo,Western Michigan,17,24,False,Mid-American,Mid-American
+2021,5,Kutztown University,East Stroudsburg University,21,14,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,5,Wake Forest,Louisville,37,34,False,ACC,ACC
+2021,5,Georgetown,Colgate,21,28,False,Patriot,Patriot
+2021,5,West Liberty,Glenville State,20,19,False,Mountain East,Mountain East
+2021,5,Kentucky State,Savannah St,17,21,False,SIAC,SIAC
+2021,5,Minnesota State Moorhead,Minnesota Duluth,21,26,False,Northern Sun,Northern Sun
+2021,5,Central State (OH),Allen,34,46,False,SIAC,SIAC
+2021,5,Franklin Pierce,Assumption,28,35,False,Northeast 10,Northeast 10
+2021,5,Frostburg State,UNC Pembroke,51,21,False,Mountain East,Mountain East
+2021,5,Mars Hill,Newberry,28,22,False,South Atlantic,South Atlantic
+2021,5,Kentucky Wesleyan,Ohio Dominican,30,32,False,Great Midwest Athletic,Great Midwest Athletic
+2021,5,Stetson,Davidson,28,35,False,Pioneer,Pioneer
+2021,5,Howard,Sacred Heart,22,17,False,MEAC,NEC
+2021,5,Merrimack,Duquesne,14,37,False,NEC,NEC
+2021,5,McNeese,SE Louisiana,35,38,False,Southland,Southland
+2021,5,Valparaiso,Marist,24,27,False,Pioneer,Pioneer
+2021,5,Princeton,Columbia,24,7,False,Ivy,Ivy
+2021,5,North Carolina A&T,Robert Morris,41,14,False,Big South,Big South
+2021,5,Monmouth,Gardner-Webb,54,17,False,Big South,Big South
+2021,5,Ouachita Baptist,Northwestern Oklahoma State,64,17,False,Great American,Great American
+2021,5,Northwood (MI),Ferris State,25,67,False,GLIAC,GLIAC
+2021,5,Michigan Tech,Davenport,31,7,False,GLIAC,GLIAC
+2021,5,Virginia Union,Shaw,7,27,False,CIAA,CIAA
+2021,5,Chattanooga,Western Carolina,45,17,False,Southern,Southern
+2021,5,South Carolina State,Bethune-Cookman,42,35,False,MEAC,SWAC
+2021,5,Holy Cross,Harvard,13,38,False,Patriot,Ivy
+2021,5,Southern Nazarene,Arkansas Tech,41,51,False,Great American,Great American
+2021,5,Hampton,Norfolk State,44,47,False,Big South,MEAC
+2021,5,Richmond,Elon,7,20,False,CAA,CAA
+2021,5,Illinois State,Missouri State,20,41,False,MVFC,MVFC
+2021,5,Morehead State,Dayton,45,38,False,Pioneer,Pioneer
+2021,5,ERSKINE,Virginia University Of Lynchburg,59,13,False,Independent DII,
+2021,5,Wheeling,West Virginia Wesleyan,38,0,False,Mountain East,Mountain East
+2021,5,Fairmont State,Concord University,31,27,False,Mountain East,Mountain East
+2021,5,Wilson,Carson-Newman College,31,17,False,Independent DII,South Atlantic
+2021,5,UVA Wise,Lenoir-Rhyne,35,28,False,South Atlantic,South Atlantic
+2021,5,Emporia State University,Washburn,35,30,False,Mid America,Mid America
+2021,5,Colorado School Of Mines,Western Colorado,20,14,False,Rocky Mountain,Rocky Mountain
+2021,5,New Mexico Highlands,Chadron St,16,46,False,Rocky Mountain,Rocky Mountain
+2021,5,Fort Lewis,Black Hills State,17,45,False,Rocky Mountain,Rocky Mountain
+2021,5,Indiana-Pennsylvania,Gannon,28,23,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,5,West Chester,Bloomsburg,21,20,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,5,Sioux Falls,Augustana University (SD),28,26,False,Northern Sun,Northern Sun
+2021,5,Morehouse College,Edward Waters,13,37,False,SIAC,SIAC
+2021,5,Tuskegee,Clark Atlanta,21,0,False,SIAC,SIAC
+2021,5,Benedict College,Fort Valley State,14,24,False,SIAC,SIAC
+2021,5,Wayne State (NE),Winona State,38,21,False,Northern Sun,Northern Sun
+2021,5,Saginaw Valley State,Grand Valley State University,17,49,False,GLIAC,GLIAC
+2021,5,Southwest Baptist,Indianapolis,10,77,False,Great Lakes,Great Lakes
+2021,5,Quincy,Missouri S&T,31,28,False,Great Lakes,Great Lakes
+2021,5,Bowie State,Johnson C Smith,44,7,False,CIAA,CIAA
+2021,5,Colorado,USC,14,37,False,Pac-12,Pac-12
+2021,5,Georgia State,App State,16,45,False,Sun Belt,Sun Belt
+2021,5,The Citadel,VMI,35,24,False,Southern,Southern
+2021,5,Notre Dame,Cincinnati,13,24,False,FBS Independents,American Athletic
+2021,5,Tennessee Tech,Southeast Missouri State,28,17,False,OVC,OVC
+2021,5,Elizabeth City State,Livingstone,19,13,False,CIAA,CIAA
+2021,5,Coastal Carolina,UL Monroe,59,6,False,Sun Belt,Sun Belt
+2021,5,Northern Illinois,Eastern Michigan,27,20,False,Mid-American,Mid-American
+2021,5,Arkansas-Monticello,Southwestern Oklahoma State,18,16,False,Great American,Great American
+2021,5,PennWest California,Mercyhurst,37,0,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,5,Minnesota State Mankato,Concordia University St Paul,58,10,False,Northern Sun,Northern Sun
+2021,5,Lane College,Texas College,71,0,False,SIAC,
+2021,5,Bemidji State,Minot State,49,35,False,Northern Sun,Northern Sun
+2021,5,Lake Erie,Findlay,10,37,False,Great Midwest Athletic,Great Midwest Athletic
+2021,5,Missouri Southern State,Pittsburg St,16,20,False,Mid America,Mid America
+2021,5,Central Oklahoma,Lincoln (MO),69,28,False,Mid America,Mid America
+2021,5,Northeastern State,Central Missouri,10,41,False,Mid America,Mid America
+2021,5,Northern State,University of Mary,42,49,False,Northern Sun,Northern Sun
+2021,5,Adams State,South Dakota Mines,42,45,False,Rocky Mountain,Rocky Mountain
+2021,5,North Greenville,Mississippi College,21,42,False,Gulf South,Gulf South
+2021,5,Southeastern Oklahoma State,Henderson State,24,27,False,Great American,Great American
+2021,5,Grambling,Alabama A&M,37,28,False,SWAC,SWAC
+2021,5,North Dakota,North Dakota State,10,16,False,MVFC,MVFC
+2021,5,South Dakota,Indiana State,38,10,False,MVFC,MVFC
+2021,5,Delaware,UAlbany,20,15,False,CAA,CAA
+2021,5,Kennesaw State,Jacksonville State,31,6,False,Big South,AWC
+2021,5,Montana State,Northern Colorado,40,7,False,Big Sky,Big Sky
+2021,5,Oklahoma Baptist,Harding University,7,31,False,Great American,Great American
+2021,5,East Central (OK),Southern Arkansas,38,17,False,Great American,Great American
+2021,5,Eastern Kentucky,Tarleton State,20,3,False,AWC,AWC
+2021,5,Alabama,Ole Miss,42,21,False,SEC,SEC
+2021,5,East Carolina,Tulane,52,29,False,American Athletic,American Athletic
+2021,5,West Virginia,Texas Tech,20,23,False,Big 12,Big 12
+2021,5,Boise State,Nevada,31,41,False,Mountain West,Mountain West
+2021,5,Akron,Ohio,17,34,False,Mid-American,Mid-American
+2021,5,Lafayette,Fordham,41,42,False,Patriot,Patriot
+2021,5,East Tennessee State,Wofford,27,21,False,Southern,Southern
+2021,5,Bucknell,Cornell,21,10,False,Patriot,Ivy
+2021,5,New Hampshire,James Madison,21,23,False,CAA,CAA
+2021,5,Kansas State,Oklahoma,31,37,False,Big 12,Big 12
+2021,5,Navy,UCF,34,30,False,American Athletic,American Athletic
+2021,5,Florida State,Syracuse,33,30,False,ACC,ACC
+2021,5,Stanford,Oregon,31,24,False,Pac-12,Pac-12
+2021,5,Miami (OH),Central Michigan,28,17,False,Mid-American,Mid-American
+2021,5,Kent State,Bowling Green,27,20,False,Mid-American,Mid-American
+2021,5,South Carolina,Troy,23,14,False,SEC,Sun Belt
+2021,5,Florida Atlantic,Florida International,58,21,False,Conference USA,Conference USA
+2021,5,Rutgers,Ohio State,13,52,False,Big Ten,Big Ten
+2021,5,St. Anselm,Bentley,21,34,False,Northeast 10,Northeast 10
+2021,5,Georgia Southern,Arkansas State,59,33,False,Sun Belt,Sun Belt
+2021,5,Northern Arizona,Idaho State,48,17,False,Big Sky,Big Sky
+2021,5,Mississippi Valley State,North Carolina Central,17,16,False,SWAC,MEAC
+2021,5,Western Illinois,Southern Illinois,30,31,False,MVFC,MVFC
+2021,5,Nicholls,Houston Christian,48,17,False,Southland,Southland
+2021,5,San Diego,St. Thomas (MN),27,24,False,Pioneer,Pioneer
+2021,5,Bryant,Brown,36,29,False,NEC,Ivy
+2021,5,Upper Iowa University,Southwest Minnesota State,14,20,False,Northern Sun,Northern Sun
+2021,5,Northern Michigan,Wayne State (MI),26,19,False,GLIAC,GLIAC
+2021,5,Seton Hill,Edinboro University,7,17,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,5,CSU Pueblo,Colorado Mesa,19,13,False,Rocky Mountain,Rocky Mountain
+2021,5,Tiffin,Hillsdale,21,24,False,Great Midwest Athletic,Great Midwest Athletic
+2021,5,SMU,South Florida,41,17,False,American Athletic,American Athletic
+2021,5,Western Oregon,West Texas A&M,41,38,False,Great Northwest,Lone Star
+2021,5,Murray State,Eastern Illinois,22,6,False,OVC,OVC
+2021,5,Ball State,Army,28,16,False,Mid-American,FBS Independents
+2021,5,Stephen F. Austin,Sam Houston,20,21,False,AWC,AWC
+2021,5,Wagner,Delaware State,27,33,False,NEC,MEAC
+2021,5,Northern Iowa,Youngstown State,34,7,False,MVFC,MVFC
+2021,5,California,Washington State,6,21,False,Pac-12,Pac-12
+2021,5,NC State,Louisiana Tech,34,27,False,ACC,Conference USA
+2021,5,Chowan,Winston-Salem,73,7,False,CIAA,CIAA
+2021,5,Virginia St,St. Augustine's,33,9,False,CIAA,CIAA
+2021,5,Mercer,Samford,45,42,False,Southern,Southern
+2021,5,West Georgia,West Alabama,20,38,False,Gulf South,Gulf South
+2021,5,Slippery Rock,Clarion,75,0,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,5,Wingate,Greeneville,43,35,False,South Atlantic,South Atlantic
+2021,5,Florida A&M,Alabama State,28,0,False,SWAC,SWAC
+2021,5,Kentucky,Florida,20,13,False,SEC,SEC
+2021,5,UTSA,UNLV,24,17,False,Conference USA,Mountain West
+2021,5,Rice,Southern Miss,24,19,False,Conference USA,Conference USA
+2021,5,New Mexico,Air Force,10,38,False,Mountain West,Mountain West
+2021,5,Truman State,Lindenwood,21,31,False,Great Lakes,Great Lakes
+2021,5,Fayetteville State,Lincoln (PA),46,9,False,CIAA,CIAA
+2021,5,Texas A&M,Mississippi State,22,26,False,SEC,SEC
+2021,5,UAB,Liberty,12,36,False,Conference USA,FBS Independents
+2021,5,Middle Tennessee,Marshall,34,28,False,Conference USA,Conference USA
+2021,5,Angelo State,Western New Mexico,62,3,False,Lone Star,Lone Star
+2021,5,Delta State,West Florida,33,39,False,Gulf South,Gulf South
+2021,5,Valdosta State,Shorter,49,13,False,Gulf South,Gulf South
+2021,5,Miles College,Albany State GA,3,31,False,SIAC,SIAC
+2021,5,West Virginia State,Alderson-Broaddus,45,13,False,Mountain East,Mountain East
+2021,5,Missouri Western,Northwest Missouri St,7,30,False,Mid America,Mid America
+2021,5,East Texas A&M,UFTL,72,6,False,Lone Star,
+2021,5,Abilene Christian,Central Arkansas,21,42,False,AWC,AWC
+2021,5,North Alabama,Campbell,31,48,False,Big South,Big South
+2021,5,South Dakota State,Utah Tech,55,7,False,MVFC,AWC
+2021,5,Iowa State,Kansas,59,7,False,Big 12,Big 12
+2021,5,Northwestern State,Incarnate Word,27,38,False,Southland,Southland
+2021,5,Oklahoma State,Baylor,24,14,False,Big 12,Big 12
+2021,5,Penn State,Indiana,24,0,False,Big Ten,Big Ten
+2021,5,Clemson,Boston College,19,13,False,ACC,ACC
+2021,5,Nebraska,Northwestern,56,7,False,Big Ten,Big Ten
+2021,5,Michigan State,Western Kentucky,48,31,False,Big Ten,Conference USA
+2021,5,Vanderbilt,UConn,30,28,False,SEC,FBS Independents
+2021,5,Fort Hays State,Nebraska-Kearney,42,35,False,Mid America,Mid America
+2021,5,South Alabama,Louisiana,18,20,False,Sun Belt,Sun Belt
+2021,5,Eastern New Mexico,Lincoln (CA),52,6,False,Lone Star,
+2021,5,Austin Peay,Tennessee State,22,24,False,OVC,OVC
+2021,5,Southern Utah,Portland State,13,20,False,Big Sky,Big Sky
+2021,5,Cal Poly,Weber State,7,38,False,Big Sky,Big Sky
+2021,5,LSU,Auburn,19,24,False,SEC,SEC
+2021,5,UTEP,Old Dominion,28,21,False,Conference USA,Conference USA
+2021,5,Central Washington,Midwestern State,30,20,False,Great Northwest,Lone Star
+2021,5,Oregon State,Washington,27,24,False,Pac-12,Pac-12
+2021,5,UC Davis,Idaho,27,20,False,Big Sky,Big Sky
+2021,5,San José State,New Mexico State,37,31,False,Mountain West,FBS Independents
+2021,5,Eastern Washington,Montana,34,28,False,Big Sky,Big Sky
+2021,5,UCLA,Arizona State,23,42,False,Pac-12,Pac-12
+2021,5,Hawai'i,Fresno State,27,24,False,Mountain West,Mountain West
+2021,6,Arkansas State,Coastal Carolina,20,52,False,Sun Belt,Sun Belt
+2021,6,Tulane,Houston,22,40,False,American Athletic,American Athletic
+2021,6,Northeastern State,Central Oklahoma,9,49,False,Mid America,Mid America
+2021,6,Assumption,Southern Connecticut State,26,0,False,Northeast 10,Northeast 10
+2021,6,Cincinnati,Temple,52,3,False,American Athletic,American Athletic
+2021,6,Florida International,Charlotte,33,45,False,Conference USA,Conference USA
+2021,6,Howard,Morgan State,27,0,False,MEAC,MEAC
+2021,6,Arizona State,Stanford,28,10,False,Pac-12,Pac-12
+2021,6,Tennessee,South Carolina,45,20,False,SEC,SEC
+2021,6,Ole Miss,Arkansas,52,51,False,SEC,SEC
+2021,6,Davenport,Northern Michigan,18,13,False,GLIAC,GLIAC
+2021,6,Mercyhurst,Seton Hill,17,19,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,6,Notre Dame College,Frostburg State,23,21,False,Mountain East,Mountain East
+2021,6,UVA Wise,Newberry,14,37,False,South Atlantic,South Atlantic
+2021,6,UNC Pembroke,Wheeling,34,28,False,Mountain East,Mountain East
+2021,6,Gannon,PennWest California,17,38,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,6,American International,Stonehill,0,25,False,Northeast 10,Northeast 10
+2021,6,Texas,Oklahoma,48,55,True,Big 12,Big 12
+2021,6,Baylor,West Virginia,45,20,False,Big 12,Big 12
+2021,6,Maine,Elon,23,33,False,CAA,CAA
+2021,6,Butler,San Diego,21,52,False,Pioneer,Pioneer
+2021,6,Marist,Stetson,34,3,False,Pioneer,Pioneer
+2021,6,Duquesne,Bryant,39,34,False,NEC,NEC
+2021,6,Bowling Green,Akron,20,35,False,Mid-American,Mid-American
+2021,6,Toledo,Northern Illinois,20,22,False,Mid-American,Mid-American
+2021,6,Rutgers,Michigan State,13,31,False,Big Ten,Big Ten
+2021,6,Ohio State,Maryland,66,17,False,Big Ten,Big Ten
+2021,6,Florida,Vanderbilt,42,0,False,SEC,SEC
+2021,6,Lafayette,Bucknell,27,0,False,Patriot,Patriot
+2021,6,Brown,Colgate,31,10,False,Ivy,Patriot
+2021,6,Duke,Georgia Tech,27,31,False,ACC,ACC
+2021,6,St. Francis (PA),Long Island University,55,10,False,NEC,NEC
+2021,6,Johnson C Smith,Winston-Salem,12,26,False,CIAA,CIAA
+2021,6,New Haven,St. Anselm,56,7,False,Northeast 10,Northeast 10
+2021,6,Shorter,West Alabama,7,44,False,Gulf South,Gulf South
+2021,6,Fordham,Wagner,56,7,False,Patriot,NEC
+2021,6,Concordia University St Paul,Bemidji State,14,42,False,Northern Sun,Northern Sun
+2021,6,Bentley,Pace,26,0,False,Northeast 10,Northeast 10
+2021,6,Concord University,West Liberty,20,16,False,Mountain East,Mountain East
+2021,6,Bluefield State,UFTL,23,9,False,Independent DII,
+2021,6,Limestone,Wingate,17,35,False,South Atlantic,South Atlantic
+2021,6,Lenoir-Rhyne,Greeneville,38,31,False,South Atlantic,South Atlantic
+2021,6,Catawba,Carson-Newman College,33,27,False,South Atlantic,South Atlantic
+2021,6,Glenville State,University Of Charleston (WV),9,20,False,Mountain East,Mountain East
+2021,6,Shippensburg,West Chester,34,18,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,6,Lock Haven University,Shepherd,21,75,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,6,Shaw,Fayetteville State,12,15,False,CIAA,CIAA
+2021,6,Chowan,Bowie State,3,14,False,CIAA,CIAA
+2021,6,Monmouth,Princeton,28,31,False,Big South,Ivy
+2021,6,Virginia Union,Lincoln (PA),32,0,False,CIAA,CIAA
+2021,6,Rhode Island,Delaware,22,15,False,CAA,CAA
+2021,6,Central Connecticut,Columbia,20,22,False,NEC,Ivy
+2021,6,Harvard,Cornell,24,10,False,Ivy,Ivy
+2021,6,Pennsylvania,Lehigh,20,0,False,Ivy,Patriot
+2021,6,Indiana State,Western Illinois,37,27,False,MVFC,MVFC
+2021,6,Drake,Dayton,10,28,False,Pioneer,Pioneer
+2021,6,Presbyterian,Morehead State,30,38,False,Pioneer,Pioneer
+2021,6,Nicholls,SE Louisiana,48,58,False,Southland,Southland
+2021,6,North Carolina A&T,North Alabama,38,34,False,Big South,Big South
+2021,6,Dartmouth,Yale,24,17,False,Ivy,Ivy
+2021,6,West Virginia Wesleyan,West Virginia State,3,38,False,Mountain East,Mountain East
+2021,6,Wofford,Furman,20,42,False,Southern,Southern
+2021,6,Livingstone,St. Augustine's,21,7,False,CIAA,CIAA
+2021,6,Mars Hill,Wilson,40,32,False,South Atlantic,Independent DII
+2021,6,VMI,Chattanooga,37,34,False,Southern,Southern
+2021,6,Missouri S&T,Truman State,21,38,False,Great Lakes,Great Lakes
+2021,6,Kentucky State,Lane College,49,14,False,SIAC,SIAC
+2021,6,Fairmont State,Alderson-Broaddus,44,10,False,Mountain East,Mountain East
+2021,6,Hillsdale,Walsh,20,3,False,Great Midwest Athletic,Great Midwest Athletic
+2021,6,Minnesota State Mankato,Wayne State (NE),24,35,False,Northern Sun,Northern Sun
+2021,6,Edinboro University,Slippery Rock,13,49,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,6,Washburn,Fort Hays State,23,20,False,Mid America,Mid America
+2021,6,Central Missouri,Emporia State University,45,38,False,Mid America,Mid America
+2021,6,South Dakota Mines,Fort Lewis,42,7,False,Rocky Mountain,Rocky Mountain
+2021,6,Clarion,Indiana-Pennsylvania,21,58,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,6,Bloomsburg,Kutztown University,7,34,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,6,Augustana University (SD),Upper Iowa University,37,20,False,Northern Sun,Northern Sun
+2021,6,Hampton,Kennesaw State,15,34,False,Big South,Big South
+2021,6,James Madison,Villanova,27,28,False,CAA,CAA
+2021,6,Delaware State,Virginia University Of Lynchburg,56,6,False,MEAC,
+2021,6,Fort Valley State,Central State (OH),35,14,False,SIAC,SIAC
+2021,6,Clark Atlanta,Allen,21,12,False,SIAC,SIAC
+2021,6,Albany State GA,Edward Waters,30,0,False,SIAC,SIAC
+2021,6,Lindenwood,Quincy,33,28,False,Great Lakes,Great Lakes
+2021,6,Marshall,Old Dominion,20,13,False,Conference USA,Conference USA
+2021,6,Sacred Heart,Merrimack,20,10,False,NEC,NEC
+2021,6,St. Thomas (MN),Valparaiso,20,13,False,Pioneer,Pioneer
+2021,6,North Dakota State,Northern Iowa,34,20,False,MVFC,MVFC
+2021,6,North Carolina Central,Tennessee Tech,16,27,False,MEAC,OVC
+2021,6,Youngstown State,Missouri State,41,33,False,MVFC,MVFC
+2021,6,East Stroudsburg University,Millersville,27,7,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,6,Northwest Missouri St,Pittsburg St,20,19,False,Mid America,Mid America
+2021,6,Mississippi College,West Georgia,21,40,False,Gulf South,Gulf South
+2021,6,Southwestern Oklahoma State,Ouachita Baptist,10,30,False,Great American,Great American
+2021,6,Henderson State,East Central (OK),59,24,False,Great American,Great American
+2021,6,Harding University,Southern Nazarene,49,10,False,Great American,Great American
+2021,6,Winona State,Northern State,49,52,False,Northern Sun,Northern Sun
+2021,6,Minot State,Minnesota State Moorhead,17,29,False,Northern Sun,Northern Sun
+2021,6,Lincoln (MO),Missouri Southern State,32,52,False,Mid America,Mid America
+2021,6,Nebraska-Kearney,Missouri Western,35,14,False,Mid America,Mid America
+2021,6,Lake Erie,Tiffin,17,35,False,Great Midwest Athletic,Great Midwest Athletic
+2021,6,Western Colorado,New Mexico Highlands,45,38,False,Rocky Mountain,Rocky Mountain
+2021,6,Chadron St,CSU Pueblo,17,42,False,Rocky Mountain,Rocky Mountain
+2021,6,Arkansas Tech,Oklahoma Baptist,38,35,False,Great American,Great American
+2021,6,Black Hills State,Colorado School Of Mines,20,41,False,Rocky Mountain,Rocky Mountain
+2021,6,University of Mary,Minnesota Duluth,27,31,False,Northern Sun,Northern Sun
+2021,6,Northern Colorado,Eastern Washington,17,63,False,Big Sky,Big Sky
+2021,6,Alabama State,Arkansas-Pine Bluff,35,15,False,SWAC,SWAC
+2021,6,Sam Houston,Lamar,41,7,False,AWC,AWC
+2021,6,UT Martin,Murray State,48,24,False,OVC,OVC
+2021,6,South Dakota State,Southern Illinois,41,42,False,MVFC,MVFC
+2021,6,South Dakota,North Dakota,20,13,False,MVFC,MVFC
+2021,6,Montana,Utah Tech,31,14,False,Big Sky,AWC
+2021,6,Robert Morris,Charleston Southern,31,24,False,Big South,Big South
+2021,6,Louisville,Virginia,33,34,False,ACC,ACC
+2021,6,Idaho State,UC Davis,27,17,False,Big Sky,Big Sky
+2021,6,Alabama A&M,Jackson State,15,61,False,SWAC,SWAC
+2021,6,Alcorn State,Grambling,24,20,False,SWAC,SWAC
+2021,6,Ohio,Central Michigan,27,30,False,Mid-American,Mid-American
+2021,6,Colorado State,San José State,32,14,False,Mountain West,Mountain West
+2021,6,North Carolina,Florida State,25,35,False,ACC,ACC
+2021,6,Auburn,Georgia,10,34,False,SEC,SEC
+2021,6,Western Carolina,Mercer,24,34,False,Southern,Southern
+2021,6,William & Mary,UAlbany,31,24,False,CAA,CAA
+2021,6,Syracuse,Wake Forest,37,40,False,ACC,ACC
+2021,6,Massachusetts,UConn,27,13,False,FBS Independents,FBS Independents
+2021,6,UAB,Florida Atlantic,31,14,False,Conference USA,Conference USA
+2021,6,Eastern Michigan,Miami (OH),13,12,False,Mid-American,Mid-American
+2021,6,Western Michigan,Ball State,20,45,False,Mid-American,Mid-American
+2021,6,Navy,SMU,24,31,False,American Athletic,American Athletic
+2021,6,Illinois,Wisconsin,0,24,False,Big Ten,Big Ten
+2021,6,Liberty,Middle Tennessee,41,13,False,FBS Independents,Conference USA
+2021,6,BYU,Boise State,17,26,False,FBS Independents,Mountain West
+2021,6,Southern Arkansas,Southeastern Oklahoma State,24,38,False,Great American,Great American
+2021,6,Iowa,Penn State,23,20,False,Big Ten,Big Ten
+2021,6,Findlay,Kentucky Wesleyan,31,19,False,Great Midwest Athletic,Great Midwest Athletic
+2021,6,William Jewell,Southwest Baptist,10,55,False,Great Lakes,Great Lakes
+2021,6,Missouri,North Texas,48,35,False,SEC,Conference USA
+2021,6,Washington State,Oregon State,31,24,False,Pac-12,Pac-12
+2021,6,Jacksonville State,Stephen F. Austin,28,24,False,AWC,AWC
+2021,6,Montana State,Cal Poly,45,7,False,Big Sky,Big Sky
+2021,6,Towson,Stony Brook,21,14,False,CAA,CAA
+2021,6,Austin Peay,Southeast Missouri State,14,30,False,OVC,OVC
+2021,6,Bethune-Cookman,Mississippi Valley State,14,20,False,SWAC,SWAC
+2021,6,Western Oregon,Central Washington,14,45,False,Great Northwest,Great Northwest
+2021,6,East Tennessee State,The Citadel,48,21,False,Southern,Southern
+2021,6,Idaho,Portland State,42,35,False,Big Sky,Big Sky
+2021,6,Southern,Texas Southern,31,35,False,SWAC,SWAC
+2021,6,Miles College,Benedict College,21,24,False,SIAC,SIAC
+2021,6,Northwestern Oklahoma State,Arkansas-Monticello,23,42,False,Great American,Great American
+2021,6,East Texas A&M,Saginaw Valley State,17,20,False,Lone Star,GLIAC
+2021,6,Wayne State (MI),Michigan Tech,27,30,False,GLIAC,GLIAC
+2021,6,Virginia St,Elizabeth City State,35,7,False,CIAA,CIAA
+2021,6,Indianapolis,McKendree,57,28,False,Great Lakes,Great Lakes
+2021,6,Savannah St,ERSKINE,39,6,False,SIAC,Independent DII
+2021,6,Southwest Minnesota State,Sioux Falls,7,35,False,Northern Sun,Northern Sun
+2021,6,UCF,East Carolina,20,16,False,American Athletic,American Athletic
+2021,6,Eastern Kentucky,Abilene Christian,30,15,False,AWC,AWC
+2021,6,Gardner-Webb,Campbell,28,42,False,Big South,Big South
+2021,6,Florida A&M,South Carolina State,30,7,False,SWAC,MEAC
+2021,6,Troy,Georgia Southern,27,24,False,Sun Belt,Sun Belt
+2021,6,Houston Christian,Northwestern State,17,21,False,Southland,Southland
+2021,6,Kent State,Buffalo,48,38,False,Mid-American,Mid-American
+2021,6,Air Force,Wyoming,24,14,False,Mountain West,Mountain West
+2021,6,Western Kentucky,UTSA,46,52,False,Conference USA,Conference USA
+2021,6,Southern Miss,UTEP,13,26,False,Conference USA,Conference USA
+2021,6,Texas Tech,TCU,31,52,False,Big 12,Big 12
+2021,6,Ashland,Ohio Dominican,24,34,False,Great Midwest Athletic,Great Midwest Athletic
+2021,6,Grand Valley State University,Northwood (MI),70,9,False,GLIAC,GLIAC
+2021,6,Valdosta State,Delta State,55,0,False,Gulf South,Gulf South
+2021,6,North Greenville,West Florida,10,52,False,Gulf South,Gulf South
+2021,6,UT Permian Basin,Lincoln (CA),75,0,False,Lone Star,
+2021,6,Texas State,South Alabama,33,31,False,Sun Belt,Sun Belt
+2021,6,Nebraska,Michigan,29,32,False,Big Ten,Big Ten
+2021,6,Kentucky,LSU,42,21,False,SEC,SEC
+2021,6,Virginia Tech,Notre Dame,29,32,False,ACC,FBS Independents
+2021,6,USC,Utah,26,42,False,Pac-12,Pac-12
+2021,6,UL Monroe,Georgia State,21,55,False,Sun Belt,Sun Belt
+2021,6,Midwestern State,Texas A&M-Kingsville,30,13,False,Lone Star,Lone Star
+2021,6,West Texas A&M,Angelo State,31,15,False,Lone Star,Lone Star
+2021,6,Colorado Mesa,Adams State,49,14,False,Rocky Mountain,Rocky Mountain
+2021,6,Western New Mexico,Eastern New Mexico,47,50,False,Lone Star,Lone Star
+2021,6,Texas A&M,Alabama,41,38,False,SEC,SEC
+2021,6,Tuskegee,Morehouse College,15,31,False,SIAC,SIAC
+2021,6,Sacramento State,Southern Utah,41,20,False,Big Sky,Big Sky
+2021,6,Tulsa,Memphis,35,29,False,American Athletic,American Athletic
+2021,6,San Diego State,New Mexico,31,7,False,Mountain West,Mountain West
+2021,6,Arizona,UCLA,16,34,False,Pac-12,Pac-12
+2021,6,Nevada,New Mexico State,55,28,False,Mountain West,FBS Independents
+2021,7,Louisiana,App State,41,13,False,Sun Belt,Sun Belt
+2021,7,Southern Nazarene,Southwestern Oklahoma State,30,22,False,Great American,Great American
+2021,7,Memphis,Navy,35,17,False,American Athletic,American Athletic
+2021,7,South Alabama,Georgia Southern,41,14,False,Sun Belt,Sun Belt
+2021,7,Syracuse,Clemson,14,17,False,ACC,ACC
+2021,7,North Texas,Marshall,21,49,False,Conference USA,Conference USA
+2021,7,Cornell,Colgate,34,20,False,Ivy,Patriot
+2021,7,Weber State,Montana State,7,13,False,Big Sky,Big Sky
+2021,7,Oregon,California,24,17,False,Pac-12,Pac-12
+2021,7,San José State,San Diego State,13,19,False,Mountain West,Mountain West
+2021,7,UConn,Yale,21,15,False,FBS Independents,Ivy
+2021,7,Minnesota,Nebraska,30,23,False,Big Ten,Big Ten
+2021,7,LSU,Florida,49,42,False,SEC,SEC
+2021,7,Missouri,Texas A&M,14,35,False,SEC,SEC
+2021,7,Buffalo,Ohio,27,26,False,Mid-American,Mid-American
+2021,7,Indiana,Michigan State,15,20,False,Big Ten,Big Ten
+2021,7,Arkansas,Auburn,23,38,False,SEC,SEC
+2021,7,Texas,Oklahoma State,24,32,False,Big 12,Big 12
+2021,7,Northwestern,Rutgers,21,7,False,Big Ten,Big Ten
+2021,7,Cincinnati,UCF,56,21,False,American Athletic,American Athletic
+2021,7,Incarnate Word,Nicholls,38,21,False,Southland,Southland
+2021,7,Davenport,Wayne State (MI),3,16,False,GLIAC,GLIAC
+2021,7,American International,New Haven,14,30,False,Northeast 10,Northeast 10
+2021,7,Northern Michigan,Michigan Tech,14,21,False,GLIAC,GLIAC
+2021,7,West Chester,East Stroudsburg University,42,24,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,7,Edinboro University,Mercyhurst,20,27,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,7,Ohio Dominican,Findlay,14,21,False,Great Midwest Athletic,Great Midwest Athletic
+2021,7,University Of Charleston (WV),Concord University,48,3,False,Mountain East,Mountain East
+2021,7,South Florida,Tulsa,31,32,False,American Athletic,American Athletic
+2021,7,Maine,William & Mary,27,16,False,CAA,CAA
+2021,7,Bryant,St. Francis (PA),18,17,False,NEC,NEC
+2021,7,Long Island University,Merrimack,5,43,False,NEC,NEC
+2021,7,Dayton,Marist,17,20,False,Pioneer,Pioneer
+2021,7,Brown,Princeton,42,56,False,Ivy,Ivy
+2021,7,Virginia,Duke,48,0,False,ACC,ACC
+2021,7,Fordham,Bucknell,66,21,False,Patriot,Patriot
+2021,7,Harvard,Lafayette,30,3,False,Ivy,Patriot
+2021,7,Tiffin,Ashland,27,21,False,Great Midwest Athletic,Great Midwest Athletic
+2021,7,Chowan,Virginia Union,31,38,False,CIAA,CIAA
+2021,7,Lincoln (PA),Elizabeth City State,17,14,False,CIAA,CIAA
+2021,7,Bowie State,Virginia St,51,44,False,CIAA,CIAA
+2021,7,Hillsdale,Lake Erie,14,33,False,Great Midwest Athletic,Great Midwest Athletic
+2021,7,Shorter,Mississippi College,7,20,False,Gulf South,Gulf South
+2021,7,Upper Iowa University,Minnesota State Mankato,0,58,False,Northern Sun,Northern Sun
+2021,7,Carson-Newman College,Lenoir-Rhyne,0,59,False,South Atlantic,South Atlantic
+2021,7,Stonehill,St. Anselm,31,22,False,Northeast 10,Northeast 10
+2021,7,Edward Waters,Kentucky State,36,76,False,SIAC,SIAC
+2021,7,Walsh,Kentucky Wesleyan,13,23,False,Great Midwest Athletic,Great Midwest Athletic
+2021,7,Pace,Franklin Pierce,39,31,False,Northeast 10,Northeast 10
+2021,7,West Liberty,Fairmont State,52,31,False,Mountain East,Mountain East
+2021,7,Livingstone,Shaw,9,20,False,CIAA,CIAA
+2021,7,Alderson-Broaddus,Glenville State,21,35,False,Mountain East,Mountain East
+2021,7,Slippery Rock,Indiana-Pennsylvania,21,48,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,7,Sacred Heart,Central Connecticut,27,17,False,NEC,NEC
+2021,7,Bethune-Cookman,Prairie View A&M,29,35,False,SWAC,SWAC
+2021,7,Western Illinois,South Dakota State,17,41,False,MVFC,MVFC
+2021,7,New Hampshire,Dartmouth,21,38,False,CAA,Ivy
+2021,7,Campbell,Monmouth,17,34,False,Big South,Big South
+2021,7,Central State (OH),Tuskegee,0,29,False,SIAC,SIAC
+2021,7,Stetson,St. Thomas (MN),7,38,False,Pioneer,Pioneer
+2021,7,Notre Dame College,West Virginia Wesleyan,52,14,False,Mountain East,Mountain East
+2021,7,Minnesota Duluth,Concordia University St Paul,33,13,False,Northern Sun,Northern Sun
+2021,7,Greeneville,UVA Wise,37,21,False,South Atlantic,South Atlantic
+2021,7,Winston-Salem,St. Augustine's,41,0,False,CIAA,CIAA
+2021,7,Wofford,Samford,24,27,False,Southern,Southern
+2021,7,Columbia,Pennsylvania,23,14,False,Ivy,Ivy
+2021,7,Chattanooga,East Tennessee State,21,16,False,Southern,Southern
+2021,7,Holy Cross,Georgetown,48,14,False,Patriot,Patriot
+2021,7,Alabama A&M,Florida A&M,31,35,False,SWAC,SWAC
+2021,7,Richmond,James Madison,3,19,False,CAA,CAA
+2021,7,Norfolk State,Virginia University Of Lynchburg,42,14,False,MEAC,
+2021,7,Eastern Michigan,Ball State,31,38,False,Mid-American,Mid-American
+2021,7,Saginaw Valley State,Northwood (MI),31,13,False,GLIAC,GLIAC
+2021,7,Wayne State (NE),Augustana University (SD),24,32,False,Northern Sun,Northern Sun
+2021,7,Fayetteville State,Johnson C Smith,55,12,False,CIAA,CIAA
+2021,7,Sioux Falls,University of Mary,34,14,False,Northern Sun,Northern Sun
+2021,7,West Alabama,Valdosta State,17,42,False,Gulf South,Gulf South
+2021,7,Bemidji State,Minnesota State Moorhead,22,19,False,Northern Sun,Northern Sun
+2021,7,Frostburg State,Wheeling,41,17,False,Mountain East,Mountain East
+2021,7,Benedict College,Albany State GA,6,28,False,SIAC,SIAC
+2021,7,Southern Connecticut State,Bentley,20,34,False,Northeast 10,Northeast 10
+2021,7,Washburn,Northwest Missouri St,17,16,False,Mid America,Mid America
+2021,7,Winona State,Southwest Minnesota State,26,14,False,Northern Sun,Northern Sun
+2021,7,Pittsburg St,Lincoln (MO),59,7,False,Mid America,Mid America
+2021,7,Emporia State University,Nebraska-Kearney,35,42,False,Mid America,Mid America
+2021,7,Millersville,Shepherd,13,38,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,7,Colorado School Of Mines,South Dakota Mines,44,24,False,Rocky Mountain,Rocky Mountain
+2021,7,Fort Lewis,Colorado Mesa,3,55,False,Rocky Mountain,Rocky Mountain
+2021,7,Morehouse College,Fort Valley State,51,3,False,SIAC,SIAC
+2021,7,Missouri S&T,William Jewell,37,16,False,Great Lakes,Great Lakes
+2021,7,Southwest Baptist,Truman State,27,21,False,Great Lakes,Great Lakes
+2021,7,Bloomsburg,Lock Haven University,44,0,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,7,Eastern Washington,Idaho,71,21,False,Big Sky,Big Sky
+2021,7,Miami (OH),Akron,34,21,False,Mid-American,Mid-American
+2021,7,Missouri State,Indiana State,37,7,False,MVFC,MVFC
+2021,7,Jackson State,Alabama State,28,7,False,SWAC,SWAC
+2021,7,Illinois State,North Dakota State,0,20,False,MVFC,MVFC
+2021,7,Southern Illinois,North Dakota,31,28,False,MVFC,MVFC
+2021,7,Arkansas-Pine Bluff,Southern,7,34,False,SWAC,SWAC
+2021,7,Tennessee State,Tennessee Tech,20,13,False,OVC,OVC
+2021,7,Morehead State,Butler,31,8,False,Pioneer,Pioneer
+2021,7,Montana,Sacramento State,21,28,False,Big Sky,Big Sky
+2021,7,Southeast Missouri State,Murray State,31,32,False,OVC,OVC
+2021,7,Eastern Illinois,UT Martin,17,28,False,OVC,OVC
+2021,7,Grambling,Texas Southern,34,20,False,SWAC,SWAC
+2021,7,Adams State,Chadron St,35,45,False,Rocky Mountain,Rocky Mountain
+2021,7,Southern Arkansas,Arkansas Tech,34,17,False,Great American,Great American
+2021,7,Texas State,Troy,28,31,False,Sun Belt,Sun Belt
+2021,7,Arkansas-Monticello,Ouachita Baptist,0,34,False,Great American,Great American
+2021,7,Henderson State,Harding University,21,46,False,Great American,Great American
+2021,7,Southeastern Oklahoma State,Northwestern Oklahoma State,43,10,False,Great American,Great American
+2021,7,Savannah St,Clark Atlanta,49,14,False,SIAC,SIAC
+2021,7,Lane College,Miles College,31,34,False,SIAC,SIAC
+2021,7,Delta State,North Greenville,34,42,False,Gulf South,Gulf South
+2021,7,Western Colorado,Black Hills State,44,28,False,Rocky Mountain,Rocky Mountain
+2021,7,New Mexico Highlands,CSU Pueblo,28,21,False,Rocky Mountain,Rocky Mountain
+2021,7,MONTANASTN,Simon Fraser,3,30,False,,Great Northwest
+2021,7,UAlbany,Villanova,10,17,False,CAA,CAA
+2021,7,Northern Illinois,Bowling Green,34,26,False,Mid-American,Mid-American
+2021,7,Colorado,Arizona,34,0,False,Pac-12,Pac-12
+2021,7,Central Michigan,Toledo,26,23,False,Mid-American,Mid-American
+2021,7,Georgia,Kentucky,30,13,False,SEC,SEC
+2021,7,North Carolina,Miami,45,42,False,ACC,ACC
+2021,7,Virginia Tech,Pittsburgh,7,28,False,ACC,ACC
+2021,7,Iowa,Purdue,7,24,False,Big Ten,Big Ten
+2021,7,Southern Miss,UAB,0,34,False,Conference USA,Conference USA
+2021,7,Old Dominion,Western Kentucky,20,43,False,Conference USA,Conference USA
+2021,7,Wyoming,Fresno State,0,17,False,Mountain West,Mountain West
+2021,7,Western Michigan,Kent State,64,31,False,Mid-American,Mid-American
+2021,7,Baylor,BYU,38,24,False,Big 12,FBS Independents
+2021,7,South Carolina State,Morgan State,37,14,False,MEAC,MEAC
+2021,7,Stony Brook,Delaware,34,17,False,CAA,CAA
+2021,7,Northern Arizona,Southern Utah,59,35,False,Big Sky,Big Sky
+2021,7,Towson,Rhode Island,28,7,False,CAA,CAA
+2021,7,Mercer,VMI,7,45,False,Southern,Southern
+2021,7,Northwestern State,McNeese,17,35,False,Southland,Southland
+2021,7,South Carolina,Vanderbilt,21,20,False,SEC,SEC
+2021,7,Kansas,Texas Tech,14,41,False,Big 12,Big 12
+2021,7,Mississippi Valley State,Alcorn State,12,24,False,SWAC,SWAC
+2021,7,Abilene Christian,Lamar,24,17,False,AWC,AWC
+2021,7,Seton Hill,Gannon,10,14,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,7,Limestone,Mars Hill,3,32,False,South Atlantic,South Atlantic
+2021,7,ERSKINE,Bluefield State,24,19,False,Independent DII,Independent DII
+2021,7,Quincy,McKendree,48,51,False,Great Lakes,Great Lakes
+2021,7,Missouri Southern State,Central Missouri,30,28,False,Mid America,Mid America
+2021,7,Newberry,Catawba,14,7,False,South Atlantic,South Atlantic
+2021,7,Missouri Western,Northeastern State,57,24,False,Mid America,Mid America
+2021,7,West Florida,West Georgia,26,30,False,Gulf South,Gulf South
+2021,7,East Texas A&M,Western New Mexico,58,0,False,Lone Star,Lone Star
+2021,7,San Diego,Drake,13,10,False,Pioneer,Pioneer
+2021,7,Central Arkansas,Eastern Kentucky,35,38,False,AWC,AWC
+2021,7,Portland State,Idaho State,31,10,False,Big Sky,Big Sky
+2021,7,Kennesaw State,North Carolina A&T,14,0,False,Big South,Big South
+2021,7,Northern Iowa,South Dakota,21,34,False,MVFC,MVFC
+2021,7,SE Louisiana,Houston Christian,61,24,False,Southland,Southland
+2021,7,Kutztown University,Shippensburg,20,3,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,7,Indianapolis,Lindenwood,20,28,False,Great Lakes,Great Lakes
+2021,7,West Virginia State,UNC Pembroke,13,14,False,Mountain East,Mountain East
+2021,7,Wilson,Wingate,26,20,False,Independent DII,South Atlantic
+2021,7,Charleston Southern,Hampton,35,5,False,Big South,Big South
+2021,7,Furman,The Citadel,24,14,False,Southern,Southern
+2021,7,UTSA,Rice,45,0,False,Conference USA,Conference USA
+2021,7,North Alabama,Robert Morris,42,31,False,Big South,Big South
+2021,7,Davidson,Presbyterian,70,35,False,Pioneer,Pioneer
+2021,7,UNLV,Utah State,24,28,False,Mountain West,Mountain West
+2021,7,UL Monroe,Liberty,31,28,False,Sun Belt,FBS Independents
+2021,7,Mississippi State,Alabama,9,49,False,SEC,SEC
+2021,7,East Central (OK),Oklahoma Baptist,20,47,False,Great American,Great American
+2021,7,New Mexico,Colorado State,7,36,False,Mountain West,Mountain West
+2021,7,Grand Valley State University,Ferris State,28,35,False,GLIAC,GLIAC
+2021,7,Northern State,Minot State,36,35,False,Northern Sun,Northern Sun
+2021,7,Angelo State,UT Permian Basin,34,14,False,Lone Star,Lone Star
+2021,7,Washington State,Stanford,34,31,False,Pac-12,Pac-12
+2021,7,Oklahoma,TCU,52,31,False,Big 12,Big 12
+2021,7,Kansas State,Iowa State,20,33,False,Big 12,Big 12
+2021,7,Boston College,NC State,7,33,False,ACC,ACC
+2021,7,Tennessee,Ole Miss,26,31,False,SEC,SEC
+2021,7,UC Davis,Northern Colorado,32,3,False,Big Sky,Big Sky
+2021,7,Wisconsin,Army,20,14,False,Big Ten,FBS Independents
+2021,7,Fort Hays State,Central Oklahoma,14,24,False,Mid America,Mid America
+2021,7,Eastern New Mexico,West Texas A&M,24,44,False,Lone Star,Lone Star
+2021,7,Texas A&M-Kingsville,Lincoln (CA),51,21,False,Lone Star,
+2021,7,Washington,UCLA,17,24,False,Pac-12,Pac-12
+2021,7,Utah Tech,Tarleton State,20,41,False,AWC,AWC
+2021,7,UTEP,Louisiana Tech,19,3,False,Conference USA,Conference USA
+2021,7,Boise State,Air Force,17,24,False,Mountain West,Mountain West
+2021,7,Utah,Arizona State,35,21,False,Pac-12,Pac-12
+2021,7,Nevada,Hawai'i,34,17,False,Mountain West,Mountain West
+2021,8,App State,Coastal Carolina,30,27,False,Sun Belt,Sun Belt
+2021,8,SMU,Tulane,55,26,False,American Athletic,American Athletic
+2021,8,Arkansas State,Louisiana,27,28,False,Sun Belt,Sun Belt
+2021,8,Charlotte,Florida Atlantic,9,38,False,Conference USA,Conference USA
+2021,8,UNLV,San José State,20,27,False,Mountain West,Mountain West
+2021,8,Dartmouth,Columbia,0,19,False,Ivy,Ivy
+2021,8,UConn,Middle Tennessee,13,44,False,FBS Independents,Conference USA
+2021,8,UCF,Memphis,24,7,False,American Athletic,American Athletic
+2021,8,Utah State,Colorado State,26,24,False,Mountain West,Mountain West
+2021,8,Arizona,Washington,16,21,False,Pac-12,Pac-12
+2021,8,Arkansas,Arkansas-Pine Bluff,45,3,False,SEC,SWAC
+2021,8,Wagner,Bryant,10,31,False,NEC,NEC
+2021,8,Sacred Heart,Duquesne,31,13,False,NEC,NEC
+2021,8,Marist,Morehead State,24,27,False,Pioneer,Pioneer
+2021,8,Yale,Pennsylvania,42,28,False,Ivy,Ivy
+2021,8,Kansas,Oklahoma,23,35,False,Big 12,Big 12
+2021,8,Michigan,Northwestern,33,7,False,Big Ten,Big Ten
+2021,8,Central Connecticut,Long Island University,13,30,False,NEC,NEC
+2021,8,Texas Tech,Kansas State,24,25,False,Big 12,Big 12
+2021,8,Penn State,Illinois,18,20,False,Big Ten,Big Ten
+2021,8,Florida State,Massachusetts,59,3,False,ACC,FBS Independents
+2021,8,Army,Wake Forest,56,70,False,FBS Independents,ACC
+2021,8,Navy,Cincinnati,20,27,False,American Athletic,American Athletic
+2021,8,Central Michigan,Northern Illinois,38,39,False,Mid-American,Mid-American
+2021,8,Shepherd,West Chester,42,38,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,8,Ohio Dominican,Walsh,56,17,False,Great Midwest Athletic,Great Midwest Athletic
+2021,8,Findlay,Hillsdale,29,34,False,Great Midwest Athletic,Great Midwest Athletic
+2021,8,Gannon,Edinboro University,21,18,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,8,Minot State,Upper Iowa University,17,14,False,Northern Sun,Northern Sun
+2021,8,UVA Wise,Wingate,21,48,False,South Atlantic,South Atlantic
+2021,8,Kentucky Wesleyan,Tiffin,28,34,False,Great Midwest Athletic,Great Midwest Athletic
+2021,8,Mercyhurst,Slippery Rock,17,20,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,8,Bowling Green,Eastern Michigan,24,55,False,Mid-American,Mid-American
+2021,8,Clarion,Seton Hill,0,49,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,8,Virginia Tech,Syracuse,36,41,False,ACC,ACC
+2021,8,Valparaiso,Dayton,45,28,False,Pioneer,Pioneer
+2021,8,Princeton,Harvard,18,16,False,Ivy,Ivy
+2021,8,Fordham,Lehigh,35,28,False,Patriot,Patriot
+2021,8,Presbyterian,San Diego,28,69,False,Pioneer,Pioneer
+2021,8,Drake,Stetson,0,1,False,Pioneer,Pioneer
+2021,8,McNeese,Incarnate Word,28,20,False,Southland,Southland
+2021,8,Samford,Chattanooga,13,55,False,Southern,Southern
+2021,8,Butler,Davidson,35,49,False,Pioneer,Pioneer
+2021,8,Bucknell,Georgetown,21,29,False,Patriot,Patriot
+2021,8,Indiana State,Youngstown State,28,17,False,MVFC,MVFC
+2021,8,Howard,Norfolk State,31,45,False,MEAC,MEAC
+2021,8,Morgan State,North Carolina Central,17,28,False,MEAC,MEAC
+2021,8,Cornell,Brown,45,49,False,Ivy,Ivy
+2021,8,Elon,New Hampshire,24,10,False,CAA,CAA
+2021,8,UAlbany,Maine,16,19,False,CAA,CAA
+2021,8,Ohio,Kent State,27,34,False,Mid-American,Mid-American
+2021,8,Stonehill,New Haven,20,42,False,Northeast 10,Northeast 10
+2021,8,Northern Michigan,Grand Valley State University,24,28,False,GLIAC,GLIAC
+2021,8,Kentucky State,Miles College,21,28,False,SIAC,SIAC
+2021,8,Minnesota State Moorhead,University of Mary,35,31,False,Northern Sun,Northern Sun
+2021,8,Concordia University St Paul,Northern State,17,38,False,Northern Sun,Northern Sun
+2021,8,Shippensburg,Millersville,38,7,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,8,Mars Hill,Catawba,31,14,False,South Atlantic,South Atlantic
+2021,8,West Virginia Wesleyan,Alderson-Broaddus,20,49,False,Mountain East,Mountain East
+2021,8,Concord University,West Virginia State,32,34,False,Mountain East,Mountain East
+2021,8,Franklin Pierce,Southern Connecticut State,24,43,False,Northeast 10,Northeast 10
+2021,8,Wheeling,West Liberty,26,20,False,Mountain East,Mountain East
+2021,8,Fairmont State,Frostburg State,14,49,False,Mountain East,Mountain East
+2021,8,Assumption,American International,42,21,False,Northeast 10,Northeast 10
+2021,8,St. Augustine's,Fayetteville State,12,40,False,CIAA,CIAA
+2021,8,Virginia Union,Bowie State,7,27,False,CIAA,CIAA
+2021,8,Michigan Tech,Ferris State,10,38,False,GLIAC,GLIAC
+2021,8,Winston-Salem,Livingstone,21,0,False,CIAA,CIAA
+2021,8,Ashland,Lake Erie,42,41,False,Great Midwest Athletic,Great Midwest Athletic
+2021,8,Northwood (MI),Davenport,14,21,False,GLIAC,GLIAC
+2021,8,Shaw,Johnson C Smith,20,14,False,CIAA,CIAA
+2021,8,East Stroudsburg University,Bloomsburg,35,14,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,8,Elizabeth City State,Chowan,32,28,False,CIAA,CIAA
+2021,8,Glenville State,Notre Dame College,14,34,False,Mountain East,Mountain East
+2021,8,Gardner-Webb,Robert Morris,28,17,False,Big South,Big South
+2021,8,South Dakota,Illinois State,14,20,False,MVFC,MVFC
+2021,8,Jackson State,Bethune-Cookman,42,12,False,SWAC,SWAC
+2021,8,Hampton,North Carolina A&T,30,9,False,Big South,Big South
+2021,8,Delaware State,South Carolina State,7,13,False,MEAC,MEAC
+2021,8,Furman,East Tennessee State,13,17,False,Southern,Southern
+2021,8,The Citadel,Western Carolina,31,45,False,Southern,Southern
+2021,8,Edward Waters,Central State (OH),56,19,False,SIAC,SIAC
+2021,8,Georgia State,Texas State,28,16,False,Sun Belt,Sun Belt
+2021,8,Virginia St,Lincoln (PA),23,3,False,CIAA,CIAA
+2021,8,Ouachita Baptist,Southern Arkansas,42,7,False,Great American,Great American
+2021,8,Lindenwood,Southwest Baptist,48,24,False,Great Lakes,Great Lakes
+2021,8,McKendree,Missouri S&T,31,37,False,Great Lakes,Great Lakes
+2021,8,Albany State GA,Savannah St,30,0,False,SIAC,SIAC
+2021,8,Sioux Falls,Winona State,10,14,False,Northern Sun,Northern Sun
+2021,8,Benedict College,Morehouse College,5,20,False,SIAC,SIAC
+2021,8,Fort Valley State,Clark Atlanta,40,7,False,SIAC,SIAC
+2021,8,Tuskegee,Lane College,17,21,False,SIAC,SIAC
+2021,8,Minnesota State Mankato,Augustana University (SD),35,45,False,Northern Sun,Northern Sun
+2021,8,Indiana-Pennsylvania,PennWest California,34,38,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,8,Lock Haven University,Kutztown University,15,32,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,8,Chadron St,Fort Lewis,60,7,False,Rocky Mountain,Rocky Mountain
+2021,8,South Dakota Mines,Western Colorado,21,42,False,Rocky Mountain,Rocky Mountain
+2021,8,Western New Mexico,Texas A&M-Kingsville,19,28,False,Lone Star,Lone Star
+2021,8,Northeastern State,Northwest Missouri St,7,59,False,Mid America,Mid America
+2021,8,Lenoir-Rhyne,Limestone,45,3,False,South Atlantic,South Atlantic
+2021,8,Quincy,Indianapolis,21,70,False,Great Lakes,Great Lakes
+2021,8,St. Anselm,Pace,24,16,False,Northeast 10,Northeast 10
+2021,8,Greeneville,Wilson,41,17,False,South Atlantic,Independent DII
+2021,8,UNC Pembroke,University Of Charleston (WV),21,14,False,Mountain East,Mountain East
+2021,8,Central Missouri,Fort Hays State,17,21,False,Mid America,Mid America
+2021,8,Tennessee Tech,Virginia University Of Lynchburg,56,13,False,OVC,
+2021,8,North Dakota,Western Illinois,34,10,False,MVFC,MVFC
+2021,8,Purdue,Wisconsin,13,30,False,Big Ten,Big Ten
+2021,8,South Dakota State,Northern Iowa,17,26,False,MVFC,MVFC
+2021,8,Sam Houston,Jacksonville State,42,7,False,AWC,AWC
+2021,8,Montana State,Idaho State,27,9,False,Big Sky,Big Sky
+2021,8,North Alabama,Charleston Southern,45,22,False,Big South,Big South
+2021,8,Delaware,James Madison,10,22,False,CAA,CAA
+2021,8,Murray State,Austin Peay,6,47,False,OVC,OVC
+2021,8,UT Martin,Southeast Missouri State,38,30,False,OVC,OVC
+2021,8,Eastern Illinois,Tennessee State,0,28,False,OVC,OVC
+2021,8,Mississippi College,Valdosta State,14,41,False,Gulf South,Gulf South
+2021,8,Arkansas Tech,Henderson State,38,41,False,Great American,Great American
+2021,8,Emporia State University,Missouri Southern State,24,21,False,Mid America,Mid America
+2021,8,Central Oklahoma,Washburn,17,29,False,Mid America,Mid America
+2021,8,Colorado Mesa,Colorado School Of Mines,26,21,False,Rocky Mountain,Rocky Mountain
+2021,8,Black Hills State,New Mexico Highlands,10,24,False,Rocky Mountain,Rocky Mountain
+2021,8,Southwestern Oklahoma State,East Central (OK),34,44,False,Great American,Great American
+2021,8,Truman State,William Jewell,52,0,False,Great Lakes,Great Lakes
+2021,8,Saginaw Valley State,Wayne State (MI),41,25,False,GLIAC,GLIAC
+2021,8,Minnesota Duluth,Bemidji State,35,42,False,Northern Sun,Northern Sun
+2021,8,Ball State,Miami (OH),17,24,False,Mid-American,Mid-American
+2021,8,Wyoming,New Mexico,3,14,False,Mountain West,Mountain West
+2021,8,UCLA,Oregon,31,34,False,Pac-12,Pac-12
+2021,8,Washington State,BYU,19,21,False,Pac-12,FBS Independents
+2021,8,Akron,Buffalo,10,45,False,Mid-American,Mid-American
+2021,8,California,Colorado,26,3,False,Pac-12,Pac-12
+2021,8,Minnesota,Maryland,34,16,False,Big Ten,Big Ten
+2021,8,Pittsburgh,Clemson,27,17,False,ACC,ACC
+2021,8,North Dakota State,Missouri State,27,20,False,MVFC,MVFC
+2021,8,William & Mary,Towson,40,14,False,CAA,CAA
+2021,8,Iowa State,Oklahoma State,24,21,False,Big 12,Big 12
+2021,8,UAB,Rice,24,30,False,Conference USA,Conference USA
+2021,8,Ole Miss,LSU,31,17,False,SEC,SEC
+2021,8,Villanova,Rhode Island,44,0,False,CAA,CAA
+2021,8,Toledo,Western Michigan,34,15,False,Mid-American,Mid-American
+2021,8,Stony Brook,Richmond,27,14,False,CAA,CAA
+2021,8,Mississippi Valley State,Florida A&M,28,31,False,SWAC,SWAC
+2021,8,Eastern Washington,Weber State,34,35,False,Big Sky,Big Sky
+2021,8,Campbell,Kennesaw State,7,30,False,Big South,Big South
+2021,8,Northwestern State,SE Louisiana,14,51,False,Southland,Southland
+2021,8,Louisville,Boston College,28,14,False,ACC,ACC
+2021,8,North Texas,Liberty,26,35,False,Conference USA,FBS Independents
+2021,8,Houston,East Carolina,31,24,False,American Athletic,American Athletic
+2021,8,Newberry,Carson-Newman College,34,3,False,South Atlantic,South Atlantic
+2021,8,Vanderbilt,Mississippi State,6,45,False,SEC,SEC
+2021,8,ERSKINE,Allen,47,40,False,Independent DII,SIAC
+2021,8,Harding University,Arkansas-Monticello,64,7,False,Great American,Great American
+2021,8,CSU Pueblo,Adams State,35,28,False,Rocky Mountain,Rocky Mountain
+2021,8,Missouri Western,Pittsburg St,14,34,False,Mid America,Mid America
+2021,8,West Alabama,Delta State,30,35,False,Gulf South,Gulf South
+2021,8,Holy Cross,Colgate,42,10,False,Patriot,Patriot
+2021,8,Mercer,Wofford,45,14,False,Southern,Southern
+2021,8,Southwest Minnesota State,Wayne State (NE),16,38,False,Northern Sun,Northern Sun
+2021,8,West Georgia,North Greenville,34,12,False,Gulf South,Gulf South
+2021,8,Oklahoma Baptist,Southeastern Oklahoma State,43,37,False,Great American,Great American
+2021,8,Angelo State,Simon Fraser,51,10,False,Lone Star,Great Northwest
+2021,8,West Texas A&M,East Texas A&M,3,15,False,Lone Star,Lone Star
+2021,8,Fresno State,Nevada,34,32,False,Mountain West,Mountain West
+2021,8,Air Force,San Diego State,14,20,False,Mountain West,Mountain West
+2021,8,UL Monroe,South Alabama,41,31,False,Sun Belt,Sun Belt
+2021,8,UT Permian Basin,Eastern New Mexico,44,21,False,Lone Star,Lone Star
+2021,8,Louisiana Tech,UTSA,16,45,False,Conference USA,Conference USA
+2021,8,Tarleton State,Midwestern State,17,14,False,AWC,Lone Star
+2021,8,Houston Christian,Nicholls,14,44,False,Southland,Southland
+2021,8,Alabama,Tennessee,52,24,False,SEC,SEC
+2021,8,Florida International,Western Kentucky,19,34,False,Conference USA,Conference USA
+2021,8,South Florida,Temple,34,14,False,American Athletic,American Athletic
+2021,8,Southern,Prairie View A&M,21,48,False,SWAC,SWAC
+2021,8,Lamar,Central Arkansas,38,49,False,AWC,AWC
+2021,8,Virginia,Georgia Tech,48,40,False,ACC,ACC
+2021,8,Idaho,Montana,14,34,False,Big Sky,Big Sky
+2021,8,Notre Dame,USC,31,16,False,FBS Independents,Pac-12
+2021,8,Indiana,Ohio State,7,54,False,Big Ten,Big Ten
+2021,8,Miami,NC State,31,30,False,ACC,ACC
+2021,8,Texas A&M,South Carolina,44,14,False,SEC,SEC
+2021,8,TCU,West Virginia,17,29,False,Big 12,Big 12
+2021,8,Oregon State,Utah,42,34,False,Pac-12,Pac-12
+2021,8,Cal Poly,UC Davis,13,24,False,Big Sky,Big Sky
+2021,8,Texas Southern,Alcorn State,27,44,False,SWAC,SWAC
+2021,8,Southern Utah,Northern Colorado,9,17,False,Big Sky,Big Sky
+2021,8,Utah Tech,Stephen F. Austin,20,37,False,AWC,AWC
+2021,8,Sacramento State,Northern Arizona,44,0,False,Big Sky,Big Sky
+2021,8,Central Washington,Western Oregon,53,21,False,Great Northwest,Great Northwest
+2021,8,Hawai'i,New Mexico State,48,34,False,Mountain West,FBS Independents
+2021,9,University Of Charleston (WV),West Virginia Wesleyan,45,6,False,Mountain East,Mountain East
+2021,9,Coastal Carolina,Troy,35,28,False,Sun Belt,Sun Belt
+2021,9,East Carolina,South Florida,29,14,False,American Athletic,American Athletic
+2021,9,Cornell,Princeton,16,34,False,Ivy,Ivy
+2021,9,Tulsa,Navy,17,20,False,American Athletic,American Athletic
+2021,9,Nevada,UNLV,51,20,False,Mountain West,Mountain West
+2021,9,Pittsburgh,Miami,34,38,False,ACC,ACC
+2021,9,Baylor,Texas,31,24,False,Big 12,Big 12
+2021,9,Georgia Tech,Virginia Tech,17,26,False,ACC,ACC
+2021,9,Maryland,Indiana,38,35,False,Big Ten,Big Ten
+2021,9,Illinois,Rutgers,14,20,False,Big Ten,Big Ten
+2021,9,Michigan State,Michigan,37,33,False,Big Ten,Big Ten
+2021,9,Liberty,Massachusetts,62,17,False,FBS Independents,FBS Independents
+2021,9,West Liberty,UNC Pembroke,17,27,False,Mountain East,Mountain East
+2021,9,Davenport,Saginaw Valley State,3,24,False,GLIAC,GLIAC
+2021,9,North Greenville,West Alabama,14,31,False,Gulf South,Gulf South
+2021,9,Clarion,Mercyhurst,20,38,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,9,Gannon,Slippery Rock,21,63,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,9,Notre Dame College,Fairmont State,45,0,False,Mountain East,Mountain East
+2021,9,Walsh,Findlay,0,49,False,Great Midwest Athletic,Great Midwest Athletic
+2021,9,Pace,Stonehill,8,19,False,Northeast 10,Northeast 10
+2021,9,Wheeling,Concord University,15,14,False,Mountain East,Mountain East
+2021,9,Wisconsin,Iowa,27,7,False,Big Ten,Big Ten
+2021,9,Temple,UCF,7,49,False,American Athletic,American Athletic
+2021,9,Yale,Columbia,37,30,False,Ivy,Ivy
+2021,9,Lehigh,Holy Cross,12,31,False,Patriot,Patriot
+2021,9,Robert Morris,Hampton,38,35,False,Big South,Big South
+2021,9,Louisiana,Texas State,45,0,False,Sun Belt,Sun Belt
+2021,9,Buffalo,Bowling Green,44,56,False,Mid-American,Mid-American
+2021,9,Tulane,Cincinnati,12,31,False,American Athletic,American Athletic
+2021,9,Harvard,Dartmouth,17,20,False,Ivy,Ivy
+2021,9,Georgetown,Lafayette,23,24,False,Patriot,Patriot
+2021,9,Delaware,Utah Tech,17,10,False,CAA,AWC
+2021,9,Ashland,Hillsdale,28,17,False,Great Midwest Athletic,Great Midwest Athletic
+2021,9,ERSKINE,Newberry,10,48,False,Independent DII,South Atlantic
+2021,9,Bentley,Franklin Pierce,24,14,False,Northeast 10,Northeast 10
+2021,9,Alderson-Broaddus,Frostburg State,7,45,False,Mountain East,Mountain East
+2021,9,Catawba,Greeneville,31,28,False,South Atlantic,South Atlantic
+2021,9,St. Anselm,American International,21,16,False,Northeast 10,Northeast 10
+2021,9,Upper Iowa University,Wayne State (NE),42,41,False,Northern Sun,Northern Sun
+2021,9,West Virginia State,Glenville State,38,27,False,Mountain East,Mountain East
+2021,9,Central State (OH),Lane College,14,16,False,SIAC,SIAC
+2021,9,Minnesota State Moorhead,Northern State,27,33,False,Northern Sun,Northern Sun
+2021,9,Ferris State,Northern Michigan,44,24,False,GLIAC,GLIAC
+2021,9,Presbyterian,Stetson,14,56,False,Pioneer,Pioneer
+2021,9,Long Island University,Wagner,28,14,False,NEC,NEC
+2021,9,Merrimack,Central Connecticut,21,49,False,NEC,NEC
+2021,9,Nicholls,Northwestern State,42,21,False,Southland,Southland
+2021,9,Dayton,Butler,38,31,False,Pioneer,Pioneer
+2021,9,Colgate,Bucknell,33,10,False,Patriot,Patriot
+2021,9,Pennsylvania,Brown,45,17,False,Ivy,Ivy
+2021,9,Villanova,William & Mary,18,31,False,CAA,CAA
+2021,9,New Hampshire,Richmond,21,35,False,CAA,CAA
+2021,9,Rhode Island,Maine,24,45,False,CAA,CAA
+2021,9,North Carolina A&T,Monmouth,16,35,False,Big South,Big South
+2021,9,Kennesaw State,Gardner-Webb,34,30,False,Big South,Big South
+2021,9,Charleston Southern,Campbell,27,14,False,Big South,Big South
+2021,9,New Haven,Assumption,16,10,False,Northeast 10,Northeast 10
+2021,9,Truman State,Quincy,49,28,False,Great Lakes,Great Lakes
+2021,9,Shaw,Winston-Salem,38,14,False,CIAA,CIAA
+2021,9,Johnson C Smith,St. Augustine's,34,13,False,CIAA,CIAA
+2021,9,Elizabeth City State,Virginia Union,14,44,False,CIAA,CIAA
+2021,9,Lincoln (PA),Bowie State,7,31,False,CIAA,CIAA
+2021,9,East Stroudsburg University,Shippensburg,23,24,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,9,Chattanooga,Furman,13,3,False,Southern,Southern
+2021,9,Wofford,Western Carolina,21,41,False,Southern,Southern
+2021,9,VMI,Samford,46,45,False,Southern,Southern
+2021,9,Southwest Baptist,McKendree,42,45,False,Great Lakes,Great Lakes
+2021,9,Wilson,Bluefield State,62,7,False,Independent DII,Independent DII
+2021,9,Tuskegee,Kentucky State,35,42,False,SIAC,SIAC
+2021,9,Fort Hays State,Emporia State University,12,15,False,Mid America,Mid America
+2021,9,Minot State,Minnesota Duluth,21,34,False,Northern Sun,Northern Sun
+2021,9,Rice,North Texas,24,30,False,Conference USA,Conference USA
+2021,9,West Virginia,Iowa State,38,31,False,Big 12,Big 12
+2021,9,Fort Lewis,CSU Pueblo,0,73,False,Rocky Mountain,Rocky Mountain
+2021,9,Virginia St,Chowan,30,38,False,CIAA,CIAA
+2021,9,Pittsburg St,Central Oklahoma,26,20,False,Mid America,Mid America
+2021,9,Augustana University (SD),Winona State,38,20,False,Northern Sun,Northern Sun
+2021,9,Jacksonville State,Central Arkansas,14,38,False,AWC,AWC
+2021,9,Missouri S&T,Indianapolis,31,28,False,Great Lakes,Great Lakes
+2021,9,Minnesota State Mankato,Sioux Falls,35,45,False,Northern Sun,Northern Sun
+2021,9,Washburn,Northeastern State,35,0,False,Mid America,Mid America
+2021,9,William Jewell,Lindenwood,10,53,False,Great Lakes,Great Lakes
+2021,9,Bemidji State,Southwest Minnesota State,48,14,False,Northern Sun,Northern Sun
+2021,9,Morehouse College,Albany State GA,10,14,False,SIAC,SIAC
+2021,9,Fayetteville State,Livingstone,34,0,False,CIAA,CIAA
+2021,9,Clark Atlanta,Benedict College,21,24,False,SIAC,SIAC
+2021,9,Bloomsburg,Shepherd,18,62,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,9,Indiana-Pennsylvania,Edinboro University,17,21,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,9,Colorado School Of Mines,Chadron St,34,7,False,Rocky Mountain,Rocky Mountain
+2021,9,Fort Valley State,Savannah St,6,24,False,SIAC,SIAC
+2021,9,North Carolina Central,South Carolina State,24,27,False,MEAC,MEAC
+2021,9,Youngstown State,South Dakota State,16,47,False,MVFC,MVFC
+2021,9,Southeast Missouri State,Eastern Illinois,38,15,False,OVC,OVC
+2021,9,St. Thomas (MN),Marist,27,7,False,Pioneer,Pioneer
+2021,9,Eastern Kentucky,Lamar,42,10,False,AWC,AWC
+2021,9,Morehead State,Davidson,22,29,False,Pioneer,Pioneer
+2021,9,The Citadel,Mercer,7,34,False,Southern,Southern
+2021,9,Montana,Southern Utah,20,19,False,Big Sky,Big Sky
+2021,9,Towson,UAlbany,38,24,False,CAA,CAA
+2021,9,Delaware State,Howard,30,23,False,MEAC,MEAC
+2021,9,James Madison,Elon,45,21,False,CAA,CAA
+2021,9,Norfolk State,Morgan State,31,20,False,MEAC,MEAC
+2021,9,Kutztown University,Millersville,30,7,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,9,Henderson State,Southern Nazarene,34,3,False,Great American,Great American
+2021,9,Southern Arkansas,Oklahoma Baptist,40,44,False,Great American,Great American
+2021,9,Northwest Missouri St,Nebraska-Kearney,66,13,False,Mid America,Mid America
+2021,9,Carson-Newman College,Mars Hill,23,49,False,South Atlantic,South Atlantic
+2021,9,Arizona State,Washington State,21,34,False,Pac-12,Pac-12
+2021,9,Lake Erie,Kentucky Wesleyan,38,28,False,Great Midwest Athletic,Great Midwest Athletic
+2021,9,Vanderbilt,Missouri,28,37,False,SEC,SEC
+2021,9,Missouri Southern State,Missouri Western,28,45,False,Mid America,Mid America
+2021,9,Lincoln (MO),Central Missouri,35,77,False,Mid America,Mid America
+2021,9,Western Colorado,Colorado Mesa,23,9,False,Rocky Mountain,Rocky Mountain
+2021,9,Black Hills State,South Dakota Mines,10,13,False,Rocky Mountain,Rocky Mountain
+2021,9,University of Mary,Concordia University St Paul,42,17,False,Northern Sun,Northern Sun
+2021,9,New Mexico Highlands,Adams State,58,28,False,Rocky Mountain,Rocky Mountain
+2021,9,Mississippi College,West Florida,28,63,False,Gulf South,Gulf South
+2021,9,Utah State,Hawai'i,51,31,False,Mountain West,Mountain West
+2021,9,Delta State,Shorter,14,13,False,Gulf South,Gulf South
+2021,9,Grand Valley State University,Michigan Tech,14,9,False,GLIAC,GLIAC
+2021,9,Southeastern Oklahoma State,Arkansas-Monticello,34,14,False,Great American,Great American
+2021,9,East Central (OK),Ouachita Baptist,28,43,False,Great American,Great American
+2021,9,Northwestern Oklahoma State,Harding University,14,73,False,Great American,Great American
+2021,9,Duquesne,St. Francis (PA),10,17,False,NEC,NEC
+2021,9,Texas Southern,Arkansas-Pine Bluff,59,17,False,SWAC,SWAC
+2021,9,Idaho State,Weber State,17,40,False,Big Sky,Big Sky
+2021,9,UT Martin,Austin Peay,17,16,False,OVC,OVC
+2021,9,Northern Colorado,Sacramento State,24,27,False,Big Sky,Big Sky
+2021,9,Missouri State,North Dakota,32,28,False,MVFC,MVFC
+2021,9,App State,UL Monroe,59,28,False,Sun Belt,Sun Belt
+2021,9,Alabama A&M,Alabama State,42,28,False,SWAC,SWAC
+2021,9,North Dakota State,Indiana State,44,2,False,MVFC,MVFC
+2021,9,Florida,Georgia,7,34,True,SEC,SEC
+2021,9,Oklahoma,Texas Tech,52,21,False,Big 12,Big 12
+2021,9,Clemson,Florida State,30,20,False,ACC,ACC
+2021,9,Kansas State,TCU,31,12,False,Big 12,Big 12
+2021,9,Syracuse,Boston College,21,6,False,ACC,ACC
+2021,9,Nebraska,Purdue,23,28,False,Big Ten,Big Ten
+2021,9,Oregon,Colorado,52,29,False,Pac-12,Pac-12
+2021,9,Northwestern,Minnesota,14,41,False,Big Ten,Big Ten
+2021,9,Old Dominion,Louisiana Tech,23,20,False,Conference USA,Conference USA
+2021,9,Middle Tennessee,Southern Miss,35,10,False,Conference USA,Conference USA
+2021,9,Marshall,Florida International,38,0,False,Conference USA,Conference USA
+2021,9,Limestone,UVA Wise,24,28,False,South Atlantic,South Atlantic
+2021,9,Lock Haven University,West Chester,13,35,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,9,Wake Forest,Duke,45,7,False,ACC,ACC
+2021,9,PennWest California,Seton Hill,42,14,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,9,Western Oregon,Simon Fraser,42,3,False,Great Northwest,Great Northwest
+2021,9,Western Kentucky,Charlotte,45,13,False,Conference USA,Conference USA
+2021,9,Tiffin,Ohio Dominican,34,21,False,Great Midwest Athletic,Great Midwest Athletic
+2021,9,Western Illinois,Illinois State,38,31,False,MVFC,MVFC
+2021,9,San José State,Wyoming,27,21,False,Mountain West,Mountain West
+2021,9,Idaho,Northern Arizona,31,38,False,Big Sky,Big Sky
+2021,9,San Diego,Valparaiso,21,14,False,Pioneer,Pioneer
+2021,9,Incarnate Word,Houston Christian,49,21,False,Southland,Southland
+2021,9,Florida A&M,Grambling,26,3,False,SWAC,SWAC
+2021,9,Mississippi Valley State,Jackson State,19,28,False,SWAC,SWAC
+2021,9,Stephen F. Austin,Abilene Christian,41,27,False,AWC,AWC
+2021,9,Portland State,Cal Poly,42,21,False,Big Sky,Big Sky
+2021,9,South Alabama,Arkansas State,31,13,False,Sun Belt,Sun Belt
+2021,9,Northern Iowa,Southern Illinois,23,16,False,MVFC,MVFC
+2021,9,East Texas A&M,UT Permian Basin,41,0,False,Lone Star,Lone Star
+2021,9,Wayne State (MI),Northwood (MI),56,21,False,GLIAC,GLIAC
+2021,9,Wingate,Lenoir-Rhyne,6,31,False,South Atlantic,South Atlantic
+2021,9,Edward Waters,Miles College,9,16,False,SIAC,SIAC
+2021,9,Florida Atlantic,UTEP,28,25,False,Conference USA,Conference USA
+2021,9,Georgia Southern,Georgia State,14,21,False,Sun Belt,Sun Belt
+2021,9,Tennessee State,Murray State,27,21,False,OVC,OVC
+2021,9,Southwestern Oklahoma State,Arkansas Tech,14,15,False,Great American,Great American
+2021,9,California,Oregon State,39,25,False,Pac-12,Pac-12
+2021,9,Valdosta State,West Georgia,36,34,False,Gulf South,Gulf South
+2021,9,Oklahoma State,Kansas,55,3,False,Big 12,Big 12
+2021,9,Auburn,Ole Miss,31,20,False,SEC,SEC
+2021,9,USC,Arizona,41,34,False,Pac-12,Pac-12
+2021,9,Mississippi State,Kentucky,31,17,False,SEC,SEC
+2021,9,Colorado State,Boise State,19,28,False,Mountain West,Mountain West
+2021,9,Southern,Alcorn State,38,35,False,SWAC,SWAC
+2021,9,Tarleton State,Sam Houston,27,45,False,AWC,AWC
+2021,9,SE Louisiana,McNeese,23,20,False,Southland,Southland
+2021,9,Houston,SMU,44,37,False,American Athletic,American Athletic
+2021,9,NC State,Louisville,28,13,False,ACC,ACC
+2021,9,Ohio State,Penn State,33,24,False,Big Ten,Big Ten
+2021,9,Notre Dame,North Carolina,44,34,False,FBS Independents,ACC
+2021,9,Texas A&M-Kingsville,West Texas A&M,23,35,False,Lone Star,Lone Star
+2021,9,Midwestern State,Western New Mexico,52,10,False,Lone Star,Lone Star
+2021,9,Eastern New Mexico,Angelo State,7,59,False,Lone Star,Lone Star
+2021,9,Central Washington,Lincoln (CA),92,0,False,Great Northwest,
+2021,9,Utah,UCLA,44,24,False,Pac-12,Pac-12
+2021,9,BYU,Virginia,66,49,False,FBS Independents,ACC
+2021,9,San Diego State,Fresno State,20,30,False,Mountain West,Mountain West
+2021,9,Stanford,Washington,13,20,False,Pac-12,Pac-12
+2021,10,Akron,Ball State,25,31,False,Mid-American,Mid-American
+2021,10,Toledo,Eastern Michigan,49,52,False,Mid-American,Mid-American
+2021,10,Ohio,Miami (OH),35,33,False,Mid-American,Mid-American
+2021,10,Kent State,Northern Illinois,52,47,False,Mid-American,Mid-American
+2021,10,Western Michigan,Central Michigan,30,42,False,Mid-American,Mid-American
+2021,10,Louisiana,Georgia State,21,17,False,Sun Belt,Sun Belt
+2021,10,Morgan State,Delaware State,20,14,False,MEAC,MEAC
+2021,10,Dartmouth,Princeton,31,7,False,Ivy,Ivy
+2021,10,Boston College,Virginia Tech,17,3,False,ACC,ACC
+2021,10,Stanford,Utah,7,52,False,Pac-12,Pac-12
+2021,10,Air Force,Army,14,21,True,Mountain West,FBS Independents
+2021,10,Mercyhurst,Gannon,24,13,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,10,Nebraska,Ohio State,17,26,False,Big Ten,Big Ten
+2021,10,North Carolina,Wake Forest,58,55,False,ACC,ACC
+2021,10,Duke,Pittsburgh,29,54,False,ACC,ACC
+2021,10,Pace,Southern Connecticut State,18,16,False,Northeast 10,Northeast 10
+2021,10,Ohio Dominican,Lake Erie,31,0,False,Great Midwest Athletic,Great Midwest Athletic
+2021,10,UNC Pembroke,Notre Dame College,7,45,False,Mountain East,Mountain East
+2021,10,Shepherd,East Stroudsburg University,55,7,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,10,West Chester,Kutztown University,14,21,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,10,Seton Hill,Indiana-Pennsylvania,3,38,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,10,Edinboro University,Clarion,17,10,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,10,Millersville,Bloomsburg,35,38,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,10,Davenport,Ferris State,14,50,False,GLIAC,GLIAC
+2021,10,Findlay,Ashland,20,17,False,Great Midwest Athletic,Great Midwest Athletic
+2021,10,Walsh,Tiffin,16,56,False,Great Midwest Athletic,Great Midwest Athletic
+2021,10,University Of Charleston (WV),Wheeling,38,20,False,Mountain East,Mountain East
+2021,10,Minnesota,Illinois,6,14,False,Big Ten,Big Ten
+2021,10,Georgia,Missouri,43,6,False,SEC,SEC
+2021,10,Ole Miss,Liberty,27,14,False,SEC,FBS Independents
+2021,10,UAB,Louisiana Tech,52,38,False,Conference USA,Conference USA
+2021,10,Memphis,SMU,28,25,False,American Athletic,American Athletic
+2021,10,Kansas,Kansas State,10,35,False,Big 12,Big 12
+2021,10,Long Island University,Duquesne,28,34,False,NEC,NEC
+2021,10,St. Francis (PA),Sacred Heart,13,14,False,NEC,NEC
+2021,10,Wagner,Merrimack,26,35,False,NEC,NEC
+2021,10,Central Connecticut,Bryant,30,15,False,NEC,NEC
+2021,10,Marist,Drake,7,0,False,Pioneer,Pioneer
+2021,10,Maine,Stony Brook,17,22,False,CAA,CAA
+2021,10,Brown,Yale,38,63,False,Ivy,Ivy
+2021,10,Bethune-Cookman,Alcorn State,35,31,False,SWAC,SWAC
+2021,10,Robert Morris,Kennesaw State,21,45,False,Big South,Big South
+2021,10,Georgetown,Fordham,20,41,False,Patriot,Patriot
+2021,10,Holy Cross,Lafayette,35,10,False,Patriot,Patriot
+2021,10,Miami,Georgia Tech,33,30,False,ACC,ACC
+2021,10,Assumption,St. Anselm,44,35,False,Northeast 10,Northeast 10
+2021,10,North Dakota,Youngstown State,24,21,False,MVFC,MVFC
+2021,10,Southern Illinois,Missouri State,28,38,False,MVFC,MVFC
+2021,10,Illinois State,Northern Iowa,17,10,False,MVFC,MVFC
+2021,10,Pennsylvania,Cornell,12,15,False,Ivy,Ivy
+2021,10,Columbia,Harvard,21,49,False,Ivy,Ivy
+2021,10,Delaware,William & Mary,24,3,False,CAA,CAA
+2021,10,UAlbany,New Hampshire,20,7,False,CAA,CAA
+2021,10,St. Augustine's,Shaw,21,17,False,CIAA,CIAA
+2021,10,Chowan,Lincoln (PA),28,12,False,CIAA,CIAA
+2021,10,Bowie State,Elizabeth City State,79,6,False,CIAA,CIAA
+2021,10,New Haven,Bentley,31,14,False,Northeast 10,Northeast 10
+2021,10,Wayne State (MI),Grand Valley State University,13,62,False,GLIAC,GLIAC
+2021,10,Northwood (MI),Michigan Tech,0,34,False,GLIAC,GLIAC
+2021,10,Saginaw Valley State,Northern Michigan,33,21,False,GLIAC,GLIAC
+2021,10,Shorter,ERSKINE,38,7,False,Gulf South,Independent DII
+2021,10,Concordia University St Paul,Minnesota State Moorhead,3,24,False,Northern Sun,Northern Sun
+2021,10,Kentucky State,Central State (OH),63,0,False,SIAC,SIAC
+2021,10,Shippensburg,Lock Haven University,52,14,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,10,Glenville State,Fairmont State,14,24,False,Mountain East,Mountain East
+2021,10,Slippery Rock,PennWest California,38,26,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,10,Catawba,UVA Wise,7,30,False,South Atlantic,South Atlantic
+2021,10,Carson-Newman College,Limestone,27,21,False,South Atlantic,South Atlantic
+2021,10,Mars Hill,Greeneville,20,7,False,South Atlantic,South Atlantic
+2021,10,Newberry,Wingate,41,35,False,South Atlantic,South Atlantic
+2021,10,Hillsdale,Kentucky Wesleyan,31,12,False,Great Midwest Athletic,Great Midwest Athletic
+2021,10,Frostburg State,West Virginia Wesleyan,55,14,False,Mountain East,Mountain East
+2021,10,Stonehill,Franklin Pierce,34,7,False,Northeast 10,Northeast 10
+2021,10,McNeese,Nicholls,14,24,False,Southland,Southland
+2021,10,Stetson,Dayton,13,41,False,Pioneer,Pioneer
+2021,10,East Tennessee State,VMI,27,20,False,Southern,Southern
+2021,10,Monmouth,North Alabama,45,33,False,Big South,Big South
+2021,10,Davidson,St. Thomas (MN),42,15,False,Pioneer,Pioneer
+2021,10,Bucknell,Lehigh,6,38,False,Patriot,Patriot
+2021,10,Sam Houston,Utah Tech,59,10,False,AWC,AWC
+2021,10,Charleston Southern,North Carolina A&T,18,21,False,Big South,Big South
+2021,10,Western Illinois,South Dakota,21,42,False,MVFC,MVFC
+2021,10,Hampton,Gardner-Webb,27,21,False,Big South,Big South
+2021,10,Wofford,Chattanooga,10,35,False,Southern,Southern
+2021,10,West Liberty,West Virginia State,28,33,False,Mountain East,Mountain East
+2021,10,Alderson-Broaddus,Concord University,10,23,False,Mountain East,Mountain East
+2021,10,Indianapolis,William Jewell,45,14,False,Great Lakes,Great Lakes
+2021,10,Pittsburg St,Washburn,26,28,False,Mid America,Mid America
+2021,10,Wayne State (NE),Sioux Falls,17,38,False,Northern Sun,Northern Sun
+2021,10,Southwest Minnesota State,Minnesota State Mankato,0,52,False,Northern Sun,Northern Sun
+2021,10,Western New Mexico,Central Washington,29,54,False,Lone Star,Great Northwest
+2021,10,Northeastern State,Fort Hays State,6,64,False,Mid America,Mid America
+2021,10,Emporia State University,Lincoln (MO),56,21,False,Mid America,Mid America
+2021,10,New Mexico Highlands,South Dakota Mines,17,40,False,Rocky Mountain,Rocky Mountain
+2021,10,Missouri Western,Central Missouri,59,28,False,Mid America,Mid America
+2021,10,Clark Atlanta,Morehouse College,26,35,False,SIAC,SIAC
+2021,10,Benedict College,Lane College,34,30,False,SIAC,SIAC
+2021,10,Fort Valley State,Albany State GA,0,57,False,SIAC,SIAC
+2021,10,Northern State,Bemidji State,34,36,False,Northern Sun,Northern Sun
+2021,10,Winona State,Upper Iowa University,40,12,False,Northern Sun,Northern Sun
+2021,10,Chadron St,Western Oregon,45,7,False,Rocky Mountain,Great Northwest
+2021,10,West Alabama,West Florida,7,47,False,Gulf South,Gulf South
+2021,10,Miles College,Tuskegee,52,23,False,SIAC,SIAC
+2021,10,Arkansas State,App State,14,48,False,Sun Belt,Sun Belt
+2021,10,McKendree,Truman State,13,44,False,Great Lakes,Great Lakes
+2021,10,Missouri S&T,Lindenwood,16,43,False,Great Lakes,Great Lakes
+2021,10,Southern Nazarene,Southern Arkansas,10,31,False,Great American,Great American
+2021,10,Ouachita Baptist,Southeastern Oklahoma State,21,35,False,Great American,Great American
+2021,10,Fayetteville State,Winston-Salem,10,3,False,CIAA,CIAA
+2021,10,Virginia Union,Virginia St,20,13,False,CIAA,CIAA
+2021,10,Alabama A&M,Mississippi Valley State,42,14,False,SWAC,SWAC
+2021,10,Jackson State,Texas Southern,41,21,False,SWAC,SWAC
+2021,10,Western Carolina,Furman,43,42,False,Southern,Southern
+2021,10,Valparaiso,Presbyterian,65,55,False,Pioneer,Pioneer
+2021,10,Murray State,Tennessee Tech,32,27,False,OVC,OVC
+2021,10,South Carolina State,Howard,15,12,False,MEAC,MEAC
+2021,10,North Carolina Central,Norfolk State,38,36,False,MEAC,MEAC
+2021,10,Richmond,Towson,28,17,False,CAA,CAA
+2021,10,Elon,Villanova,0,35,False,CAA,CAA
+2021,10,Northern Colorado,Montana,0,35,False,Big Sky,Big Sky
+2021,10,Jacksonville State,Abilene Christian,40,25,False,AWC,AWC
+2021,10,Quincy,Southwest Baptist,31,47,False,Great Lakes,Great Lakes
+2021,10,Minnesota Duluth,Augustana University (SD),41,15,False,Northern Sun,Northern Sun
+2021,10,Delta State,Mississippi College,24,21,False,Gulf South,Gulf South
+2021,10,Texas State,UL Monroe,27,19,False,Sun Belt,Sun Belt
+2021,10,East Carolina,Temple,45,3,False,American Athletic,American Athletic
+2021,10,Arizona,California,10,3,False,Pac-12,Pac-12
+2021,10,Weber State,Portland State,18,30,False,Big Sky,Big Sky
+2021,10,South Dakota State,North Dakota State,27,19,False,MVFC,MVFC
+2021,10,Austin Peay,Eastern Illinois,42,26,False,OVC,OVC
+2021,10,UT Martin,Tennessee State,41,20,False,OVC,OVC
+2021,10,Samford,The Citadel,35,14,False,Southern,Southern
+2021,10,Incarnate Word,SE Louisiana,55,52,False,Southland,Southland
+2021,10,Prairie View A&M,Alabama State,24,20,False,SWAC,SWAC
+2021,10,Arkansas-Pine Bluff,Grambling,33,26,False,SWAC,SWAC
+2021,10,Arkansas Tech,Northwestern Oklahoma State,56,21,False,Great American,Great American
+2021,10,Arkansas-Monticello,East Central (OK),10,35,False,Great American,Great American
+2021,10,Harding University,Southwestern Oklahoma State,55,7,False,Great American,Great American
+2021,10,Oklahoma Baptist,Henderson State,34,36,False,Great American,Great American
+2021,10,Valdosta State,North Greenville,31,21,False,Gulf South,Gulf South
+2021,10,Adams State,Fort Lewis,37,14,False,Rocky Mountain,Rocky Mountain
+2021,10,University of Mary,Minot State,49,31,False,Northern Sun,Northern Sun
+2021,10,Colorado Mesa,Black Hills State,52,9,False,Rocky Mountain,Rocky Mountain
+2021,10,Central Oklahoma,Nebraska-Kearney,22,37,False,Mid America,Mid America
+2021,10,Missouri Southern State,Northwest Missouri St,7,49,False,Mid America,Mid America
+2021,10,UT Permian Basin,Texas A&M-Kingsville,22,29,False,Lone Star,Lone Star
+2021,10,Western Colorado,Lincoln (CA),72,6,False,Rocky Mountain,
+2021,10,Southern Miss,North Texas,14,38,False,Conference USA,Conference USA
+2021,10,Purdue,Michigan State,40,29,False,Big Ten,Big Ten
+2021,10,Rutgers,Wisconsin,3,52,False,Big Ten,Big Ten
+2021,10,Western Kentucky,Middle Tennessee,48,21,False,Conference USA,Conference USA
+2021,10,Massachusetts,Rhode Island,22,35,False,FBS Independents,CAA
+2021,10,Wyoming,Colorado State,31,17,False,Mountain West,Mountain West
+2021,10,BYU,Idaho State,59,14,False,FBS Independents,Big Sky
+2021,10,Maryland,Penn State,14,31,False,Big Ten,Big Ten
+2021,10,West Virginia,Oklahoma State,3,24,False,Big 12,Big 12
+2021,10,TCU,Baylor,30,28,False,Big 12,Big 12
+2021,10,Troy,South Alabama,31,24,False,Sun Belt,Sun Belt
+2021,10,Charlotte,Rice,31,24,False,Conference USA,Conference USA
+2021,10,Texas A&M,Auburn,20,3,False,SEC,SEC
+2021,10,Cincinnati,Tulsa,28,20,False,American Athletic,American Athletic
+2021,10,Notre Dame,Navy,34,6,False,FBS Independents,American Athletic
+2021,10,James Madison,Campbell,51,14,False,CAA,Big South
+2021,10,Idaho,Southern Utah,42,24,False,Big Sky,Big Sky
+2021,10,Eastern Washington,Montana State,20,23,False,Big Sky,Big Sky
+2021,10,CSU Pueblo,Colorado School Of Mines,12,28,False,Rocky Mountain,Rocky Mountain
+2021,10,Arkansas,Mississippi State,31,28,False,SEC,SEC
+2021,10,Wilson,Lenoir-Rhyne,20,56,False,Independent DII,South Atlantic
+2021,10,Northern Arizona,UC Davis,24,40,False,Big Sky,Big Sky
+2021,10,UCF,Tulane,14,10,False,American Athletic,American Athletic
+2021,10,Northwestern State,Houston Christian,28,24,False,Southland,Southland
+2021,10,San Diego,Morehead State,10,3,False,Pioneer,Pioneer
+2021,10,Florida State,NC State,14,28,False,ACC,ACC
+2021,10,New Mexico State,Utah State,13,35,False,FBS Independents,Mountain West
+2021,10,Stephen F. Austin,Eastern Kentucky,31,17,False,AWC,AWC
+2021,10,Central Arkansas,Texas Wesleyan,63,3,False,AWC,
+2021,10,Savannah St,Edward Waters,24,0,False,SIAC,SIAC
+2021,10,Angelo State,East Texas A&M,30,3,False,Lone Star,Lone Star
+2021,10,Georgia Southern,Coastal Carolina,8,28,False,Sun Belt,Sun Belt
+2021,10,Florida Atlantic,Marshall,13,28,False,Conference USA,Conference USA
+2021,10,Alabama,LSU,20,14,False,SEC,SEC
+2021,10,Kentucky,Tennessee,42,45,False,SEC,SEC
+2021,10,Colorado,Oregon State,37,34,False,Pac-12,Pac-12
+2021,10,Florida International,Old Dominion,24,47,False,Conference USA,Conference USA
+2021,10,Northwestern,Iowa,12,17,False,Big Ten,Big Ten
+2021,10,West Texas A&M,Midwestern State,15,12,False,Lone Star,Lone Star
+2021,10,Southern,Florida A&M,17,29,False,SWAC,SWAC
+2021,10,Tarleton State,Lamar,42,21,False,AWC,AWC
+2021,10,Fresno State,Boise State,14,40,False,Mountain West,Mountain West
+2021,10,New Mexico,UNLV,17,31,False,Mountain West,Mountain West
+2021,10,South Carolina,Florida,40,17,False,SEC,SEC
+2021,10,Washington,Oregon,16,26,False,Pac-12,Pac-12
+2021,10,Louisville,Clemson,24,30,False,ACC,ACC
+2021,10,Michigan,Indiana,29,7,False,Big Ten,Big Ten
+2021,10,Iowa State,Texas,30,7,False,Big 12,Big 12
+2021,10,South Florida,Houston,42,54,False,American Athletic,American Athletic
+2021,10,Sacramento State,Cal Poly,41,9,False,Big Sky,Big Sky
+2021,10,Nevada,San José State,27,24,False,Mountain West,Mountain West
+2021,10,UTEP,UTSA,23,44,False,Conference USA,Conference USA
+2021,10,Arizona State,USC,31,16,False,Pac-12,Pac-12
+2021,10,Hawai'i,San Diego State,10,17,False,Mountain West,Mountain West
+2021,11,Miami (OH),Buffalo,45,18,False,Mid-American,Mid-American
+2021,11,Western Michigan,Akron,45,40,False,Mid-American,Mid-American
+2021,11,Eastern Michigan,Ohio,26,34,False,Mid-American,Mid-American
+2021,11,Northern Illinois,Ball State,30,29,False,Mid-American,Mid-American
+2021,11,Bowling Green,Toledo,17,49,False,Mid-American,Mid-American
+2021,11,Central Michigan,Kent State,54,30,False,Mid-American,Mid-American
+2021,11,Pittsburgh,North Carolina,30,23,False,ACC,ACC
+2021,11,South Florida,Cincinnati,28,45,False,American Athletic,American Athletic
+2021,11,Fairmont State,Wheeling,29,14,False,Mountain East,Mountain East
+2021,11,Boise State,Wyoming,23,13,False,Mountain West,Mountain West
+2021,11,Baylor,Oklahoma,27,14,False,Big 12,Big 12
+2021,11,Kansas State,West Virginia,34,17,False,Big 12,Big 12
+2021,11,Indiana,Rutgers,3,38,False,Big Ten,Big Ten
+2021,11,Army,Bucknell,63,10,False,FBS Independents,Patriot
+2021,11,Florida,Samford,70,52,False,SEC,Southern
+2021,11,Auburn,Mississippi State,34,43,False,SEC,SEC
+2021,11,Massachusetts,Maine,10,35,False,FBS Independents,CAA
+2021,11,Clemson,UConn,44,7,False,ACC,FBS Independents
+2021,11,SMU,UCF,55,28,False,American Athletic,American Athletic
+2021,11,St. Francis (PA),Merrimack,22,6,False,NEC,NEC
+2021,11,Dayton,Davidson,38,29,False,Pioneer,Pioneer
+2021,11,Sacred Heart,Wagner,27,0,False,NEC,NEC
+2021,11,Duquesne,Central Connecticut,31,27,False,NEC,NEC
+2021,11,Louisville,Syracuse,41,3,False,ACC,ACC
+2021,11,Grambling,Bethune-Cookman,14,31,False,SWAC,SWAC
+2021,11,Bentley,Assumption,48,23,False,Northeast 10,Northeast 10
+2021,11,Alabama,New Mexico State,59,3,False,SEC,FBS Independents
+2021,11,Penn State,Michigan,17,21,False,Big Ten,Big Ten
+2021,11,Temple,Houston,8,37,False,American Athletic,American Athletic
+2021,11,Wisconsin,Northwestern,35,7,False,Big Ten,Big Ten
+2021,11,Shepherd,Clarion,55,0,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,11,Butler,Valparaiso,3,47,False,Pioneer,Pioneer
+2021,11,Lehigh,Georgetown,23,9,False,Patriot,Patriot
+2021,11,Youngstown State,North Dakota State,17,49,False,MVFC,MVFC
+2021,11,Harvard,Pennsylvania,23,7,False,Ivy,Ivy
+2021,11,Monmouth,Robert Morris,44,7,False,Big South,Big South
+2021,11,Kutztown University,Slippery Rock,38,32,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,11,American International,Pace,14,7,False,Northeast 10,Northeast 10
+2021,11,West Virginia State,University Of Charleston (WV),13,38,False,Mountain East,Mountain East
+2021,11,Memphis,East Carolina,29,30,False,American Athletic,American Athletic
+2021,11,Minot State,Concordia University St Paul,28,20,False,Northern Sun,Northern Sun
+2021,11,Bloomsburg,PennWest California,9,24,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,11,West Chester,Indiana-Pennsylvania,24,31,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,11,Millersville,Edinboro University,21,42,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,11,Notre Dame College,Alderson-Broaddus,72,7,False,Mountain East,Mountain East
+2021,11,West Texas A&M,Bethel Col,52,9,False,Lone Star,
+2021,11,Findlay,Tiffin,26,21,False,Great Midwest Athletic,Great Midwest Athletic
+2021,11,North Greenville,Shorter,56,0,False,Gulf South,Gulf South
+2021,11,Lafayette,Colgate,13,20,False,Patriot,Patriot
+2021,11,Rhode Island,New Hampshire,28,3,False,CAA,CAA
+2021,11,Villanova,Stony Brook,33,14,False,CAA,CAA
+2021,11,UAlbany,Morgan State,41,14,False,CAA,MEAC
+2021,11,Morehead State,Stetson,36,35,False,Pioneer,Pioneer
+2021,11,Drake,St. Thomas (MN),14,21,False,Pioneer,Pioneer
+2021,11,Princeton,Yale,35,20,False,Ivy,Ivy
+2021,11,Delaware State,Norfolk State,28,26,False,MEAC,MEAC
+2021,11,Howard,North Carolina Central,27,45,False,MEAC,MEAC
+2021,11,Indiana State,Southern Illinois,21,47,False,MVFC,MVFC
+2021,11,Fordham,Holy Cross,24,52,False,Patriot,Patriot
+2021,11,Presbyterian,Marist,32,57,False,Pioneer,Pioneer
+2021,11,Columbia,Brown,23,17,False,Ivy,Ivy
+2021,11,Campbell,Hampton,21,28,False,Big South,Big South
+2021,11,Sam Houston,Eastern Kentucky,42,28,False,AWC,AWC
+2021,11,Frostburg State,West Liberty,56,3,False,Mountain East,Mountain East
+2021,11,Truman State,Indianapolis,10,13,False,Great Lakes,Great Lakes
+2021,11,West Alabama,Mississippi College,24,28,False,Gulf South,Gulf South
+2021,11,Nebraska-Kearney,Northeastern State,56,10,False,Mid America,Mid America
+2021,11,Northern Michigan,Northwood (MI),34,26,False,GLIAC,GLIAC
+2021,11,Bryant,Long Island University,52,7,False,NEC,NEC
+2021,11,Michigan Tech,Saginaw Valley State,21,20,False,GLIAC,GLIAC
+2021,11,West Virginia Wesleyan,Glenville State,13,43,False,Mountain East,Mountain East
+2021,11,Hillsdale,Ohio Dominican,21,17,False,Great Midwest Athletic,Great Midwest Athletic
+2021,11,Lenoir-Rhyne,Catawba,56,3,False,South Atlantic,South Atlantic
+2021,11,Lake Erie,Walsh,7,24,False,Great Midwest Athletic,Great Midwest Athletic
+2021,11,Grand Valley State University,Davenport,42,0,False,GLIAC,GLIAC
+2021,11,Bowie State,Fayetteville State,17,7,False,CIAA,CIAA
+2021,11,Concord University,UNC Pembroke,28,25,False,Mountain East,Mountain East
+2021,11,Southern Connecticut State,Stonehill,6,42,False,Northeast 10,Northeast 10
+2021,11,Minnesota State Moorhead,Wayne State (NE),21,24,False,Northern Sun,Northern Sun
+2021,11,West Georgia,Delta State,44,7,False,Gulf South,Gulf South
+2021,11,Shippensburg,Mercyhurst,17,13,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,11,Franklin Pierce,New Haven,20,34,False,Northeast 10,Northeast 10
+2021,11,Lock Haven University,Seton Hill,7,59,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,11,Kentucky Wesleyan,Ashland,0,17,False,Great Midwest Athletic,Great Midwest Athletic
+2021,11,Ferris State,Wayne State (MI),35,13,False,GLIAC,GLIAC
+2021,11,ERSKINE,Kentucky State,17,41,False,Independent DII,SIAC
+2021,11,East Stroudsburg University,Gannon,10,13,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,11,Dartmouth,Cornell,41,7,False,Ivy,Ivy
+2021,11,South Carolina State,North Carolina A&T,17,27,False,MEAC,Big South
+2021,11,Greeneville,Carson-Newman College,48,13,False,South Atlantic,South Atlantic
+2021,11,Allen,Edward Waters,34,51,False,SIAC,SIAC
+2021,11,Gardner-Webb,Charleston Southern,24,32,False,Big South,Big South
+2021,11,Arizona,Utah,29,38,False,Pac-12,Pac-12
+2021,11,Coastal Carolina,Georgia State,40,42,False,Sun Belt,Sun Belt
+2021,11,Rice,Western Kentucky,21,42,False,Conference USA,Conference USA
+2021,11,Bemidji State,University of Mary,62,40,False,Northern Sun,Northern Sun
+2021,11,South Dakota Mines,Colorado Mesa,10,13,False,Rocky Mountain,Rocky Mountain
+2021,11,Central Missouri,Central Oklahoma,30,29,False,Mid America,Mid America
+2021,11,Fort Hays State,Pittsburg St,24,34,False,Mid America,Mid America
+2021,11,Lincoln (MO),Missouri Western,12,41,False,Mid America,Mid America
+2021,11,Washburn,Missouri Southern State,38,28,False,Mid America,Mid America
+2021,11,Sioux Falls,Upper Iowa University,42,21,False,Northern Sun,Northern Sun
+2021,11,Western Carolina,East Tennessee State,35,56,False,Southern,Southern
+2021,11,Mississippi Valley State,Alabama State,44,31,False,SWAC,SWAC
+2021,11,Winona State,Minnesota State Mankato,18,16,False,Northern Sun,Northern Sun
+2021,11,Midwestern State,UT Permian Basin,36,30,False,Lone Star,Lone Star
+2021,11,Augustana University (SD),Southwest Minnesota State,55,0,False,Northern Sun,Northern Sun
+2021,11,Towson,Elon,14,37,False,CAA,CAA
+2021,11,South Dakota,South Dakota State,23,20,False,MVFC,MVFC
+2021,11,William Jewell,Quincy,17,51,False,Great Lakes,Great Lakes
+2021,11,UVA Wise,Wilson,24,36,False,South Atlantic,Independent DII
+2021,11,Murray State,Southeast Missouri State,28,10,False,OVC,OVC
+2021,11,The Citadel,Wofford,45,44,False,Southern,Southern
+2021,11,Furman,VMI,37,31,False,Southern,Southern
+2021,11,Richmond,Delaware,51,27,False,CAA,CAA
+2021,11,Abilene Christian,Tarleton State,29,3,False,AWC,AWC
+2021,11,Ouachita Baptist,Henderson State,31,28,False,Great American,Great American
+2021,11,Lindenwood,McKendree,45,30,False,Great Lakes,Great Lakes
+2021,11,Southwest Baptist,Missouri S&T,41,42,False,Great Lakes,Great Lakes
+2021,11,Colorado School Of Mines,Adams State,63,0,False,Rocky Mountain,Rocky Mountain
+2021,11,Minnesota Duluth,Northern State,49,35,False,Northern Sun,Northern Sun
+2021,11,Tennessee Tech,UT Martin,3,42,False,OVC,OVC
+2021,11,Northwest Missouri St,Emporia State University,35,7,False,Mid America,Mid America
+2021,11,App State,South Alabama,31,7,False,Sun Belt,Sun Belt
+2021,11,Texas State,Georgia Southern,30,38,False,Sun Belt,Sun Belt
+2021,11,Arkansas-Pine Bluff,Florida A&M,7,37,False,SWAC,SWAC
+2021,11,Alcorn State,Prairie View A&M,31,29,False,SWAC,SWAC
+2021,11,Texas Southern,Alabama A&M,49,52,False,SWAC,SWAC
+2021,11,Tennessee State,Austin Peay,7,36,False,OVC,OVC
+2021,11,Montana State,Idaho,20,13,False,Big Sky,Big Sky
+2021,11,Northern Arizona,Montana,3,30,False,Big Sky,Big Sky
+2021,11,North Alabama,Kennesaw State,24,28,False,Big South,Big South
+2021,11,North Dakota,Illinois State,14,7,False,MVFC,MVFC
+2021,11,Southeastern Oklahoma State,East Central (OK),28,30,False,Great American,Great American
+2021,11,Southern Nazarene,Oklahoma Baptist,14,42,False,Great American,Great American
+2021,11,Arkansas Tech,Harding University,0,31,False,Great American,Great American
+2021,11,Southern Arkansas,Arkansas-Monticello,37,73,False,Great American,Great American
+2021,11,Black Hills State,Chadron St,6,57,False,Rocky Mountain,Rocky Mountain
+2021,11,Missouri State,Northern Iowa,34,27,False,MVFC,MVFC
+2021,11,Mercer,Chattanooga,10,6,False,Southern,Southern
+2021,11,Houston Christian,McNeese,3,44,False,Southland,Southland
+2021,11,Western Colorado,CSU Pueblo,14,7,False,Rocky Mountain,Rocky Mountain
+2021,11,Wingate,Mars Hill,26,19,False,South Atlantic,South Atlantic
+2021,11,Iowa,Minnesota,27,22,False,Big Ten,Big Ten
+2021,11,Texas Tech,Iowa State,41,38,False,Big 12,Big 12
+2021,11,Middle Tennessee,Florida International,50,10,False,Conference USA,Conference USA
+2021,11,Troy,Louisiana,21,35,False,Sun Belt,Sun Belt
+2021,11,William & Mary,James Madison,22,32,False,CAA,CAA
+2021,11,Louisiana Tech,Charlotte,42,32,False,Conference USA,Conference USA
+2021,11,Tennessee,Georgia,17,41,False,SEC,SEC
+2021,11,Old Dominion,Florida Atlantic,30,16,False,Conference USA,Conference USA
+2021,11,Marshall,UAB,14,21,False,Conference USA,Conference USA
+2021,11,UTSA,Southern Miss,27,17,False,Conference USA,Conference USA
+2021,11,Virginia Tech,Duke,48,17,False,ACC,ACC
+2021,11,Georgia Tech,Boston College,30,41,False,ACC,ACC
+2021,11,Florida State,Miami,31,28,False,ACC,ACC
+2021,11,Ohio State,Purdue,59,31,False,Big Ten,Big Ten
+2021,11,UNLV,Hawai'i,27,13,False,Mountain West,Mountain West
+2021,11,Southern Utah,Weber State,0,62,False,Big Sky,Big Sky
+2021,11,North Texas,UTEP,20,17,False,Conference USA,Conference USA
+2021,11,Nicholls,Incarnate Word,23,27,False,Southland,Southland
+2021,11,Northwestern Oklahoma State,Southwestern Oklahoma State,31,28,False,Great American,Great American
+2021,11,Michigan State,Maryland,40,21,False,Big Ten,Big Ten
+2021,11,Limestone,Newberry,7,42,False,South Atlantic,South Atlantic
+2021,11,Tulane,Tulsa,13,20,False,American Athletic,American Athletic
+2021,11,Missouri,South Carolina,31,28,False,SEC,SEC
+2021,11,Central Washington,Simon Fraser,70,0,False,Great Northwest,Great Northwest
+2021,11,Western Oregon,Lincoln (CA),55,16,False,Great Northwest,
+2021,11,West Florida,Valdosta State,61,42,False,Gulf South,Gulf South
+2021,11,East Texas A&M,Eastern New Mexico,30,10,False,Lone Star,Lone Star
+2021,11,Central Arkansas,Stephen F. Austin,14,27,False,AWC,AWC
+2021,11,Lamar,Jacksonville State,7,38,False,AWC,AWC
+2021,11,UL Monroe,Arkansas State,24,27,False,Sun Belt,Sun Belt
+2021,11,Oregon State,Stanford,35,14,False,Pac-12,Pac-12
+2021,11,Colorado State,Air Force,21,35,False,Mountain West,Mountain West
+2021,11,Washington,Arizona State,30,35,False,Pac-12,Pac-12
+2021,11,Vanderbilt,Kentucky,17,34,False,SEC,SEC
+2021,11,Ole Miss,Texas A&M,29,19,False,SEC,SEC
+2021,11,SE Louisiana,Northwestern State,56,28,False,Southland,Southland
+2021,11,Southern,Jackson State,17,21,False,SWAC,SWAC
+2021,11,Fresno State,New Mexico,34,7,False,Mountain West,Mountain West
+2021,11,Texas,Kansas,56,57,False,Big 12,Big 12
+2021,11,LSU,Arkansas,13,16,False,SEC,SEC
+2021,11,Virginia,Notre Dame,3,28,False,ACC,FBS Independents
+2021,11,Wake Forest,NC State,45,42,False,ACC,ACC
+2021,11,Oklahoma State,TCU,63,17,False,Big 12,Big 12
+2021,11,UC Davis,Eastern Washington,20,38,False,Big Sky,Big Sky
+2021,11,Texas A&M-Kingsville,Angelo State,19,58,False,Lone Star,Lone Star
+2021,11,Cal Poly,Idaho State,32,29,False,Big Sky,Big Sky
+2021,11,UCLA,Colorado,44,20,False,Pac-12,Pac-12
+2021,11,Utah Tech,Fort Lewis,62,21,False,AWC,Rocky Mountain
+2021,11,Sacramento State,Portland State,49,20,False,Big Sky,Big Sky
+2021,11,San Diego State,Nevada,23,21,False,Mountain West,Mountain West
+2021,11,San José State,Utah State,17,48,False,Mountain West,Mountain West
+2021,11,Oregon,Washington State,38,24,False,Pac-12,Pac-12
+2021,12,Ohio,Toledo,23,35,False,Mid-American,Mid-American
+2021,12,Eastern Michigan,Western Michigan,22,21,False,Mid-American,Mid-American
+2021,12,Miami (OH),Bowling Green,34,7,False,Mid-American,Mid-American
+2021,12,Buffalo,Northern Illinois,27,33,False,Mid-American,Mid-American
+2021,12,Ball State,Central Michigan,17,37,False,Mid-American,Mid-American
+2021,12,SE Louisiana,Nicholls,42,45,False,Southland,Southland
+2021,12,Duke,Louisville,22,62,False,ACC,ACC
+2021,12,Louisiana Tech,Southern Miss,19,35,False,Conference USA,Conference USA
+2021,12,Houston,Memphis,31,13,False,American Athletic,American Athletic
+2021,12,Washington State,Arizona,44,18,False,Pac-12,Pac-12
+2021,12,Nevada,Air Force,39,41,False,Mountain West,Mountain West
+2021,12,UNLV,San Diego State,20,28,False,Mountain West,Mountain West
+2021,12,Long Island University,Sacred Heart,14,38,False,NEC,NEC
+2021,12,Texas A&M,Prairie View A&M,52,3,False,SEC,SWAC
+2021,12,Army,Massachusetts,33,17,False,FBS Independents,FBS Independents
+2021,12,North Carolina,Wofford,34,14,False,ACC,Southern
+2021,12,Yale,Harvard,31,34,False,Ivy,Ivy
+2021,12,Lehigh,Lafayette,17,10,False,Patriot,Patriot
+2021,12,Central Connecticut,St. Francis (PA),24,21,False,NEC,NEC
+2021,12,Wagner,Duquesne,0,44,False,NEC,NEC
+2021,12,Marist,Butler,21,28,False,Pioneer,Pioneer
+2021,12,Colgate,Fordham,45,31,False,Patriot,Patriot
+2021,12,Morgan State,Georgetown,28,21,False,MEAC,Patriot
+2021,12,Georgia,Charleston Southern,56,7,False,SEC,Big South
+2021,12,Brown,Dartmouth,31,52,False,Ivy,Ivy
+2021,12,Robert Morris,Campbell,20,17,False,Big South,Big South
+2021,12,Penn State,Rutgers,28,0,False,Big Ten,Big Ten
+2021,12,Northwestern,Purdue,14,32,True,Big Ten,Big Ten
+2021,12,Ohio State,Michigan State,56,7,False,Big Ten,Big Ten
+2021,12,Clemson,Wake Forest,48,27,False,ACC,ACC
+2021,12,Boston College,Florida State,23,26,False,ACC,ACC
+2021,12,Kentucky,New Mexico State,56,16,False,SEC,FBS Independents
+2021,12,Western Kentucky,Florida Atlantic,52,17,False,Conference USA,Conference USA
+2021,12,Akron,Kent State,0,38,False,Mid-American,Mid-American
+2021,12,Mississippi State,Tennessee State,55,10,False,SEC,OVC
+2021,12,Shepherd,Findlay,38,31,False,Pennsylvania State Athletic,Great Midwest Athletic
+2021,12,Oklahoma,Iowa State,28,21,False,Big 12,Big 12
+2021,12,Tulane,South Florida,45,14,False,American Athletic,American Athletic
+2021,12,West Virginia,Texas,31,23,False,Big 12,Big 12
+2021,12,Notre Dame College,Slippery Rock,33,25,False,Mountain East,Pennsylvania State Athletic
+2021,12,VMI,Western Carolina,24,52,False,Southern,Southern
+2021,12,New Hampshire,Maine,20,33,False,CAA,CAA
+2021,12,Albany State GA,West Georgia,7,23,False,SIAC,Gulf South
+2021,12,Stony Brook,UAlbany,36,14,False,CAA,CAA
+2021,12,Pennsylvania,Princeton,14,34,False,Ivy,Ivy
+2021,12,New Haven,Bentley,38,13,False,Northeast 10,Northeast 10
+2021,12,Delaware,Villanova,13,21,False,CAA,CAA
+2021,12,Augustana University (SD),Bemidji State,24,28,False,Northern Sun,Northern Sun
+2021,12,North Carolina A&T,Gardner-Webb,27,35,False,Big South,Big South
+2021,12,Hampton,North Alabama,27,35,False,Big South,Big South
+2021,12,Grand Valley State University,Lindenwood,20,3,False,GLIAC,Great Lakes
+2021,12,Kennesaw State,Monmouth,49,17,False,Big South,Big South
+2021,12,West Florida,Newberry,30,33,False,Gulf South,South Atlantic
+2021,12,Cornell,Columbia,26,34,False,Ivy,Ivy
+2021,12,Illinois State,Indiana State,10,15,False,MVFC,MVFC
+2021,12,Bowie State,Lenoir-Rhyne,31,10,False,CIAA,South Atlantic
+2021,12,Howard,Virginia University Of Lynchburg,56,6,False,MEAC,
+2021,12,Eastern Illinois,Murray State,13,20,False,OVC,OVC
+2021,12,Southern Illinois,Youngstown State,18,35,False,MVFC,MVFC
+2021,12,Bucknell,Holy Cross,6,45,False,Patriot,Patriot
+2021,12,Davidson,Drake,45,14,False,Pioneer,Pioneer
+2021,12,Coastal Carolina,Texas State,35,21,False,Sun Belt,Sun Belt
+2021,12,Merrimack,Bryant,14,58,False,NEC,NEC
+2021,12,Stetson,San Diego,16,41,False,Pioneer,Pioneer
+2021,12,McNeese,Northwestern State,20,24,False,Southland,Southland
+2021,12,East Tennessee State,Mercer,38,35,False,Southern,Southern
+2021,12,Samford,Furman,34,41,False,Southern,Southern
+2021,12,Chattanooga,The Citadel,21,24,False,Southern,Southern
+2021,12,Elon,Rhode Island,43,28,False,CAA,CAA
+2021,12,Georgia State,Arkansas State,28,20,False,Sun Belt,Sun Belt
+2021,12,North Carolina Central,Delaware State,34,28,False,MEAC,MEAC
+2021,12,Southeast Missouri State,UT Martin,31,14,False,OVC,OVC
+2021,12,Alabama A&M,Arkansas-Pine Bluff,52,24,False,SWAC,SWAC
+2021,12,Jackson State,Alcorn State,24,10,False,SWAC,SWAC
+2021,12,Valparaiso,Morehead State,38,51,False,Pioneer,Pioneer
+2021,12,Northern Iowa,Western Illinois,41,3,False,MVFC,MVFC
+2021,12,Norfolk State,South Carolina State,21,31,False,MEAC,MEAC
+2021,12,Iowa,Illinois,33,23,False,Big Ten,Big Ten
+2021,12,St. Thomas (MN),Presbyterian,54,15,False,Pioneer,Pioneer
+2021,12,Eastern Kentucky,Jacksonville State,39,31,False,AWC,AWC
+2021,12,Abilene Christian,Sam Houston,9,35,False,AWC,AWC
+2021,12,Montana,Montana State,29,10,False,Big Sky,Big Sky
+2021,12,James Madison,Towson,56,10,False,CAA,CAA
+2021,12,Harding University,Washburn,30,14,False,Great American,Mid America
+2021,12,Angelo State,Minnesota Duluth,48,14,False,Lone Star,Northern Sun
+2021,12,Western New Mexico,New Mexico Highlands,28,31,False,Lone Star,Rocky Mountain
+2021,12,Northwest Missouri St,Central Washington,50,21,False,Mid America,Great Northwest
+2021,12,Notre Dame,Georgia Tech,55,0,False,FBS Independents,ACC
+2021,12,Houston Christian,Incarnate Word,14,55,False,Southland,Southland
+2021,12,Alabama State,Texas Southern,24,21,False,SWAC,SWAC
+2021,12,Colorado,Washington,20,17,False,Pac-12,Pac-12
+2021,12,Idaho State,Idaho,0,14,False,Big Sky,Big Sky
+2021,12,Weber State,Northern Colorado,48,17,False,Big Sky,Big Sky
+2021,12,Austin Peay,Tennessee Tech,48,20,False,OVC,OVC
+2021,12,South Dakota State,North Dakota,24,21,False,MVFC,MVFC
+2021,12,Western Colorado,Nebraska-Kearney,24,31,False,Rocky Mountain,Mid America
+2021,12,Navy,East Carolina,35,38,False,American Athletic,American Athletic
+2021,12,Cincinnati,SMU,48,14,False,American Athletic,American Athletic
+2021,12,Florida A&M,Bethune-Cookman,46,21,False,SWAC,SWAC
+2021,12,North Dakota State,South Dakota,52,24,False,MVFC,MVFC
+2021,12,William & Mary,Richmond,17,20,False,CAA,CAA
+2021,12,Alabama,Arkansas,42,35,False,SEC,SEC
+2021,12,Middle Tennessee,Old Dominion,17,24,False,Conference USA,Conference USA
+2021,12,UTSA,UAB,34,31,False,Conference USA,Conference USA
+2021,12,Pittsburgh,Virginia,48,38,False,ACC,ACC
+2021,12,Indiana,Minnesota,14,35,False,Big Ten,Big Ten
+2021,12,Maryland,Michigan,18,59,False,Big Ten,Big Ten
+2021,12,Wisconsin,Nebraska,35,28,False,Big Ten,Big Ten
+2021,12,Charlotte,Marshall,28,49,False,Conference USA,Conference USA
+2021,12,Troy,App State,7,45,False,Sun Belt,Sun Belt
+2021,12,Georgia Southern,BYU,17,34,False,Sun Belt,FBS Independents
+2021,12,Missouri,Florida,24,23,False,SEC,SEC
+2021,12,USC,UCLA,33,62,False,Pac-12,Pac-12
+2021,12,UCF,UConn,49,17,False,American Athletic,FBS Independents
+2021,12,UTEP,Rice,38,28,False,Conference USA,Conference USA
+2021,12,NC State,Syracuse,41,17,False,ACC,ACC
+2021,12,UC Davis,Sacramento State,7,27,False,Big Sky,Big Sky
+2021,12,Tulsa,Temple,44,10,False,American Athletic,American Athletic
+2021,12,TCU,Kansas,31,28,False,Big 12,Big 12
+2021,12,Liberty,Louisiana,14,42,False,FBS Independents,Sun Belt
+2021,12,Lamar,Stephen F. Austin,6,42,False,AWC,AWC
+2021,12,Portland State,Eastern Washington,28,42,False,Big Sky,Big Sky
+2021,12,Kansas State,Baylor,10,20,False,Big 12,Big 12
+2021,12,South Carolina,Auburn,21,17,False,SEC,SEC
+2021,12,Tarleton State,Central Arkansas,24,3,False,AWC,AWC
+2021,12,Stanford,California,11,41,False,Pac-12,Pac-12
+2021,12,Florida International,North Texas,7,49,False,Conference USA,Conference USA
+2021,12,Ole Miss,Vanderbilt,31,17,False,SEC,SEC
+2021,12,Utah,Oregon,38,7,False,Pac-12,Pac-12
+2021,12,Tennessee,South Alabama,60,14,False,SEC,Sun Belt
+2021,12,Miami,Virginia Tech,38,26,False,ACC,ACC
+2021,12,Texas Tech,Oklahoma State,0,23,False,Big 12,Big 12
+2021,12,Utah State,Wyoming,17,44,False,Mountain West,Mountain West
+2021,12,Cal Poly,Northern Arizona,21,45,False,Big Sky,Big Sky
+2021,12,Utah Tech,Missouri State,24,55,False,AWC,MVFC
+2021,12,Boise State,New Mexico,37,0,False,Mountain West,Mountain West
+2021,12,LSU,UL Monroe,27,14,False,SEC,Sun Belt
+2021,12,Oregon State,Arizona State,24,10,False,Pac-12,Pac-12
+2021,12,Hawai'i,Colorado State,50,45,False,Mountain West,Mountain West
+2021,13,Ball State,Buffalo,20,3,False,Mid-American,Mid-American
+2021,13,Northern Illinois,Western Michigan,21,42,False,Mid-American,Mid-American
+2021,13,Alabama State,Tuskegee,43,9,False,SWAC,SIAC
+2021,13,San José State,Fresno State,9,40,False,Mountain West,Mountain West
+2021,13,Mississippi State,Ole Miss,21,31,False,SEC,SEC
+2021,13,Texas,Kansas State,22,17,False,Big 12,Big 12
+2021,13,Bowling Green,Ohio,21,10,False,Mid-American,Mid-American
+2021,13,San Diego State,Boise State,27,16,False,Mountain West,Mountain West
+2021,13,Central Michigan,Eastern Michigan,31,10,False,Mid-American,Mid-American
+2021,13,New Mexico,Utah State,10,35,False,Mountain West,Mountain West
+2021,13,Nebraska,Iowa,21,28,False,Big Ten,Big Ten
+2021,13,UAB,UTEP,42,25,False,Conference USA,Conference USA
+2021,13,Air Force,UNLV,48,14,False,Mountain West,Mountain West
+2021,13,Arkansas,Missouri,34,17,False,SEC,SEC
+2021,13,UCF,South Florida,17,13,False,American Athletic,American Athletic
+2021,13,East Carolina,Cincinnati,13,35,False,American Athletic,American Athletic
+2021,13,South Alabama,Coastal Carolina,21,27,False,Sun Belt,Sun Belt
+2021,13,Utah,Colorado,28,13,False,Pac-12,Pac-12
+2021,13,Iowa State,TCU,48,14,False,Big 12,Big 12
+2021,13,NC State,North Carolina,34,30,False,ACC,ACC
+2021,13,Washington,Washington State,13,40,False,Pac-12,Pac-12
+2021,13,Kent State,Miami (OH),48,47,False,Mid-American,Mid-American
+2021,13,Georgia Tech,Georgia,0,45,False,ACC,SEC
+2021,13,Florida,Florida State,24,21,False,SEC,ACC
+2021,13,Temple,Navy,14,38,False,American Athletic,American Athletic
+2021,13,Rutgers,Maryland,16,40,False,Big Ten,Big Ten
+2021,13,Toledo,Akron,49,14,False,Mid-American,Mid-American
+2021,13,Holy Cross,Sacred Heart,13,10,False,Patriot,NEC
+2021,13,Baylor,Texas Tech,27,24,False,Big 12,Big 12
+2021,13,Michigan,Ohio State,42,27,False,Big Ten,Big Ten
+2021,13,Liberty,Army,16,31,False,FBS Independents,FBS Independents
+2021,13,Boston College,Wake Forest,10,41,False,ACC,ACC
+2021,13,UConn,Houston,17,45,False,FBS Independents,American Athletic
+2021,13,Duke,Miami,10,47,False,ACC,ACC
+2021,13,Ferris State,Grand Valley State University,54,20,False,GLIAC,GLIAC
+2021,13,Valdosta State,West Georgia,66,35,False,Gulf South,Gulf South
+2021,13,Kutztown University,New Haven,10,7,False,Pennsylvania State Athletic,Northeast 10
+2021,13,Shepherd,Notre Dame College,38,34,False,Pennsylvania State Athletic,Mountain East
+2021,13,Bowie State,Newberry,13,10,False,CIAA,South Atlantic
+2021,13,Rice,Louisiana Tech,35,31,False,Conference USA,Conference USA
+2021,13,Old Dominion,Charlotte,56,34,False,Conference USA,Conference USA
+2021,13,North Texas,UTSA,45,23,False,Conference USA,Conference USA
+2021,13,Harding University,Northwest Missouri St,9,28,False,Great American,Mid America
+2021,13,Arkansas State,Texas State,22,24,False,Sun Belt,Sun Belt
+2021,13,Georgia State,Troy,37,10,False,Sun Belt,Sun Belt
+2021,13,Kennesaw State,Davidson,48,21,False,Big South,Pioneer
+2021,13,Angelo State,Nebraska-Kearney,20,7,False,Lone Star,Mid America
+2021,13,App State,Georgia Southern,27,3,False,Sun Belt,Sun Belt
+2021,13,New Mexico State,Massachusetts,44,27,False,FBS Independents,FBS Independents
+2021,13,Colorado School Of Mines,Bemidji State,55,6,False,Rocky Mountain,Northern Sun
+2021,13,Prairie View A&M,Mississippi Valley State,19,24,False,SWAC,SWAC
+2021,13,Incarnate Word,Stephen F. Austin,35,28,False,Southland,AWC
+2021,13,South Dakota State,UC Davis,56,24,False,MVFC,Big Sky
+2021,13,Southern Miss,Florida International,37,17,False,Conference USA,Conference USA
+2021,13,Wyoming,Hawai'i,14,38,False,Mountain West,Mountain West
+2021,13,Oregon,Oregon State,38,29,False,Pac-12,Pac-12
+2021,13,Auburn,Alabama,22,24,False,SEC,SEC
+2021,13,Marshall,Western Kentucky,21,53,False,Conference USA,Conference USA
+2021,13,Michigan State,Penn State,30,27,False,Big Ten,Big Ten
+2021,13,Illinois,Northwestern,47,14,False,Big Ten,Big Ten
+2021,13,Purdue,Indiana,44,7,False,Big Ten,Big Ten
+2021,13,Virginia,Virginia Tech,24,29,False,ACC,ACC
+2021,13,Tennessee,Vanderbilt,45,21,False,SEC,SEC
+2021,13,Arizona State,Arizona,38,15,False,Pac-12,Pac-12
+2021,13,Eastern Washington,Northern Iowa,19,9,False,Big Sky,MVFC
+2021,13,Missouri State,UT Martin,31,32,False,MVFC,OVC
+2021,13,Louisiana,UL Monroe,21,16,False,Sun Belt,Sun Belt
+2021,13,SMU,Tulsa,31,34,False,American Athletic,American Athletic
+2021,13,Minnesota,Wisconsin,23,13,False,Big Ten,Big Ten
+2021,13,Grambling,Southern,29,26,True,SWAC,SWAC
+2021,13,South Dakota,Southern Illinois,10,22,False,MVFC,MVFC
+2021,13,LSU,Texas A&M,27,24,False,SEC,SEC
+2021,13,Florida Atlantic,Middle Tennessee,17,27,False,Conference USA,Conference USA
+2021,13,SE Louisiana,Florida A&M,38,14,False,Southland,SWAC
+2021,13,Kansas,West Virginia,28,34,False,Big 12,Big 12
+2021,13,Oklahoma State,Oklahoma,37,33,False,Big 12,Big 12
+2021,13,Syracuse,Pittsburgh,14,31,False,ACC,ACC
+2021,13,Louisville,Kentucky,21,52,False,ACC,SEC
+2021,13,Memphis,Tulane,33,28,False,American Athletic,American Athletic
+2021,13,South Carolina,Clemson,0,30,False,SEC,ACC
+2021,13,Stanford,Notre Dame,14,45,False,Pac-12,FBS Independents
+2021,13,Colorado State,Nevada,10,52,False,Mountain West,Mountain West
+2021,13,USC,BYU,31,35,False,Pac-12,FBS Independents
+2021,13,UCLA,California,42,14,False,Pac-12,Pac-12
+2021,14,Villanova,Holy Cross,21,16,False,CAA,Patriot
+2021,14,UTSA,Western Kentucky,49,41,False,Conference USA,Conference USA
+2021,14,Utah,Oregon,38,10,True,Pac-12,Pac-12
+2021,14,Montana,Eastern Washington,57,41,False,Big Sky,Big Sky
+2021,14,Northern Illinois,Kent State,41,23,True,Mid-American,Mid-American
+2021,14,Oklahoma State,Baylor,16,21,True,Big 12,Big 12
+2021,14,Kutztown University,Shepherd,28,30,False,Pennsylvania State Athletic,Pennsylvania State Athletic
+2021,14,Valdosta State,Bowie State,41,17,False,Gulf South,CIAA
+2021,14,Ferris State,Northwest Missouri St,41,20,False,GLIAC,Mid America
+2021,14,East Tennessee State,Kennesaw State,32,31,False,Southern,Big South
+2021,14,Colorado School Of Mines,Angelo State,34,26,False,Rocky Mountain,Lone Star
+2021,14,San Diego State,Utah State,13,46,False,Mountain West,Mountain West
+2021,14,Sam Houston,Incarnate Word,49,42,False,AWC,Southland
+2021,14,North Dakota State,Southern Illinois,38,7,False,MVFC,MVFC
+2021,14,Louisiana,App State,24,16,False,Sun Belt,Sun Belt
+2021,14,Alabama,Georgia,41,24,True,SEC,SEC
+2021,14,Montana State,UT Martin,26,7,False,Big Sky,OVC
+2021,14,Cincinnati,Houston,35,20,False,American Athletic,American Athletic
+2021,14,Jackson State,Prairie View A&M,27,10,False,SWAC,SWAC
+2021,14,Iowa,Michigan,3,42,True,Big Ten,Big Ten
+2021,14,Wake Forest,Pittsburgh,21,45,True,ACC,ACC
+2021,14,Sacramento State,South Dakota State,19,24,False,Big Sky,MVFC
+2021,14,California,USC,24,14,False,Pac-12,Pac-12
+2021,15,North Dakota State,East Tennessee State,27,3,False,MVFC,Southern
+2021,15,Valdosta State,Colorado School Of Mines,34,31,False,Gulf South,Rocky Mountain
+2021,15,Villanova,South Dakota State,21,35,False,CAA,MVFC
+2021,15,Army,Navy,13,17,False,FBS Independents,American Athletic
+2021,15,Ferris State,Shepherd,55,7,False,GLIAC,Pennsylvania State Athletic
+2021,15,Sam Houston,Montana State,19,42,False,AWC,Big Sky
