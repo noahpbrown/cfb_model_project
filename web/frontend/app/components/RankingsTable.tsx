@@ -17,94 +17,51 @@ interface Team {
 }
 
 interface RankingsTableProps {
-    season: number;
-    week: number;
-  }
+  season: number;
+  week: number;
+}
+
+// Move API_BASE_URL outside component - cleaner and more efficient
+const API_BASE_URL =
+  process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:8000';
 
 export default function RankingsTable({ season, week }: RankingsTableProps) {
-    const [rankings, setRankings] = useState<Team[]>([]);
-    const [loading, setLoading] = useState(true);
-    const [error, setError] = useState<string | null>(null);
+  const [rankings, setRankings] = useState<Team[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    setLoading(true);
+    setError(null);
     
-    // Get API URL and force HTTPS - be very explicit
-    let API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 
-      (typeof window !== 'undefined' && window.location.hostname === 'localhost' 
-        ? 'http://localhost:8000' 
-        : 'https://cfbmodelproject-production.up.railway.app');
+    // Ensure no trailing slash
+    const baseUrl = API_BASE_URL.replace(/\/$/, '');
+    const url = `${baseUrl}/api/rankings?season=${season}&week=${week}`;
     
-    // Force HTTPS for production - multiple checks
-    if (typeof window !== 'undefined' && window.location.hostname !== 'localhost') {
-      // Remove any protocol
-      API_BASE_URL = API_BASE_URL.replace(/^https?:\/\//, '');
-      // Force HTTPS
-      API_BASE_URL = 'https://' + API_BASE_URL;
-    }
+    console.log('🔍 Final fetch URL:', url);
     
-    // Debug: Log the API URL being used
-    console.log('🔍 API_BASE_URL (raw env):', process.env.NEXT_PUBLIC_API_URL);
-    console.log('🔍 API_BASE_URL (final):', API_BASE_URL);
-  
-    useEffect(() => {
-      setLoading(true);
-      setError(null);
-      
-      // Construct URL with explicit HTTPS enforcement
-      let baseUrl = API_BASE_URL;
-      if (typeof window !== 'undefined' && window.location.hostname !== 'localhost') {
-        // Remove any existing protocol
-        baseUrl = baseUrl.replace(/^https?:\/\//, '');
-        // Force HTTPS
-        baseUrl = 'https://' + baseUrl;
-        // Remove trailing slash
-        baseUrl = baseUrl.replace(/\/$/, '');
-      }
-      
-      const url = `${baseUrl}/api/rankings?season=${season}&week=${week}`;
-      
-      // Validate URL is HTTPS in production
-      if (typeof window !== 'undefined' && window.location.hostname !== 'localhost') {
-        try {
-          const urlObj = new URL(url);
-          if (urlObj.protocol !== 'https:') {
-            console.error('❌ URL is not HTTPS!', url);
-            throw new Error('API URL must use HTTPS in production');
-          }
-        } catch (e) {
-          console.error('❌ Invalid URL:', url, e);
-          setError('Invalid API configuration');
-          setLoading(false);
-          return;
+    fetch(url, {
+      method: 'GET',
+      mode: 'cors',
+    })
+      .then(async (res) => {
+        if (!res.ok) {
+          const text = await res.text();
+          console.error('❌ API error status:', res.status, 'body:', text);
+          throw new Error(`Failed to fetch rankings: ${res.status}`);
         }
-      }
-      
-      console.log('🔍 Final fetch URL:', url);
-      console.log('🔍 URL protocol:', new URL(url).protocol);
-      
-      // Add cache-busting and explicit options
-      fetch(url, {
-        method: 'GET',
-        mode: 'cors',
-        cache: 'no-store',
-        headers: {
-          'Cache-Control': 'no-cache',
-        },
+        return res.json();
       })
-        .then(res => {
-          if (!res.ok) {
-            throw new Error('Failed to fetch rankings');
-          }
-          return res.json();
-        })
-        .then(data => {
-          setRankings(data);
-          setLoading(false);
-        })
-        .catch(err => {
-          console.error('Error loading rankings:', err);
-          setError('Failed to load rankings. Please try again later.');
-          setLoading(false);
-        });
-    }, [season, week]); // Re-fetch when season or week changes
+      .then((data) => {
+        setRankings(data);
+        setLoading(false);
+      })
+      .catch((err) => {
+        console.error('Error loading rankings:', err);
+        setError('Failed to load rankings. Please try again later.');
+        setLoading(false);
+      });
+  }, [season, week]);
 
   if (loading) {
     return (
