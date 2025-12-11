@@ -8,7 +8,8 @@ import re
 app = FastAPI(
     title="CFB Rating Model API",
     description="API for college football team ratings and rankings",
-    version="1.0.0"
+    version="1.0.0",
+    redirect_slashes=False,  # Add this to prevent automatic trailing slash redirects
 )
 
 # Get frontend URL from environment variable (for production)
