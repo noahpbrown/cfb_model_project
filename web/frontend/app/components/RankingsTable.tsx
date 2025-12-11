@@ -26,35 +26,69 @@ export default function RankingsTable({ season, week }: RankingsTableProps) {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
     
-    // Get API URL and force HTTPS
+    // Get API URL and force HTTPS - be very explicit
     let API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 
       (typeof window !== 'undefined' && window.location.hostname === 'localhost' 
         ? 'http://localhost:8000' 
         : 'https://cfbmodelproject-production.up.railway.app');
     
-    // Force HTTPS for production (except localhost)
+    // Force HTTPS for production - multiple checks
     if (typeof window !== 'undefined' && window.location.hostname !== 'localhost') {
-      API_BASE_URL = API_BASE_URL.replace(/^http:\/\//, 'https://');
+      // Remove any protocol
+      API_BASE_URL = API_BASE_URL.replace(/^https?:\/\//, '');
+      // Force HTTPS
+      API_BASE_URL = 'https://' + API_BASE_URL;
     }
     
     // Debug: Log the API URL being used
-    console.log('🔍 API_BASE_URL (raw):', process.env.NEXT_PUBLIC_API_URL);
+    console.log('🔍 API_BASE_URL (raw env):', process.env.NEXT_PUBLIC_API_URL);
     console.log('🔍 API_BASE_URL (final):', API_BASE_URL);
   
     useEffect(() => {
       setLoading(true);
       setError(null);
       
-      // Ensure URL starts with https:// (except localhost)
-      let url = `${API_BASE_URL}/api/rankings?season=${season}&week=${week}`;
+      // Construct URL with explicit HTTPS enforcement
+      let baseUrl = API_BASE_URL;
       if (typeof window !== 'undefined' && window.location.hostname !== 'localhost') {
-        url = url.replace(/^http:\/\//, 'https://');
+        // Remove any existing protocol
+        baseUrl = baseUrl.replace(/^https?:\/\//, '');
+        // Force HTTPS
+        baseUrl = 'https://' + baseUrl;
+        // Remove trailing slash
+        baseUrl = baseUrl.replace(/\/$/, '');
+      }
+      
+      const url = `${baseUrl}/api/rankings?season=${season}&week=${week}`;
+      
+      // Validate URL is HTTPS in production
+      if (typeof window !== 'undefined' && window.location.hostname !== 'localhost') {
+        try {
+          const urlObj = new URL(url);
+          if (urlObj.protocol !== 'https:') {
+            console.error('❌ URL is not HTTPS!', url);
+            throw new Error('API URL must use HTTPS in production');
+          }
+        } catch (e) {
+          console.error('❌ Invalid URL:', url, e);
+          setError('Invalid API configuration');
+          setLoading(false);
+          return;
+        }
       }
       
       console.log('🔍 Final fetch URL:', url);
       console.log('🔍 URL protocol:', new URL(url).protocol);
       
-      fetch(url)
+      // Add cache-busting and explicit options
+      fetch(url, {
+        method: 'GET',
+        mode: 'cors',
+        cache: 'no-store',
+        headers: {
+          'Cache-Control': 'no-cache',
+        },
+      })
         .then(res => {
           if (!res.ok) {
             throw new Error('Failed to fetch rankings');
