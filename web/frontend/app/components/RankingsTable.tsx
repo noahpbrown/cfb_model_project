@@ -25,20 +25,34 @@ export default function RankingsTable({ season, week }: RankingsTableProps) {
     const [rankings, setRankings] = useState<Team[]>([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
-    const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 
+    
+    // Get API URL and force HTTPS
+    let API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 
       (typeof window !== 'undefined' && window.location.hostname === 'localhost' 
         ? 'http://localhost:8000' 
         : 'https://cfbmodelproject-production.up.railway.app');
     
+    // Force HTTPS for production (except localhost)
+    if (typeof window !== 'undefined' && window.location.hostname !== 'localhost') {
+      API_BASE_URL = API_BASE_URL.replace(/^http:\/\//, 'https://');
+    }
+    
     // Debug: Log the API URL being used
-    console.log('🔍 API_BASE_URL:', API_BASE_URL);
+    console.log('🔍 API_BASE_URL (raw):', process.env.NEXT_PUBLIC_API_URL);
+    console.log('🔍 API_BASE_URL (final):', API_BASE_URL);
   
     useEffect(() => {
       setLoading(true);
       setError(null);
       
-      const url = `${API_BASE_URL}/api/rankings?season=${season}&week=${week}`;
-      console.log('🔍 Fetching from:', url);  // Add this
+      // Ensure URL starts with https:// (except localhost)
+      let url = `${API_BASE_URL}/api/rankings?season=${season}&week=${week}`;
+      if (typeof window !== 'undefined' && window.location.hostname !== 'localhost') {
+        url = url.replace(/^http:\/\//, 'https://');
+      }
+      
+      console.log('🔍 Final fetch URL:', url);
+      console.log('🔍 URL protocol:', new URL(url).protocol);
       
       fetch(url)
         .then(res => {
