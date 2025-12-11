@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.api import rankings
 from app.api.model import explain
 import os
+import re
 
 app = FastAPI(
     title="CFB Rating Model API",
@@ -22,9 +23,10 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
-        FRONTEND_URL,  # Production frontend URL
-        "https://cfb-model-project-43rt5k94m-noah-browns-projects-b3fc0845.vercel.app",  # Explicitly add your Vercel URL
+        FRONTEND_URL,  # Production frontend URL from env var
+        "https://cfb-model-project.vercel.app",  # Vercel production URL
     ],
+    allow_origin_regex=r"https://.*\.vercel\.app",  # Allow all Vercel preview deployments
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
