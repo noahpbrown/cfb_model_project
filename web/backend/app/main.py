@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.api import rankings
 from app.api.model import explain
+from app.api import chat
 import os
 import re
 
@@ -36,6 +37,7 @@ app.add_middleware(
 # Include routers
 app.include_router(rankings.router, prefix="/api/rankings", tags=["rankings"])
 app.include_router(explain.router, prefix="/api/model", tags=["model"])
+app.include_router(chat.router, prefix="/api/chat", tags=["chat"])
 
 @app.get("/")
 async def root():
