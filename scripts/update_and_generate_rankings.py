@@ -196,6 +196,25 @@ def main():
             season=args.season,
             week=week
         )
+        
+        if success:
+            # Copy files to web/backend for deployment
+            print("\n📦 Copying files to web/backend for deployment...")
+            import shutil
+            from pathlib import Path
+            
+            backend_dir = Path("web/backend")
+            for dir_name in ["outputs", "models", "data"]:
+                src = Path(dir_name)
+                dst = backend_dir / dir_name
+                if src.exists():
+                    if dst.exists():
+                        shutil.rmtree(dst)
+                    shutil.copytree(src, dst)
+                    print(f"  ✓ Copied {dir_name}/")
+            
+            print("✅ Files copied to web/backend/")
+        
         sys.exit(0 if success else 1)
     
     # Run pipeline steps

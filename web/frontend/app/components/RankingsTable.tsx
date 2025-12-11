@@ -25,13 +25,22 @@ export default function RankingsTable({ season, week }: RankingsTableProps) {
     const [rankings, setRankings] = useState<Team[]>([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
-    const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+    const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 
+      (typeof window !== 'undefined' && window.location.hostname === 'localhost' 
+        ? 'http://localhost:8000' 
+        : 'https://cfbmodelproject-production.up.railway.app');
+    
+    // Debug: Log the API URL being used
+    console.log('🔍 API_BASE_URL:', API_BASE_URL);
   
     useEffect(() => {
       setLoading(true);
       setError(null);
       
-      fetch(`${API_BASE_URL}/api/rankings?season=${season}&week=${week}`)
+      const url = `${API_BASE_URL}/api/rankings?season=${season}&week=${week}`;
+      console.log('🔍 Fetching from:', url);  // Add this
+      
+      fetch(url)
         .then(res => {
           if (!res.ok) {
             throw new Error('Failed to fetch rankings');
