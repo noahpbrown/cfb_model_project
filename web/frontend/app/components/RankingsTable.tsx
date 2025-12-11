@@ -34,9 +34,10 @@ export default function RankingsTable({ season, week }: RankingsTableProps) {
     setLoading(true);
     setError(null);
     
-    // Ensure no trailing slash
+    // Ensure no trailing slash on base URL
     const baseUrl = API_BASE_URL.replace(/\/$/, '');
-    const url = `${baseUrl}/api/rankings?season=${season}&week=${week}`;
+    // Add trailing slash to match FastAPI route: /api/rankings/
+    const url = `${baseUrl}/api/rankings/?season=${season}&week=${week}`;
     
     console.log('🔍 Final fetch URL:', url);
     
