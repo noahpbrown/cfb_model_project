@@ -1,0 +1,352 @@
+================================================================================
+CFB RATING MODEL PROJECT - RESUME SUMMARY & INTERVIEW GUIDE
+================================================================================
+
+RESUME BULLET POINTS
+================================================================================
+
+• Built an end-to-end machine learning system for college football team rankings 
+  using XGBoost, combining linear least-squares ratings with 34 engineered 
+  features (EPA, strength of schedule, opponent-adjusted stats, résumé metrics)
+
+• Developed a full-stack web application (FastAPI + Next.js) with interactive 
+  rankings visualization, model explainability dashboard, and an AI chat assistant 
+  powered by OpenAI GPT-4o-mini for natural language queries about the model
+
+• Engineered a multi-stage data pipeline processing 5+ seasons of CFB data, 
+  implementing feature engineering techniques including lagged opponent adjustments 
+  to prevent lookahead bias and cumulative statistics with proper temporal handling
+
+• Deployed production-ready API on Railway and frontend on Vercel with CORS 
+  configuration, environment variable management, and automated weekly ranking 
+  generation with social media-ready graphics
+
+• Implemented model interpretability features including feature importance 
+  visualization, performance metrics across train/val/test splits (RMSE, R², MAE), 
+  and real-time model explanation API endpoints
+
+
+================================================================================
+INTERVIEW TALKING POINTS - TECHNICAL DETAILS
+================================================================================
+
+PROJECT OVERVIEW
+--------------------------------------------------------------------------------
+This is a two-stage rating system for college football teams:
+1. Linear least-squares system that solves for team ratings from game margins
+2. XGBoost model that predicts those linear ratings using rich feature sets
+
+The goal is to produce weekly Top 25 rankings that account for strength of 
+schedule, opponent quality, and advanced statistics - not just win/loss records.
+
+Why two-stage? The linear system provides a clean, interpretable target that 
+captures team strength from game results. The XGBoost model then learns to 
+predict these ratings using features that would be available in real-time, 
+making it practical for weekly predictions.
+
+
+DATA PIPELINE ARCHITECTURE
+--------------------------------------------------------------------------------
+The pipeline is modular and sequential - each script builds on previous outputs:
+
+1. Data Collection (scripts 01/06)
+   - Fetches game results from College Football Data API
+   - Handles multiple seasons, neutral sites, conference data
+   - Output: games_YYYY.csv files
+
+2. Linear Rating System (scripts 02/07)
+   - Solves: margin = home_rating - away_rating + home_field_advantage
+   - Uses least-squares regression to find optimal ratings
+   - Normalizes to mean zero each week
+   - Output: ratings_YYYY.csv with rating_linear column
+
+3. Feature Engineering (scripts 04/05, 11-15)
+   - Base stats: Cumulative EPA, success rate, explosiveness (play-weighted)
+   - Pass/rush splits for offense and defense
+   - Strength of schedule: mean/min/max opponent ratings faced
+   - Preseason priors: 247 Sports talent ratings, returning production %
+   - Opponent-adjusted: EPA adjusted by opponent strength (lagged to avoid lookahead)
+   - Résumé features: wins, losses, margins, quality wins (top 10/25), road wins
+   - Output: team_week_features_full_2019_2024.csv
+
+4. Training Dataset (script 08)
+   - Merges features with ratings
+   - Filters to FBS teams only (varies by season)
+   - Output: training_team_week_2019_2024.csv
+
+5. Model Training (scripts 09/09b)
+   - XGBoost regressor predicting rating_linear
+   - Train: 2019, 2021, 2022 (skipped 2020 due to COVID)
+   - Validation: 2023
+   - Test: 2024
+   - Hyperparameters: max_depth=5, learning_rate=0.05, n_estimators=600
+
+6. Weekly Predictions (script 10)
+   - Loads model and features
+   - Predicts ratings for all FBS teams for specified week
+   - Computes spreads vs #1 using compressed gap method
+   - Merges team branding (logos, colors) from team_logos.csv
+   - Output: top25_YYYY_weekN.json
+
+
+KEY TECHNICAL DECISIONS & CHALLENGES
+--------------------------------------------------------------------------------
+
+1. LAGGED OPPONENT STATS (Preventing Lookahead Bias)
+   Problem: If you use current-week opponent stats to adjust your stats, you 
+   have lookahead bias - you're using information that wouldn't be available 
+   at prediction time.
+   
+   Solution: Created lagged opponent-adjusted features that use opponent stats 
+   from the previous week. This ensures all features are available at prediction 
+   time while still accounting for opponent strength.
+   
+   Implementation: script 14_add_lagged_opponent_stats.py creates 
+   off_ppa_adj_lagged_cum and def_ppa_adj_lagged_cum features.
+
+2. CUMULATIVE STATISTICS (Temporal Handling)
+   All statistics are cumulative through each week, not just that week's stats.
+   This captures season-long performance trends. Statistics are play-weighted 
+   (not game-weighted) to account for teams that run more plays.
+
+3. COMPRESSED GAP METHOD (Spread Calculation)
+   Raw rating gaps can make #1 team look unrealistically dominant. The compressed 
+   gap method scales the distance between #1 and the elite pack (teams 2-5) so 
+   that #1 has a 5-point edge over the elite pack average. This makes spreads 
+   more interpretable and realistic.
+
+4. FEATURE ENGINEERING PHILOSOPHY
+   Started with basic stats, then iteratively added:
+   - Base advanced stats (EPA, success rate)
+   - Strength of schedule (who you've played)
+   - Preseason priors (talent, returning production)
+   - Opponent adjustments (quality of competition)
+   - Résumé features (wins, margins, quality wins)
+   
+   Each addition improved model performance and interpretability.
+
+5. TRAINING STRATEGY
+   - Excluded 2020 season (COVID disruptions, inconsistent schedules)
+   - Time-based splits (not random) to simulate real-world usage
+   - Train on older seasons, validate on 2023, test on 2024
+   - This tests generalization to future seasons
+
+6. MISSING DATA HANDLING
+   XGBoost handles NaN values, but we still need to be careful:
+   - Count features (wins, games_played) → fill with 0
+   - Percentage features → fill with median or 0.5
+   - Rating/EPA features → fill with median or 0
+   - Early weeks may have missing data for new teams or stats not yet available
+
+
+MODEL ARCHITECTURE
+--------------------------------------------------------------------------------
+- Algorithm: XGBoost Regressor (gradient boosting)
+- Objective: Predict rating_linear (continuous regression)
+- Features: 34 total features across 7 categories
+- Hyperparameters:
+  * max_depth: 5 (prevents overfitting)
+  * learning_rate: 0.05 (conservative, with more trees)
+  * n_estimators: 600 (many trees for better learning)
+  * subsample: 0.7 (row sampling for regularization)
+  * colsample_bytree: 0.9 (feature sampling)
+  * Regularization: L1 (alpha=0.5) and L2 (lambda=2.0)
+
+Why XGBoost?
+- Handles non-linear relationships well
+- Built-in feature importance
+- Handles missing values
+- Fast training and prediction
+- Good for tabular data with mixed feature types
+
+
+WEB APPLICATION ARCHITECTURE
+--------------------------------------------------------------------------------
+
+Backend (FastAPI):
+- RESTful API with 3 main endpoints:
+  * /api/rankings - Get Top 25 for season/week
+  * /api/model/* - Model info, feature importance, metrics
+  * /api/chat - AI chat assistant
+  
+- Architecture:
+  * FastAPI for async API
+  * Pydantic for request/response validation
+  * Service layer for business logic (data loading, model loading)
+  * CORS middleware for frontend integration
+  * Environment variable configuration for deployment
+
+- Deployment: Railway
+  * Procfile defines startup command
+  * railway.json for deployment config
+  * Environment variables: CFBD_API_KEY, OPENAI_API_KEY, FRONTEND_URL
+
+Frontend (Next.js):
+- Pages:
+  * Home - Landing page
+  * Rankings - Interactive table with season/week selectors
+  * Model - Feature importance charts, model info, performance metrics
+  * Chat - AI assistant interface
+  
+- Components:
+  * RankingsTable - Fetches and displays rankings with team logos
+  * FeatureImportanceChart - Visualizes feature importance
+  * ModelInfo - Displays model architecture and metrics
+  * Navbar - Navigation between pages
+
+- Deployment: Vercel
+  * Environment variable: NEXT_PUBLIC_API_URL
+  * Automatic deployments on push
+
+AI CHAT ASSISTANT (AGENTIC FEATURE)
+--------------------------------------------------------------------------------
+This is the "agentic" part of the project - an AI assistant that can answer 
+questions about the model.
+
+Implementation:
+- Backend endpoint: POST /api/chat
+- Uses OpenAI GPT-4o-mini API (cost-efficient model)
+- System prompt provides context about:
+  * The model architecture (XGBoost, 34 features)
+  * How rankings are generated
+  * What features mean
+  * How to explain predictions
+  
+- User sends message → API calls OpenAI → Returns response
+- Handles errors gracefully (missing API key, API failures)
+
+Why it's "agentic":
+- The AI agent has knowledge about the model and can reason about it
+- It can answer questions, explain rankings, compare teams
+- It acts as an intelligent interface to the model
+- Users can ask natural language questions instead of needing to understand 
+  the technical implementation
+
+Example interactions:
+- "Why is Team X ranked #5?"
+- "What features are most important for the model?"
+- "How does strength of schedule affect rankings?"
+- "Compare Team A and Team B"
+
+
+PERFORMANCE METRICS
+--------------------------------------------------------------------------------
+The model tracks performance across train/val/test splits:
+- RMSE (Root Mean Squared Error) - prediction error
+- R² Score - how well model explains variance (1.0 = perfect)
+- MAE (Mean Absolute Error) - average prediction error
+- Mean Error (bias) - whether model systematically over/under-predicts
+
+These metrics are available via the /api/model/metrics endpoint and displayed 
+on the Model page in the web app.
+
+
+DEPLOYMENT & PRODUCTION CONSIDERATIONS
+--------------------------------------------------------------------------------
+- Environment variables for API keys (never hardcoded)
+- CORS configuration for cross-origin requests
+- Error handling in API endpoints
+- File path handling works in both local and deployed environments
+- Model and data files are included in deployment
+- Frontend configured to work with production API URL
+
+
+TECHNICAL STACK
+--------------------------------------------------------------------------------
+Backend:
+- Python 3.8+
+- FastAPI (async web framework)
+- XGBoost (ML model)
+- Pandas/NumPy (data processing)
+- scikit-learn (metrics, utilities)
+- OpenAI API (chat feature)
+
+Frontend:
+- Next.js 16 (React framework)
+- TypeScript
+- Tailwind CSS
+- React hooks for state management
+
+Data:
+- College Football Data API (CFBD)
+- CSV files for data storage
+- JSON for rankings output
+
+
+POTENTIAL INTERVIEW QUESTIONS & ANSWERS
+================================================================================
+
+Q: Why did you choose XGBoost over other algorithms?
+A: XGBoost is excellent for tabular data with mixed feature types. It handles 
+   non-linear relationships, provides feature importance, and works well with 
+   the 34 features we have. It's also fast and handles missing values well. 
+   I considered neural networks but they're overkill for this problem size.
+
+Q: How do you prevent overfitting?
+A: Multiple strategies: (1) Regularization (L1/L2), (2) Tree depth limits 
+   (max_depth=5), (3) Subsampling (70% of rows, 90% of features), (4) Time-based 
+   train/val/test splits to test generalization, (5) Conservative learning rate 
+   with more trees.
+
+Q: What was the biggest challenge?
+A: Preventing lookahead bias. Initially I was using current-week opponent stats, 
+   which wouldn't be available at prediction time. I solved this by creating 
+   lagged opponent-adjusted features that use previous-week data.
+
+Q: How do you handle missing data?
+A: XGBoost handles NaN values, but I still fill them strategically: 0 for counts, 
+   median for continuous features. Early weeks may have missing preseason priors 
+   or stats for new teams, so the model needs to be robust.
+
+Q: Why exclude 2020 season?
+A: COVID-19 caused inconsistent schedules, cancelled games, and unusual 
+   circumstances that would hurt model training. It's better to skip it than 
+   include noisy data.
+
+Q: How does the AI chat assistant work?
+A: It's a wrapper around OpenAI's GPT-4o-mini API with a system prompt that 
+   provides context about the model. Users ask questions, and the AI uses its 
+   knowledge of the model (from the prompt) plus its general knowledge to answer. 
+   It can explain rankings, discuss features, and help users understand the model.
+
+Q: What would you improve?
+A: (1) Add more features (turnover rates, special teams), (2) Ensemble methods, 
+   (3) Real-time data pipeline for automatic weekly updates, (4) More sophisticated 
+   opponent adjustments, (5) Confidence intervals for predictions.
+
+Q: How do you evaluate model performance?
+A: Multiple metrics: RMSE for prediction error, R² for variance explained, MAE 
+   for average error, and bias (mean error) to check for systematic issues. I 
+   track these across train/val/test to ensure good generalization.
+
+Q: What's the business value?
+A: Provides objective, data-driven rankings that account for strength of schedule 
+   and advanced stats - not just win/loss records. Useful for media, betting, 
+   and fan engagement. The web app makes it accessible to non-technical users.
+
+Q: How do you ensure reproducibility?
+A: (1) Sequential script pipeline with clear inputs/outputs, (2) Version control, 
+   (3) Fixed random seeds where applicable, (4) Documented feature engineering 
+   steps, (5) Saved model files and training data.
+
+
+KEY TAKEAWAYS FOR INTERVIEWS
+================================================================================
+1. End-to-end ML project: data collection → feature engineering → model training 
+   → deployment → web application
+
+2. Production-ready: deployed API, frontend, error handling, environment config
+
+3. Thoughtful engineering: prevented lookahead bias, proper temporal handling, 
+   strategic feature engineering
+
+4. Full-stack skills: Python backend, React/Next.js frontend, API design
+
+5. AI integration: built an intelligent chat assistant using OpenAI API
+
+6. Real-world application: solves actual problem (CFB rankings) with practical 
+   considerations (weekly updates, social media graphics)
+
+7. Model interpretability: feature importance, metrics dashboard, explainable AI
+
+8. Clean architecture: modular pipeline, separation of concerns, maintainable code

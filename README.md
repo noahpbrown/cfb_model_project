@@ -2,6 +2,8 @@
 
 A comprehensive college football team rating system that combines linear least-squares ratings with an XGBoost machine learning model to produce weekly team rankings. The model uses advanced statistics, strength of schedule, preseason priors, and game-level résumé features to predict team strength.
 
+**Now includes a full-stack web application** for viewing rankings, exploring model details, and chatting with an AI assistant about the model.
+
 ## Overview
 
 This project builds a two-stage rating system for college football teams:
@@ -15,7 +17,7 @@ This project builds a two-stage rating system for college football teams:
    - Opponent-adjusted statistics
    - Game-level résumé features (wins, margins, quality wins)
 
-The final output is weekly Top 25 rankings with visual graphics suitable for social media.
+The final output is weekly Top 25 rankings with visual graphics suitable for social media, plus a web application for interactive exploration.
 
 ## Project Structure
 
@@ -33,12 +35,115 @@ cfb_model_project/
 ├── outputs/                 # Weekly ranking outputs
 │   ├── top25_*.json         # JSON payloads for rankings
 │   └── top25_*.png          # Rendered graphics
-└── scripts/                 # Python scripts (numbered by execution order)
-    ├── 01_fetch_games.py
-    ├── 02_build_ratings.py
-    ├── ...
-    └── render_top25_graphic.py
+├── scripts/                 # Python scripts (numbered by execution order)
+│   ├── 01_fetch_games.py
+│   ├── 02_build_ratings.py
+│   ├── ...
+│   └── render_top25_graphic.py
+└── web/                     # Web application
+    ├── backend/             # FastAPI backend
+    │   ├── app/
+    │   │   ├── api/         # API endpoints
+    │   │   │   ├── rankings.py
+    │   │   │   ├── chat.py
+    │   │   │   └── model/
+    │   │   │       └── explain.py
+    │   │   ├── models/      # Pydantic schemas
+    │   │   ├── services/    # Business logic
+    │   │   └── main.py
+    │   ├── requirements.txt
+    │   └── Procfile         # Railway deployment config
+    └── frontend/            # Next.js frontend
+        ├── app/
+        │   ├── page.tsx     # Home page
+        │   ├── rankings/    # Rankings page
+        │   ├── model/       # Model explanation page
+        │   ├── chat/        # AI chat page
+        │   └── components/ # React components
+        └── package.json
 ```
+
+## Web Application
+
+The project includes a full-stack web application for interactive exploration of rankings and model details.
+
+### Features
+
+- **Rankings Page**: View Top 25 rankings for any season and week with an interactive table
+- **Model Explanation Page**: Explore model architecture, feature importance, and performance metrics
+- **AI Chat Assistant**: Ask questions about the model, rankings, or college football statistics using OpenAI GPT-4o-mini
+
+### Running Locally
+
+#### Backend (FastAPI)
+
+1. Navigate to the backend directory:
+```bash
+cd web/backend
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Set environment variables:
+```bash
+export CFBD_API_KEY="your_cfbd_api_key"
+export OPENAI_API_KEY="your_openai_api_key"  # Required for chat feature
+export FRONTEND_URL="http://localhost:3000"  # Optional, defaults to localhost:3000
+```
+
+4. Run the server:
+```bash
+uvicorn app.main:app --reload
+```
+
+The API will be available at `http://localhost:8000` with interactive docs at `http://localhost:8000/docs`.
+
+#### Frontend (Next.js)
+
+1. Navigate to the frontend directory:
+```bash
+cd web/frontend
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Set environment variable (create `.env.local`):
+```bash
+NEXT_PUBLIC_API_URL=http://localhost:8000
+```
+
+4. Run the development server:
+```bash
+npm run dev
+```
+
+The frontend will be available at `http://localhost:3000`.
+
+### API Endpoints
+
+#### Rankings
+- `GET /api/rankings/?season=2025&week=14` - Get Top 25 rankings for a specific season and week
+- `GET /api/rankings/weeks?season=2025` - Get list of available weeks for a season
+
+#### Model Information
+- `GET /api/model/info` - Get model architecture and hyperparameters
+- `GET /api/model/feature-importance` - Get feature importance rankings
+- `GET /api/model/metrics` - Get model performance metrics (RMSE, R², MAE) for train/val/test splits
+
+#### Chat
+- `POST /api/chat/` - Chat with AI assistant about the model (requires `OPENAI_API_KEY`)
+
+### Deployment
+
+- **Backend**: Deployed on Railway (configured via `Procfile` and `railway.json`)
+- **Frontend**: Deployed on Vercel
+- CORS is configured to allow requests from the frontend domain and Vercel preview deployments
 
 ## Data Pipeline
 
@@ -101,7 +206,7 @@ The project follows a sequential pipeline where each script builds upon previous
 ### Stage 5: Model Training
 - **`09_train_rating_model.py`**: Trains XGBoost model
   - Train/Val/Test split: 2019,2021,2022 / 2023 / 2024
-  - Uses 29 features (see feature list below)
+  - Uses 34 features (see feature list below)
   - Output: `models/xgb_rating_model.json`
 
 - **`09b_tune_model.py`**: Hyperparameter tuning (optional)
@@ -128,7 +233,7 @@ The project follows a sequential pipeline where each script builds upon previous
 
 ## Model Details
 
-### Features Used (29 total)
+### Features Used (34 total)
 
 **Meta:**
 - `games_played`: Number of games played through this week
@@ -199,7 +304,7 @@ The project follows a sequential pipeline where each script builds upon previous
 - **Train**: 2019, 2021, 2022 seasons
 - **Validation**: 2023 season
 - **Test**: 2024 season
-- **Evaluation Metrics**: RMSE, R²
+- **Evaluation Metrics**: RMSE, R², MAE
 - **Note**: 2020 season is intentionally skipped (COVID-19 disruption)
 
 ## Setup
@@ -207,19 +312,29 @@ The project follows a sequential pipeline where each script builds upon previous
 ### Prerequisites
 
 - Python 3.8+
+- Node.js 18+ (for web application)
 - CFBD API key (get one at [collegefootballdata.com](https://collegefootballdata.com))
+- OpenAI API key (optional, required for chat feature)
 
 ### Installation
 
 1. Clone this repository
-2. Install dependencies:
+
+2. Install Python dependencies:
 ```bash
-pip install pandas numpy xgboost scikit-learn cfbd pillow requests
+pip install pandas numpy xgboost scikit-learn cfbd pillow requests fastapi uvicorn openai
 ```
 
-3. Set environment variable:
+3. Install Node.js dependencies (for web application):
+```bash
+cd web/frontend
+npm install
+```
+
+4. Set environment variables:
 ```bash
 export CFBD_API_KEY="your_api_key_here"
+export OPENAI_API_KEY="your_openai_api_key_here"  # Optional, for chat feature
 ```
 
 ## Usage
@@ -292,6 +407,8 @@ To add a new week of data:
    - Run `10_generate_weekly_ratings.py` with new season/week
    - Run `render_top25_graphic.py` to create graphic
 
+3. **Web application** will automatically pick up new JSON files from the `outputs/` directory
+
 ## Data Files Reference
 
 ### Game Files (`games_YYYY.csv`)
@@ -353,6 +470,7 @@ Array of team objects with:
 - **FBS Filtering**: Rankings only include FBS teams (varies by season)
 - **Lookahead Prevention**: Lagged opponent stats use previous-week data to avoid lookahead bias
 - **Missing Data**: XGBoost handles NaN values, but some features may be missing for early weeks or new teams
+- **Web Application**: The frontend expects ranking JSON files to be in the `web/backend/outputs/` directory (or symlinked from the root `outputs/` directory)
 
 ## Script Reference
 

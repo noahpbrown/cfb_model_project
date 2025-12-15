@@ -36,6 +36,8 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
+resumeinfo.txt  # text file with resume information
+
 # Data files (optional - you may want to include these)
 # Uncomment if you don't want to commit data files
 # data/*.csv
